@@ -1,5 +1,10 @@
 [
     {
+        "title": "**【美国】马斯克澄清特斯拉不强制员工使用自家AI模型，强调成本效益优先**",
+        "body": "埃隆·马斯克在社交媒体X上澄清，特斯拉并未强制员工无条件使用其自研的Grok 4.5模型，而是要求员工仅在Grok 4.5能解决具体任务时使用；若第三方模型表现更优，员工应继续使用竞争对手的产品。此前泄露的内部备忘录显示，特斯拉已对ChatGPT等第三方AI工具设定每周200美元的使用上限，并鼓励员工在可能的情况下转向使用Grok。尽管马斯克承认Grok 4.5在编程等基准测试中落后于Anthropic的Claude Fable 5，但他指出，对于大多数常规任务而言，Grok 4.5的运行成本（约0.13美元）远低于顶级模型（约1.57美元），因此从企业成本控制角度考虑，它仍是更具性价比的选择。\n\n链接: https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-does-not-agree-with-companies-who-want-employees-to-use-in-house-ai-models-says-you-should-continue-using-ai-models-developed-by-other-companies-if-/articleshow/132354589.cms",
+        "date": "2026-07-13 19:30:16+08:00"
+    },
+    {
         "title": "**【美国】哥伦比亚级核潜艇将采用全寿命周期反应堆，服役42年无需换料**",
         "body": "美国海军正加速建造旨在强化其海基核威慑力量的哥伦比亚级弹道导弹核潜艇。该级潜艇被视为最高采购优先项目，共计划建造12艘，首艇预计于2029年交付，以取代自20世纪80年代起服役的老化俄亥俄级潜艇。其内核工程突破在于采用了S1B型核反应堆，具备全寿命周期运行能力，可在长达42年的服役期内无需进行中途换料。这一设计将消除传统需耗时三年以上的换料大修过程，显着提升战备可用性，使12艘哥伦比亚级潜艇能够执行原需14艘俄亥俄级潜艇的任务，并在全寿命周期内节省超过400亿美元的操作与维护费用。此外，该潜艇采用电推进系统与泵喷推进器结合的设计，大幅降低了声学特征，增强了隐蔽性和生存能力，并将装备16枚“三叉戟”II D5LE潜射弹道导弹及Mk 48重型鱼雷，确保美国核三位一体中的生存性二次打击能力。\n\n链接: https://timesofindia.indiatimes.com/defence/international/uss-columbia-the-us-nuclear-submarine-built-to-run-42-years-without-reactor-refueling/articleshow/132364289.cms",
         "date": "2026-07-13 19:10:39+08:00"
