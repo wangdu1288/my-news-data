@@ -1,5 +1,20 @@
 [
     {
+        "title": "【沙特阿拉伯】胡塞武装威胁致沙特原油油轮在红海折返",
+        "body": "受也门胡塞武装威胁及中东冲突升级影响，两艘载有沙特原油驶往亚洲的油轮于周二在红海改变航向折返。此举进一步扰乱了通过红海和霍尔木兹海峡这两个关键能源信道的航运秩序。\n\n链接: https://www.reuters.com/world/middle-east/iranian-forces-target-bahrain-kuwait-after-us-hits-irans-south-2026-07-21/",
+        "date": "2026-07-22 03:43:53+08:00"
+    },
+    {
+        "title": "**【印度】受中东局势影响，印度二季度原油进口来源向俄罗斯和拉美转移**",
+        "body": "数据显示，在4月至6月的第二季度中，印度的原油进口结构发生显着变化。受美国及以色列袭击伊朗导致霍尔木兹海峡通行受限的影响，来自中东地区的原油进口量下降；与此同时，印度从俄罗斯和拉丁美洲的原油进口量则出现激增。\n\n链接: https://www.reuters.com/business/energy/indian-refiners-turn-russia-latam-oil-june-quarter-data-shows-2026-07-21/",
+        "date": "2026-07-22 03:46:31+08:00"
+    },
+    {
+        "title": "**【巴基斯坦】巴方拟向美方申请百亿美元外汇稳定基金以补充储备**",
+        "body": "据知情人士透露，巴基斯坦已向美国提出申请，请求获取100亿美元的外汇稳定支持机制。若该融资计划获得批准，将有效缓解巴国当前外汇储备紧张的局面，为其经济提供关键的资金支撑。\n\n链接: https://www.reuters.com/world/asia-pacific/pakistan-seeks-10-billion-us-backstop-facility-boost-reserves-source-says-2026-07-21/",
+        "date": "2026-07-22 03:51:17+08:00"
+    },
+    {
         "title": "**【巴西】美方以巴西Pix支付系统为由加征25%关税引争端**",
         "body": "美国贸易代表贾米森·格里尔将巴西中央银行运营的热门数字支付系统“Pix”列为贸易壁垒之一，并以此为依据为本周起生效的对巴西进口商品加征25%关税进行辩护。该表态引发美巴两国围绕Pix系统国际前景及贸易规则的激烈交锋。\n\n链接: https://www.reuters.com/business/finance/brazil-us-clash-over-future-payments-popular-pix-system-stirs-global-interest-2026-07-21/",
         "date": "2026-07-22 03:40:06+08:00"
@@ -4983,20 +4998,5 @@
         "title": "**【美国】攻击者串联利用两枚零日漏洞，SonicWall客户面临安全威胁**",
         "body": "网络安全厂商SonicWall近日披露并修复了两枚可被串联利用的零日漏洞（CVE-2026-15409与CVE-2026-15410），但攻击者早在三周前即已开始实战利用。这两枚漏洞主要影响SonicWall SMA1000系列设备，结合后可使攻击者从初始访问直接实现对系统的完全控制，研究人员指出其攻击目标极大概率为部署勒索软件。美国网络安全基础设施安全局（CISA）已将该漏洞列入已知被利用目录。SonicWall表示，受影响的设备在全球监控节点中占比极低（约5000台），公司已紧急推送补丁并开发缓解脚本协助用户排查，但警告仅依赖修补进程不足以确保安全，企业应默认系统已被入侵并进行深度调查。近年来，该公司产品屡遭零日漏洞攻击，此次事件再次凸显了活跃利用漏洞带来的严峻挑战。\n\n链接: https://cyberscoop.com/sonicwall-zero-day-vulnerabilities-exploited/",
         "date": "2026-07-16 03:30:23+08:00"
-    },
-    {
-        "title": "**【伊朗】伊朗首都德黑兰竖立巨型广告牌 画面显示特朗普躺于棺木中**",
-        "body": "伊朗近日在首都德黑兰设立了一块巨型广告牌，画面呈现美国总统唐纳德·特朗普躺于棺木中的景象。该广告牌附近另有一座雕像，刻画的是已故最高领袖哈梅内伊的拳头。据相关报道，哈梅内伊在美国与以色列对伊朗发动战争的初期遇刺身亡。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-unveils-huge-billboard-showing-trump-in-coffin?traffic_source=rss",
-        "date": "2026-07-16 03:31:39+08:00"
-    },
-    {
-        "title": "【英国】夏巴纳·马哈茂德有望出任财政大臣，市场反应积极",
-        "body": "英国首相候选人安迪·伯纳姆预计将任命内政大臣夏巴纳·马哈茂德为财政大臣，取代现任财政大臣蕾切尔·里夫斯。尽管党内存在关于任命埃德·米利班德的激烈争论，但考虑到米利班德可能引发市场担忧及被视为“高风险”选择，伯纳姆团队倾向于选择立场相对温和的马哈茂德。消息传出后，英镑汇率上涨，英国国债收益率小幅下降。马哈茂德上任后的首要任务将是制定应对生活成本危机的紧急方案，并准备秋季预算。\n\n链接: https://www.theguardian.com/politics/2026/jul/15/shabana-mahmood-andy-burnham-chancellor",
-        "date": "2026-07-16 03:32:54+08:00"
-    },
-    {
-        "title": "**【萨摩亚】萨摩亚总理在联合国大会发表讲话**",
-        "body": "萨摩亚总理图伊拉埃帕·萨伊莱莱·马利埃莱额奥伊在纽约曼哈顿举行的第71届联合国大会上发表讲话。\n\n链接: https://www.reutersconnect.com/item/prime-minister-tuilaepa-sailele-malielegaoi-of-samoa-addresses-the-71st-united-nations-general-assembly-in-new-york/dGFnOnJldXRlcnMuY29tLDIwMTY6bmV3c21sX0hUMUVDOU4xOUtSUk0?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMTc6bmV3c21sX0hQMUVEOUwxRDdBN1E&position=2",
-        "date": "2026-07-16 03:17:27+08:00"
     }
 ]
