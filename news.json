@@ -1,5 +1,15 @@
 [
     {
+        "title": "**【东盟】东盟高级外交官集会就中东局势表达严重关切**",
+        "body": "周二在东南亚举行的外交会议上，东盟各国代表对中东地区重新爆发的敌对行动表示“严重关切”。此次中东危机成为会议焦点，其带来的不确定性进一步加剧了该区域自身正努力管控的紧张局势与潜在冲突。\n\n链接: https://www.reuters.com/world/china/aseans-top-diplomats-meet-shadow-us-iran-conflict-2026-07-20/",
+        "date": "2026-07-22 03:54:31+08:00"
+    },
+    {
+        "title": "**【印度】联合国气候署长称印度为“太阳能超级大国”，清洁能源转型是其应对挑战之策**",
+        "body": "联合国气候变化框架公约执行秘书西蒙·斯蒂尔于2026年7月21日在印度表示，印度通过脱碳和电气化应对能源转型的技术与资金挑战，此举符合其自身利益并已获得公私资金支持。他称赞印度为“太阳能超级大国”，指出无化石燃料电源已占其安装电力容量的半数，提前五年实现这一里程碑，去年更节省180亿美元化石燃料购买费用。斯蒂尔强调，电网和储能是主要技术瓶颈，需国际协作解决；而在资金方面，适应气候变化领域的商业模式尚不成熟，气候融资至关重要。印度环境部长普拉迪普·贾伊瓦尔指出，印度在莫迪政府领导下不仅提前提交了更新的国家自主贡献（NDCs），且已成功实现相关目标。\n\n链接: https://www.thehindu.com/news/national/clean-energy-push-is-indias-answer-to-transition-challenges-un-climate-chief/article71249549.ece",
+        "date": "2026-07-22 04:02:47+08:00"
+    },
+    {
         "title": "【沙特阿拉伯】胡塞武装威胁致沙特原油油轮在红海折返",
         "body": "受也门胡塞武装威胁及中东冲突升级影响，两艘载有沙特原油驶往亚洲的油轮于周二在红海改变航向折返。此举进一步扰乱了通过红海和霍尔木兹海峡这两个关键能源信道的航运秩序。\n\n链接: https://www.reuters.com/world/middle-east/iranian-forces-target-bahrain-kuwait-after-us-hits-irans-south-2026-07-21/",
         "date": "2026-07-22 03:43:53+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【印度】马德拉斯高等法院将审理要求CBI调查议员受贿及“倒戈”案**",
         "body": "印度一名律师向马德拉斯高等法院提起公益诉讼，要求中央调查局（CBI）对TVK议员N. Elayaraja涉嫌收受3.5亿卢比贿赂一事进行全面调查，并同步审查其他执政党议员涉嫌“倒戈”换钱的投诉。诉状质疑地方警察局立案存在管辖权争议与政治干预嫌疑，强调案件需由中立中央机构重新彻查。该案由首席法官Sushrut Arvind Dharmadhikari与法官G. Arul Murugan组成的法庭定于2026年7月16日开庭审理。\n\n链接: https://www.thehindu.com/news/national/tamil-nadu/order-cbi-probe-in-tvk-mla-bribery-case-and-other-horse-trading-complaints-insists-a-pil-plea-before-madras-high-court/article71226577.ece",
         "date": "2026-07-16 03:35:43+08:00"
-    },
-    {
-        "title": "**【澳大利亚】一国党参议员因转发著名反犹涂鸦遭犹太团体强烈谴责**",
-        "body": "澳大利亚“一国党”参议员马尔科姆·罗伯茨在社交媒体上发帖称赞一幅著名的反犹涂鸦，称其为“所见最有力图片”。该涂鸦描绘了特征夸张的银行家与光明会符号，曾于2012年在伦敦引发争议并被拆除。此举遭到澳大利亚犹太社区代表及反诽谤委员会等组织的强烈谴责，指出其长期传播带有反犹隐喻的阴谋论。批评者呼吁其立即删除相关帖子并公开驳斥此类言论。尽管罗伯茨曾否认反犹立场，但截至目前尚未对此事作出直接回应。\n\n链接: https://www.smh.com.au/politics/federal/fresh-condemnation-for-malcolm-roberts-over-notorious-antisemitic-mural-post-20260715-p60fh4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-        "date": "2026-07-16 03:26:37+08:00"
-    },
-    {
-        "title": "**【美国】攻击者串联利用两枚零日漏洞，SonicWall客户面临安全威胁**",
-        "body": "网络安全厂商SonicWall近日披露并修复了两枚可被串联利用的零日漏洞（CVE-2026-15409与CVE-2026-15410），但攻击者早在三周前即已开始实战利用。这两枚漏洞主要影响SonicWall SMA1000系列设备，结合后可使攻击者从初始访问直接实现对系统的完全控制，研究人员指出其攻击目标极大概率为部署勒索软件。美国网络安全基础设施安全局（CISA）已将该漏洞列入已知被利用目录。SonicWall表示，受影响的设备在全球监控节点中占比极低（约5000台），公司已紧急推送补丁并开发缓解脚本协助用户排查，但警告仅依赖修补进程不足以确保安全，企业应默认系统已被入侵并进行深度调查。近年来，该公司产品屡遭零日漏洞攻击，此次事件再次凸显了活跃利用漏洞带来的严峻挑战。\n\n链接: https://cyberscoop.com/sonicwall-zero-day-vulnerabilities-exploited/",
-        "date": "2026-07-16 03:30:23+08:00"
     }
 ]
