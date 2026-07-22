@@ -1,5 +1,15 @@
 [
     {
+        "title": "**【美国】FCC通过卫星频谱许可流程简化改革**",
+        "body": "美国联邦通信委员会（FCC）今日批准了一项全面的卫星频谱使用许可流程改革，旨在通过“删除、删除、删除”原则大幅削减监管负担。该改革将传统许可流程转变为模块化处理的“许可流水线”，提高了申请效率和可预测性，并确立了明确的公共利益标准。尽管大部分措施是简化规则，但新规也增加了一项要求，强制卫星运营商共享空间态势感知数据以促进太空安全。商业航天联合会等行业协会对此表示欢迎，认为此举有助于维持美国的创新能力和太空优势。\n\n链接: https://breakingdefense.com/2026/07/fcc-approves-satellite-spectrum-license-streamlining/",
+        "date": "2026-07-23 03:49:40+08:00"
+    },
+    {
+        "title": "【澳大利亚】KPMG前合伙人被指霸凌举报人，引发审计丑闻进一步发酵",
+        "body": "澳大利亚四大会计师事务所之一毕马威（KPMG）的内部文档显示，触发该机构生存危机的匿名举报人曾拒绝调回澳大利亚，理由是其遭受了时任董事会成员金·劳里（Kim Lawry）的“霸凌和诽谤”。尽管毕马威此前调查认定相关指控缺乏证据，但最新披露的邮件揭示了举报人对劳里及公司多项管理问题的投诉。随着西太银行（Westpac）因避免干扰而要求撤换劳里负责其审计项目，以及监管机构ASIC发出警告，毕马威正面临更严重的信任危机，联邦与州政府也已暂停与其的新业务合作。\n\n链接: https://www.smh.com.au/business/companies/kpmg-whistleblower-refused-to-move-to-australia-fearing-alleged-bullying-20260722-p60hf0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "date": "2026-07-23 03:53:49+08:00"
+    },
+    {
         "title": "【澳大利亚】前ASIO线人签证被拒，恐无法在Bondi枪击案皇家委员会作证",
         "body": "一名曾向澳大利亚安全情报组织（ASIO）提供有关Bondi枪击案关键信息的前线人“马库斯”，因其访客签证申请被内政部以“缺乏真实临时停留意图”为由拒绝，导致他无法出席针对反犹太主义与社会凝聚力的皇家委员会作证。尽管皇家委员会迫切希望听取其涉及国家安全的机密证词，且多名联邦议员及吹哨人倡导者呼吁政府协助解决签证问题以确保公共利益，但该线人因身处海外且担忧法律保护和人身安全，难以通过远程方式参与听证。\n\n链接: https://www.abc.net.au/news/2026-07-23/visa-denied-for-source-ahead-of-bondi-commission/106946674",
         "date": "2026-07-23 03:36:59+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【美国】谷歌旗舰AI模型Gemini 3.5 Pro发布延期，技术未达内部预期**",
         "body": "据彭博社报道，谷歌母公司Alphabet旗下的旗舰人工智能模型Gemini 3.5 Pro因在编程等关键能力上未能达到内部目标，发布日期推迟至六月之后。这一延期引发了部分工程师和研究人员的担忧，因为竞争对手OpenAI和Anthropic近期相继发布了性能更强的模型或恢复了高级功能。尽管谷歌方面表示正在与合作伙伴测试升级版的Flash模型并积极推进政府合作，但消息公布后Alphabet股价下跌近3%。与此同时，行业竞争加剧，OpenAI推出了GPT-5.6，而Anthropic在解除美国出口管制限制后也重新开放了其高级模型。\n\n链接: https://www.channelnewsasia.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-reports-6259491",
         "date": "2026-07-17 03:31:53+08:00"
-    },
-    {
-        "title": "**【意大利】警方突击搜查多家奢侈品牌，调查供应链劳工剥削案**",
-        "body": "意大利警方近日对宝格丽、香奈儿、普拉达等多家奢侈品牌办公室展开突击搜查。此次行动由米兰检察官主导，旨在彻查这些品牌普遍采用的多层转包供应链模式是否涉及劳工剥削。调查指称，部分底层分包商涉嫌以恶劣条件雇佣中国工人。此前已有个别品牌因类似问题被临时司法接管，但在承诺加强供应链监管后相关措施已解除。\n\n链接: http://www.euronews.com/my-europe/2026/07/16/italian-police-conduct-raids-on-several-luxury-brands-in-labour-abuse-probe",
-        "date": "2026-07-17 03:20:25+08:00"
-    },
-    {
-        "title": "**【澳大利亚】联邦政府批准西澳海底采砂计划引环保组织强烈反对**",
-        "body": "澳大利亚联邦政府已批准由荷兰公司Boskalis提出的在西澳剑桥湾海底开采工业砂的计划，预计未来15年内将开采相当于2.8万个奥运标准游泳池体积的砂矿用于海外建设。该计划因作业区域与扁平背龟、鼠吻海豚及驼背海豚等濒危物种的重要栖息地和繁殖地高度重合，引发环保组织强烈反对。批评人士指出，该项目未获联邦及州环保机构的充分环境影响评估，联邦批准亦附带需提交并获批《环境管理计划》的前置条件。目前西澳环保署正审理相关上诉，环保团体呼吁州政府效仿新州与北领地，出台海底采矿禁令以保护金伯利海域生态。\n\n链接: https://www.smh.com.au/national/western-australia/the-plan-to-dig-up-28-000-olympic-pools-worth-of-sand-from-wa-s-seabed-20260715-p60fgo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-        "date": "2026-07-17 03:29:20+08:00"
     }
 ]
