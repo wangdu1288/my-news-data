@@ -1,5 +1,25 @@
 [
     {
+        "title": "【美国】特朗普集会上后方观众模仿其手势引关注",
+        "body": "2026年7月23日，在美国佐治亚州马里埃塔举行的一场竞选演讲中，一名坐在美国总统唐纳德·特朗普正后方的集会参与者因全程模仿总统标志性的手势和面部表情而成为全场焦点。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss",
+        "date": "2026-07-24 05:48:42+08:00"
+    },
+    {
+        "title": "【美国】威斯康星州警方街头枪杀男子引发抗议",
+        "body": "一段视频显示，美国威斯康星州一名警察在街头开枪射杀了一名男子，引发公众强烈愤怒。抗议者在事发地点集会，要求警方对此事给出解释。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/7/23/videos-show-the-moment-police-officer-shoots-man-on-street-in-wisconsin?traffic_source=rss",
+        "date": "2026-07-24 05:49:57+08:00"
+    },
+    {
+        "title": "【美国】Digital Realty上调年度FFO预测，受益于数据中心强劲需求",
+        "body": "美国数据中心巨头Digital Realty Trust于7月23日宣布上调其2026财年调整后运营资金（FFO）及全年营收预测。受云计算和生成式人工智能（AI）客户强劲租赁动力的驱动，该公司第二季度营收达19.2亿美元，同比增长29%，大幅超预期。此外，Digital Realty还计划以35亿美元现金及股票交易从黑石集团手中收购弗吉尼亚州北部三个数据中心的更大份额，以进一步巩固其在全球最大数据中心市场的地位。\n\n链接: https://www.channelnewsasia.com/business/digital-realty-raises-annual-ffo-forecast-robust-data-center-demand-6274666",
+        "date": "2026-07-24 05:51:11+08:00"
+    },
+    {
+        "title": "**【美国】社交媒体虚假声称奥巴马曾鼓励非法移民投票，事实核查予以辟谣**",
+        "body": "随着美国总统唐纳德·特朗普在中期选举前推动更严格的公民身份验证法律，社交媒体上出现虚假言论，称一段旧视频显示前总统巴拉克·奥巴马在2016年鼓励非法移民投票。经核实，该说法不实。这段被剪辑的视频出自拉丁裔媒体公司mitú的采访，奥巴马在采访中明确表示选民必须是公民，并强调投票是公民的权利。虽然他在回答关于移民担忧的问题时指出，只要依法登记投票，联邦执法机构不会因投票行为本身去追捕或驱逐其亲属，但他从未倡导非公民参与投票。美国联邦法律禁止非公民在联邦选举中投票，且多项研究证实非公民违规投票的情况极为罕见。\n\n链接: https://apnews.com/article/fact-check-obama-immigrant-illegal-vote-election-589b797402682b7aa6c8376bccc86e18",
+        "date": "2026-07-24 05:53:40+08:00"
+    },
+    {
         "title": "**【澳大利亚】中东局势推高油价破百，法国南部发生大规模火灾疏散**",
         "body": "中东紧张局势升级导致国际油价首次数月来突破100美元大关；澳大利亚总理阿尔巴尼斯出席富豪晚宴引发关注，同时AUKUS潜艇交付进度面临质疑。此外，麦格理集团首席执行官即将退休，法国南部因高温引发大火，逾两万人紧急撤离。\n\n链接: https://www.smh.com.au/national/australia-news-live-oil-prices-hit-100-for-first-time-in-months-tens-of-thousands-flee-wildfire-in-france-20260724-p60i4t.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
         "date": "2026-07-24 05:25:23+08:00"
@@ -4978,25 +4998,5 @@
         "title": "**【圣多美和普林西比】现任总统以独立候选人身份寻求连任，大选于紧张氛围中举行**",
         "body": "圣多美和普林西比于周日举行总统大选。现任总统卡洛斯·维拉·诺瓦脱离原执政党“民主行动党”（ADI），以独立候选人身份竞选第二个任期，主要对手包括该党议会领袖尼托·达布雷乌等四位候选人。此次选举伴随紧张的政治气氛与宪法危机，原执政党内部发生分裂，部分派系转而支持达布雷乌，而传统反对派则组成广泛联盟支持现任总统。选民普遍呼吁解决政府腐败、高通胀、青年失业以及能源供应不稳定等民生问题。作为几内亚湾重要的安全合作伙伴与石油资源国，该国正借此选举进一步巩固其民主声誉，欧盟及葡语国家共同体等国际观察团已全程监督投票。\n\n链接: https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
         "date": "2026-07-19 12:25:09+08:00"
-    },
-    {
-        "title": "**【印度】低成本微型AI设备可通过蚊鸣声精准识别致命病媒蚊**",
-        "body": "澳大利亚卧龙岗大学印度分校副教授Kiran Trivedi团队研发出一种基于微型机器学习（TinyML）的低功耗检测设备。该设备仅占用19KB存储空间，通过采集并分析蚊子翅膀振动的独特声波，能以88.3%的准确率区分携带疟疾、登革热和寨卡等致命疾病的蚊种与无害蚊种。与传统大型AI不同，该技术无需联网即可在微型芯片上独立运行，且能耗极低。研究者计划将设备量产成本控制在约7.5美元，未来可组建成城市级早期预警网络或集成至智能家居设备中，助力病媒传染病的前置防控。\n\n链接: https://www.smh.com.au/national/nsw/the-device-detecting-the-world-s-deadliest-creature-20260715-p60fm4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-        "date": "2026-07-19 12:15:06+08:00"
-    },
-    {
-        "title": "**【美国】新泽西州夫妇卧室惊现珍贵陨石：含生命起源关键成分**",
-        "body": "2024年7月16日，一颗小行星碎片穿过大气层后坠入美国新泽西州希尔斯伯勒一户人家的卧室。尽管NASA最初认为该物体无法抵达地面，但这块重约1.4公斤的CM型球粒陨石被房主小心翼翼地收集并保存。最新发表于《科学进展》的研究显示，该陨石含有复杂的有机分子和咸水活动的迹象，这些成分被认为是地球生命起源的关键。科学家推测，该陨石源自163号爱丽俄涅星，其 pristine（原始纯净）的状态得益于房主的及时保护，为研究太阳系早期历史及生命起源提供了宝贵样本。\n\n链接: https://www.smh.com.au/world/north-america/very-special-meteorite-that-crashed-into-couple-s-home-gives-up-its-secrets-20260716-p60fv3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-        "date": "2026-07-19 11:32:31+08:00"
-    },
-    {
-        "title": "**【新西兰】工党指控国家党放弃两党共识的性同意改革以将其作为竞选议题**",
-        "body": "在2026年大选背景下，新西兰工党指控国家党为竞选策略放弃了此前达成的两党共识性同意改革方案。该改革原拟将法律修改为要求“同意必须以明确口头方式表达”。目前双方正围绕此议题展开政治博弈，相关修法进程因此受到直接影响。\n\n链接: https://www.nzherald.co.nz/nz/politics/election-2026-national-to-define-what-sexual-consent-is-in-new-policy/FHFZXFILT5H6BDF57CTE6WKDLU/",
-        "date": "2026-07-19 11:12:07+08:00"
-    },
-    {
-        "title": "**【澳大利亚】澳中在太平洋地区展开外交与援助竞争**",
-        "body": "澳大利亚与中华人民共和国在太平洋岛国地区展开激烈竞争。继此前外交活动后，澳大利亚领导人访问所罗门群岛，与支持该国的新领导人共同宣布提供教育和警务援助。这一系列外交举措旨在加强澳大利亚在该地区的影响力，并与中国日益增长的外交存在形成直接竞争态势。\n\n链接: https://www.pressreader.com/canada/the-hamilton-spectator/20260718/281964614487549",
-        "date": "2026-07-19 10:37:17+08:00"
     }
 ]
