@@ -1,5 +1,20 @@
 [
     {
+        "title": "**【拉脱维亚】俄军空袭击中乌境内拉脱维亚名誉领事馆致6死数十伤，欧盟及波罗的海国家强烈谴责**",
+        "body": "拉脱维亚外交部长芭芭·布拉热证实，俄罗斯对乌克兰东部城市斯洛维扬斯克的袭击严重损坏了拉脱维亚名誉领事馆，造成至少6名平民死亡、数十人受伤。乌克兰总统泽连斯基确认此次袭击使用了制导航空炸弹，并强调拦截弹系统是当前最优先需求。欧盟理事会主席科斯塔及立陶宛、爱沙尼亚外长等欧洲领导人对此表示强烈谴责，称这是针对平民和外交设施的蓄意攻击，并重申将继续坚定支持乌克兰。\n\n链接: http://www.euronews.com/my-europe/2026/07/24/latvian-foreign-minister-confirms-consulate-in-ukraine-was-hit-by-deadly-russian-attack",
+        "date": "2026-07-24 22:01:02+08:00"
+    },
+    {
+        "title": "【美国】OpenAI推出Presence平台助力企业部署可靠AI代理",
+        "body": "OpenAI发布新产品Presence，旨在帮助企业在其客户服务及内部业务流程中部署和管理AI代理。该平台集成了策略制定、操作模拟、人工审批及安全护栏等工具，确保AI在复杂商业环境中既能实现自动化，又能保持对行为的严格控制。目前，Presence已应用于OpenAI自身的电话客服系统，成功解决了75%的进线问题，并吸引了BBVA、软银等多家企业进行试点测试。\n\n链接: https://www.eweek.com/news/openai-presence-enterprise-agents/",
+        "date": "2026-07-24 22:04:12+08:00"
+    },
+    {
+        "title": "**【美国】NANO Nuclear推进KRONOS核燃料系统概念设计，加速核能版图扩张**",
+        "body": "美国核电公司NANO Nuclear Energy宣布与法国工程集团Fortil合作，将其KRONOS模块化微型堆（MMR）项目的关键组成部分——燃料处理与储存系统的概念设计推向初步设计阶段。目前，该系统的概念设计工作已接近完成，旨在确保核燃料在运营期间的安全处理、储存和移动。此举紧随美国核管理委员会（NRC）正式受理位于伊利诺伊大学厄巴纳-香槟分校的全尺寸KRONOS反应堆施工许可申请之后，预计环境与安全评估将持续至2027年，初步建设可能于明年下半年启动。此外，NANO正通过收购Secured Transportation Services等方式积极扩展其核能价值链，已实现核物流业务收入，并参与了创纪录的高丰度低浓缩铀（HALEU）运输及与Supermicro等企业的战略合作，致力于推动下一代核反应堆及AI数据中心的发展。\n\n链接: https://www.zerohedge.com/energy/nano-nuclear-and-fortil-advance-critical-kronos-fuel-system",
+        "date": "2026-07-24 22:06:43+08:00"
+    },
+    {
         "title": "**【乌克兰】俄罗斯导弹袭击基辅州国防工业活动致10死近90伤**",
         "body": "周五，俄罗斯向乌克兰基辅州发射弹道导弹，击中一处正在举办国防工业活动的私人训练场。据乌克兰官员及行业代表称，此次袭击造成10人死亡，近90人受伤。乌克兰总统泽连斯基表示救援行动正在进行中，而乌克兰国防工业协会指出，该袭击发生时现场有乌克兰国防工业代表出席。\n\n链接: https://www.scmp.com/news/world/russia-central-asia/article/3361798/russian-attack-kills-10-ukraine-defence-event-almost-100-injured?utm_source=rss_feed",
         "date": "2026-07-24 21:51:39+08:00"
@@ -4983,20 +4998,5 @@
         "title": "**【印度】特伦甘纳邦部长谴责警方对赴议会抗议学生实施警棍殴打**",
         "body": "印度特伦甘纳邦运输及BC福利部长庞纳姆·普拉卡什发表声明，强烈谴责德里警方对和平前往议会抗议的学生与青年群体实施警棍殴打。他指出，NEET考试涉嫌违规已令数十万考生及家长陷入焦虑，学生本是在理性表达诉求，却遭到暴力回应。普拉卡什要求联邦教育部长达尔门德拉·普拉丹辞职，质疑莫迪总理在此问题上保持沉默，并呼吁撤销针对抗议学生的案件、追究施暴者责任，同时采取措施确保NEET考试的公开透明。\n\n链接: https://www.thehindu.com/news/national/telangana/telangana-minister-condemns-lathi-charge-on-students-and-youth-marching-to-parliament/article71244815.ece",
         "date": "2026-07-20 21:09:07+08:00"
-    },
-    {
-        "title": "**【英国】BAE系统公司发布新型头盔显示技术，助力飞行员指挥无人机群**",
-        "body": "在英国法恩伯勒航展上，BAE系统公司展示了名为“直觉计划”（Project Intuity）的头盔显示器原型机。该技术旨在将战斗机飞行员打造为“单人作战指挥中心”，通过在面罩上投射关键战场信息、集成头部追踪与三维音频提示，帮助飞行员在高数据密度的未来空战中高效筛选并指挥无人机编队协同作战。此举正值美国空军和海军积极推进有人机与无人机编队训练之际，反映了未来空战加速向人机协同方向演进的趋势。\n\n链接: https://www.defensenews.com/news/your-military/2026/07/20/as-fighter-pilots-prepare-to-command-drone-wingmen-bae-bets-on-new-helmet-tech/",
-        "date": "2026-07-20 21:10:20+08:00"
-    },
-    {
-        "title": "**【以色列】以色列航空航天工业公司推出“ELLYON”多任务电子侦察机**",
-        "body": "以色列航空航天工业公司（IAI）正式推出名为“ELLYON”的多任务空中平台。该机以商用公务机为机体改装，集电子攻击（雷达与通信干扰）、情报监视与侦察（ISTAR）及AI驱动的任务管理系统于一体，可在距敌方防线数百公里外安全执行任务。ELLYON能够单次任务中同步实施电子干扰与多维情报采集，并通过卫星链路将经机载AI实时处理后的情报数据直接传输至指挥中心与邻近作战单元，大幅缩短从发现威胁到采取行动的反应周期。此外，该平台采用通用化设计，可适配多种大型公务机机体，并配备自动威胁探测与电子防御套件。目前，IAI尚未披露已确认的采购客户或正式列装时间表。\n\n链接: https://defence-blog.com/iai-turns-a-business-jet-into-a-multi-mission-spy-plane/",
-        "date": "2026-07-20 21:12:53+08:00"
-    },
-    {
-        "title": "【美国】前美国空军部长强调模拟训练对创建人机信任及CCAs发展的关键作用",
-        "body": "前美国空军部长弗兰克·肯德尔表示，通过模拟和演习积累实战经验是operators（操作员）与协同作战飞机（CCAs）之间创建信任的关键。他肯定了近期YFQ-44A无人机进行的实弹测试及超视距打击演练成果，并指出在“红旗”演习中引入CCAs将极具价值。肯德尔认为，尽管初期可能面临挫折，但操作员普遍认为CCAs能拯救生命，且现有模拟数据显示配备CCAs的一方在对抗中占据优势。他还提到，未来CCAs将逐步集成传感器和电子战能力，而中国也在发展类似自主系统，情报将在应对潜在的“CCAs对战”中发挥重要作用。美国空军第一阶段计划采购100至150架CCAs，长期目标为1000架。\n\n链接: https://www.defensenews.com/industry/techwatch/2026/07/20/trust-between-operators-ccas-starts-with-simulations-former-air-force-secretary/",
-        "date": "2026-07-20 21:14:09+08:00"
     }
 ]
