@@ -1,5 +1,15 @@
 [
     {
+        "title": "【日本】日澳等国谴责美国新关税措施",
+        "body": "日本和澳大利亚对美国日前以“现代奴隶制”为由对60个贸易伙伴加征的新关税表示强烈不满，称其“令人遗憾且毫无根据”。日本首相官邸发言人指出，日本产业贸易符合国际规则，并确认美方不会在原有协议基础上对日本额外加征关税。澳大利亚贸易部长唐·法雷尔强调堪培拉重视现代奴隶制问题，但认为新关税不公，承诺将游说美方取消所有针对澳商品的关税；副总理理乍得·马尔斯亦批评该决定“不合逻辑”。此外，韩国和新西兰也重申将遵守既有15%的关税协议，并拒绝美方关于强迫劳动的指控。\n\n链接: https://www.aa.com.tr/en/asia-pacific/japan-australia-call-new-us-tariffs-regrettable-unjustified-/4007748",
+        "date": "2026-07-25 05:06:46+08:00"
+    },
+    {
+        "title": "**【美国】多项法案聚焦AI监管：保护未成年人及老年人、评估VA系统性能及规范数据基建**",
+        "body": "本周美国国会提出并推进了多项与人工智能相关的立法草案。主要内容包括：众议员米勒-米克斯提出《对话式AI服务法案》，要求聊天机器人向未成年用户披露其AI身份，禁止诱导过度使用及生成不当内容；众议员墨菲提出法案，要求对退伍军人事务部（VA）使用的AI系统进行独立性能评估；参议员华纳推出涵盖基础设施、竞争安全及国家安全的AI综合政策框架；两党议员共同提出《FRONTIER法案》，旨在创建联邦统一的AI治理标准，防止国家级风险并禁止各州单独设立实质性监管义务；此外，还有针对老年人聊天机器人保护的法案、禁止在联邦土地上建设AI数据中心的提案，以及通过多项关于联邦采购流程改革的法案。\n\n链接: https://www.nextgov.com/policy/2026/07/tech-bills-week-regulating-chatbot-child-communication-ai-va-and-more/415003/",
+        "date": "2026-07-25 05:10:20+08:00"
+    },
+    {
         "title": "**【美国】Argent LNG获准向与美国有自由贸易协定的国家出口液化天然气**",
         "body": "美国能源部已授权Argent LNG公司从其在路易斯安那州拟建的出口终端向与美国签有自由贸易协定的国家出口液化天然气。这一关键联邦批准的获得，为该开发商推进项目的最终投资决策提供了重要支持。\n\n链接: https://www.reuters.com/business/energy/argent-lng-wins-us-approval-exports-nations-with-free-trade-agreements-2026-07-24/",
         "date": "2026-07-25 04:53:58+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【美国】三星联手巴克莱推出首张美国联名信用卡，深化金融服务布局",
         "body": "三星电子于7月20日宣布与美国巴克莱银行合作，推出首张面向美国市场的联名信用卡“Samsung Galaxy Card”。该卡由巴克莱发行并依托Visa网络运作，用户可通过Samsung Wallet完成申请、账户管理及奖励兑换等全流程操作，并提供三星产品消费5%返现及多项其他奖励。此举标志着三星旨在通过集成数字钱包与金融服务，直接挑战苹果在美国支付市场的主导地位，并预示着其未来将拓展更广泛的金融业务合作。\n\n链接: https://www.channelnewsasia.com/business/samsung-launches-first-us-credit-card-barclays-signals-ambitions-deeper-financial-services-push-6266611",
         "date": "2026-07-21 05:39:06+08:00"
-    },
-    {
-        "title": "**【美国】美法官批准Anthropic 15亿美元版权诉讼和解**",
-        "body": "美国旧金山联邦法官正式批准人工智能公司Anthropic与多名作者达成的15亿美元集体诉讼和解协议，这也是美国已知金额最大的版权案件和解案。原告指控Anthropic未经许可擅自使用大量盗版书籍训练其AI聊天机器人Claude。此次和解覆盖超48万部作品中的92%以上，但部分作者和出版商选择退出并另行提起诉讼。该案也是美国近期数十起针对科技企业AI大模型训练的版权纠纷中，首例达成和解的重大案件。\n\n链接: https://www.channelnewsasia.com/business/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-6266596",
-        "date": "2026-07-21 05:40:27+08:00"
-    },
-    {
-        "title": "**【美国】美伊战争升级致数百名美国外交官处境不明**",
-        "body": "随着美伊冲突再次升级，美国国务院因伊朗袭击海湾国家而缩减相关人员编制，导致数百名美国外交官陷入进退两难的境地。目前尚不清楚这些外交官能否恢复正常业务工作。\n\n链接: https://www.npr.org/2026/07/20/nx-s1-5896220/the-war-in-iran-has-left-hundreds-of-u-s-diplomats-in-limbo",
-        "date": "2026-07-21 05:42:59+08:00"
     }
 ]
