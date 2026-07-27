@@ -1,5 +1,15 @@
 [
     {
+        "title": "【瓦努阿图】瓦努阿图拟将深海采矿讨论置于科学中心",
+        "body": "瓦努阿图希望在即将于牙买加举行的海底管理局会议上，推动将科学研究置于深海采矿政策讨论的内核位置。\n\n链接: https://www.publico.pt/2026/07/27/azul/noticia/vanuatu-quer-ciencia-centro-discussao-mineracao-fundo-mar-2183173",
+        "date": "2026-07-28 01:22:54+08:00"
+    },
+    {
+        "title": "【美国】微软在PowerPoint、Bing和OneDrive中用自研AI模型替代OpenAI技术",
+        "body": "微软宣布将逐步在其产品中使用自主研发的MAI技术来取代部分OpenAI图像模型，此举旨在降低成本并减少对外部技术的依赖。据称，这一调整已使相关服务运行速度加快，同时大幅削减了PowerPoint中的图像生成费用。\n\n链接: https://www.eweek.com/news/microsoft-replaces-openai-image-models-mai/",
+        "date": "2026-07-28 01:25:24+08:00"
+    },
+    {
         "title": "【巴西】中国、巴拉圭和帕劳批准巴西农产品出口市场开放",
         "body": "巴西农业与畜牧业供应部（Mapa）表示，中国、巴拉圭和帕劳已正式批准巴西相关产品的出口市场。其中，中国与巴西签署卫生协议，允许巴西牛胆结石出口；巴拉圭批准了活猪出口至屠宰场的国际卫生证书模型；帕劳则批准了牛肉、羊肉、山羊肉和猪肉的出口卫生证书模型。\n\n链接: https://minutomt.com.br/agro/abertura-de-mercados-para-produtos-brasileiros-na-china-no-paraguai-e-em-palau/",
         "date": "2026-07-28 01:10:08+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【南非】财政部拟解散主权基金董事会，加剧政治干预争议**",
         "body": "南非财政部部长戈东瓦纳宣布准备罢免副财政部长并解雇非洲最大资产管理机构——公共投资基金（PIC）的剩余董事会成员。这一举措将原本针对一笔不良私募股权交易的内部审计，升级为关于政治干预国家金融内核机构的激烈对抗。此前，PIC董事会因一笔2400万美元的交易瑕疵暂停了首席执行官达米尼的职务，引发内部动荡及董事辞职。戈东瓦纳以PIC唯一股东的身份发出正式通知，考虑解散整个董事会，此举也将剥夺其副手梅森多担任董事会主席的职务。与此同时，南非最大反对党提出法案，旨在切断PIC主席职位与政治的联系，以应对该基金过去十年频发的丑闻。\n\n链接: https://www.semafor.com/article/07/22/2026/south-africas-pic-crisis-escalates-as-fm-prepares-to-fire-deputy",
         "date": "2026-07-23 00:08:16+08:00"
-    },
-    {
-        "title": "**【美国】亚马逊削减通用人工智能部门岗位，聚焦内核业务**",
-        "body": "亚马逊于7月22日宣布在其通用人工智能（AGI）部门进行裁员，这是该公司自1月份大规模裁员以来的一系列小规模人员缩减中的最新举措。亚马逊发言人表示，公司多年来一直在开发大型AI模型，这仍是其最重要的工作之一；但为了更快地推进对客户最有价值的项目，必须“ sharpening focus”（收紧焦点），因此做出包括裁减AGI组织部分职位在内的艰难决定。此前，负责AGI的高管Rohit Prasad已于去年年底离职，AGI实验室负责人David Luan于今年2月离开，相关工作现已集成至高级副总裁Peter DeSantis麾下。尽管具体裁员规模尚不明确，但已有员工在论坛上证实受到裁员影响。\n\n链接: https://www.channelnewsasia.com/business/amazon-cuts-jobs-in-its-artificial-general-intelligence-group-6271376",
-        "date": "2026-07-22 23:49:24+08:00"
-    },
-    {
-        "title": "**【美国】民主党参议员因伦理条款不足反对加密货币监管法案**",
-        "body": "美国马里兰州民主党参议员安吉拉·阿尔索布鲁克斯誓言，除非共和党人加强立法中的道德规范条款，否则将反对众议院通过的加密货币监管法案。她批评草案中规定司法部为唯一执法机构的方案“荒谬且不严肃”，主张若司法部未能履职，应授权州总检察长介入执法。当前两党谈判进入关键阶段，尽管白宫已初步认可相关草案，但阿尔索布鲁克斯强调，鉴于此前特朗普总统被曝在任期内通过加密货币获利逾10亿美元所引发的利益冲突担忧，强化伦理保障是不可妥协的底线。\n\n链接: https://www.semafor.com/article/07/22/2026/democrat-alsobrooks-will-oppose-crypto-bill-absent-stronger-ethics-language",
-        "date": "2026-07-22 23:54:50+08:00"
     }
 ]
