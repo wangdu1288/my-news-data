@@ -1,5 +1,20 @@
 [
     {
+        "title": "【美国】Aerostar公司开发高空气球作为无人机母舰平台",
+        "body": "美国Aerostar公司近期测试了Lightning型高空气球搭载Apollo-R无人机的组合，并计划利用其Thunderhead平台发展为可携带多架无人机的“母舰”系统。该系统能在平流层持续驻留数日至数周，具备侦察、电子战、通信中继及攻击等多种能力，旨在为美军提供持久、灵活且具备生存力的分布式作战方案。\n\n链接: https://www.twz.com/news-features/aerostar-high-altitude-balloons-being-turned-into-drone-motherships",
+        "date": "2026-07-28 02:16:45+08:00"
+    },
+    {
+        "title": "【美国】Stripe拟以约100亿美元收购AI模型聚合平台OpenRouter",
+        "body": "据《华尔街日报》报道，金融科技公司Stripe正与AI模型路由初创公司OpenRouter进行收购谈判，交易估值可能高达100亿美元。该协议若完成，将显着加快Stripe在AI经济基础设施领域的布局，使该公司能够集成其现有的支付处理能力与OpenRouter的模型路由功能，从而控制AI计算交易的结算环节。目前谈判仍在进行中，存在变数，同时其他科技巨头也对这一平台表现出兴趣。\n\n链接: https://www.eweek.com/news/stripe-openrouter-10b-acquisition/",
+        "date": "2026-07-28 02:25:06+08:00"
+    },
+    {
+        "title": "【美国】美国海军“全球自主侦察艇”在环太平洋演习中击沉前佩莱利乌号两栖攻击舰",
+        "body": "美国海军确认，其开发的“全球自主侦察艇”（GARC）无人水面舰艇在2026年环太平洋军事演习（RIMPAC）的实弹沉靶训练（SINKEX）中，对已退役的前佩莱利乌号两栖攻击舰实施了自杀式攻击并成功将其击沉。此次行动标志着该型无人机首次参与实战化打击演练。\n\n链接: https://www.twz.com/sea/navys-garc-kamikaze-drone-boat-blew-a-hole-in-ex-uss-peleliu-during-sinking-exercise",
+        "date": "2026-07-28 02:26:21+08:00"
+    },
+    {
         "title": "【以色列】IWI的步枪升级系统ARBEL在俄乌近邻国家军队中引发关注",
         "body": "以色列武器工业公司（IWI）表示，其研发的ARBEL火控模块现已在约10至15个欧洲国家列装或进入采购流程。该系统并非新式武器，而是集成于标准AR-15步枪下机匣的电子控制组件，通过优化射手扣动扳机的时机，帮助步兵在发现目标后拦截小型战术无人机（尤其是FPV型号）。\n\n链接: https://defence-blog.com/iwis-rifle-upgrade-is-drawing-interest-from-armies-near-russia-and-ukraine/",
         "date": "2026-07-28 02:07:00+08:00"
@@ -4983,20 +4998,5 @@
         "title": "**【美国】参议院委员会通过拟限制中国汽车及关联品牌进入市场的法案**",
         "body": "美国参议院商务委员会于7月22日批准了一项加强政府禁止中国汽车制造商进入美国市场法律的法案。该法案规定，若企业超过15%的股权由中国实体持有，将被禁止在美国销售车辆。参议员特德·克鲁兹警告称，这一条款可能波及梅赛德斯-奔驰，因其在华投资比例近20%。参议员伯尼·莫雷诺表示，梅赛德斯-奔驰需遵守至2030年，但如有需要仍可申请豁免。\n\n链接: https://www.channelnewsasia.com/business/us-senate-panel-approves-bill-crack-down-chinese-vehicles-6271506",
         "date": "2026-07-23 00:52:22+08:00"
-    },
-    {
-        "title": "**【美国】南方电力子公司与OpenAI签署25年供电协议**",
-        "body": "美国佐治亚州埃文斯县，南方电力（Southern Co旗下子公司）与OpenAI正式签署为期25年的供电协议。根据协议，OpenAI将全额承担新数据中心的基础设施与电力服务费用，并在用电高峰期向电网反向输送最高1000兆瓦电力以提升系统可靠性。此外，该公司计划设立8000万美元社区投资基金，并提供7100万美元资助佐治亚州学生的编程学习。该项目预计将创造数千个就业岗位并带来数亿美元税收，反映了AI产业快速扩张背景下科技巨头与公用事业企业协同应对电网压力的新型合作模式。\n\n链接: https://www.channelnewsasia.com/business/southern-co-unit-signs-25-year-power-deal-openai-6271446",
-        "date": "2026-07-23 00:54:52+08:00"
-    },
-    {
-        "title": "【美国】科学家发现异常银河系行星系统引发命名与起源争议",
-        "body": "美国科学家宣布发现一个位于银河系内、与太阳系截然不同的异常行星系统。该系统由一颗红矮星、一颗棕矮星以及一颗围绕棕矮星运行的气态巨行星组成，后者质量至少为木星的90%。由于该天体既不同于太阳系中围绕行星运行的卫星，也不同于常规行星，其确切分类（如“系外卫星”）及形成机制目前尚存争议，研究团队认为这可能揭示了行星系统演化中复杂的动力学历史。\n\n链接: https://www.channelnewsasia.com/business/strange-milky-way-planetary-system-leaves-scientists-puzzled-6271426",
-        "date": "2026-07-23 00:56:06+08:00"
-    },
-    {
-        "title": "【法国】卢浮宫阿波罗画廊重开，皇冠珠宝被盗案调查仍在继续",
-        "body": "卢浮宫博物馆的阿波罗画廊于10月发生震惊世界的皇冠珠宝盗窃案后，近日重新对公众开放。该画廊已恢复其作为17世纪国家展厅的原始功能，不再设置展柜和珠宝陈列。目前被盗的八件法国皇冠珠宝（总价值约8800万欧元）仍未找回，此次盗窃案暴露了博物馆严重的安全漏洞，并导致时任馆长劳伦斯·德卡尔斯辞职。博物馆馆长克里斯托夫·莱里博表示，未被盗走的珠宝将很快移至一个专门设计的无窗金库中展出。\n\n链接: http://www.euronews.com/culture/2026/07/22/louvres-apollo-gallery-reopens-after-crown-jewels-theft-scandal",
-        "date": "2026-07-23 00:32:29+08:00"
     }
 ]
