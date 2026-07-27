@@ -1,5 +1,15 @@
 [
     {
+        "title": "【英国】巴勒斯坦行动组织五名成员遭控以恐怖主义罪名，法官拟在量刑时考虑“恐怖关联”",
+        "body": "五名“巴勒斯坦行动”组织成员因2024年8月在英格兰伯恩利破坏巴克莱银行分行窗户并投掷红色颜料被定罪，损失金额达21.2万英镑。法官菲利普·帕里表示将考虑其行为的“恐怖关联”，尽管陪审团与被告此前未被告知此可能性。被告指出，此类指控远超实际破坏行为，并质疑反恐立法被用于打压政治异议。人权组织及工党议员批评此举存在严重不公，并指出类似气候活动破坏案未被认定为恐怖主义。量刑定于9月4日进行。\n\n链接: https://www.theguardian.com/uk-news/2026/jul/27/palestine-action-activists-face-being-sentenced-terrorists-damage-barclays-bank-burnley",
+        "date": "2026-07-27 13:14:25+08:00"
+    },
+    {
+        "title": "【国际】研究发现主流AI聊天机器人引用欧盟制裁的俄罗斯宣传机构内容",
+        "body": "英国跨党派智库Demos发布的一项新报告指出，大型语言模型（LLM）存在被混合信息战渗透的风险。研究人员测试了包括Google Gemini在内的五家主流AI公司，发现所有模型均曾将已被欧盟和美国列入制裁名单的俄罗斯宣传组织“反对不公正基金会”（r-FBI）列为可信来源，并未经批判地传播其虚假叙事。这些叙事涉及乌军使用尸体制作肉制品等耸人听闻的内容，且部分模型未能向用户披露该组织为受制裁资产的事实，从而可能助长虚假信息传播。\n\n链接: http://www.euronews.com/my-europe/2026/07/27/ai-chatbots-citing-russian-propaganda-sourced-from-eu-sanctioned-outlet",
+        "date": "2026-07-27 13:15:44+08:00"
+    },
+    {
         "title": "【美国】美军被迫允许部分伊朗导弹突破防御系统",
         "body": "据NBC报道，美国军方因导弹库存告罄，正采取有选择性拦截策略，允许部分不威胁美军的伊朗无人机和导弹通过防御系统。此举导致部分伊朗袭击击中美军基地或废弃建筑，引发盟友担忧。此前战略与国际研究中心数据显示，美军在冲突初期已消耗过半“爱国者”导弹及“萨德”系统拦截弹。\n\n链接: https://www.zerohedge.com/geopolitical/us-military-intentionally-letting-some-iranian-projectiles-through-its-defenses",
         "date": "2026-07-27 13:06:04+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【美国】司法部宣布对亚利桑那州三县初选投票站实施监督**",
         "body": "美国司法部民权司宣布，为保障选举透明度、选票安全及联邦法律合规，将派员对亚利桑那州马里科帕、阿帕奇和皮马三个县的初选投票站进行监督。司法部与联邦检察官表示，统一的联邦选举监督是维护公众信任、保障合格公民投票权的关键举措。在2026年11月3日大选日前，民权司将持续受理公众关于可能违反联邦投票权法律的投诉，并可依申请评估是否在其他辖区开展监测工作。\n\n链接: https://www.justice.gov/opa/pr/justice-department-announces-monitoring-polling-sites-three-arizona-counties",
         "date": "2026-07-22 05:47:33+08:00"
-    },
-    {
-        "title": "**【美国】帕兰提尔援引《联邦采购简化法》抗议情报机构定制软件开发采购**",
-        "body": "美国软件公司帕兰提尔（Palantir）针对美国国防情报局（DIA）关于“高级技术分析系统”（ASTRA）的采购 solicitations 提起中标前抗议。该公司主张，DIA 拟通过 SITE III 合同进行定制软件开发违反了《1994年联邦采购简化法》（FASA）及《2009年国防授权法》，这两部法律均强制要求在满足需求时优先采购商业解决方案。帕兰提尔声称其拥有现成的商业产品可满足该要求，并指出情报部门未进行充分的市场调研。此举延续了帕兰提尔利用此类法律条款打破政府定制开发垄断、进入联邦市场的策略，此前该公司曾借此成功获得美军分布式通用地面系统（DCGS）项目。美国政府问责署（GAO）预计将于10月28日前做出裁决。\n\n链接: https://washingtontechnology.com/contracts/2026/07/palantir-invokes-its-favorite-law-again-time-against-dias-astra-solicitation/414917/",
-        "date": "2026-07-22 05:48:48+08:00"
-    },
-    {
-        "title": "**【美国】黑客组织“阿努比斯”声称对可口可乐旗下fairlife遭网络攻击负责**",
-        "body": "据华盛顿7月21日报道，黑客组织“阿努比斯”于周二在暗网宣称对可口可乐旗下乳制品企业fairlife遭受的网络攻击负责，称已窃取约1太字节（TB）数据，并威胁若不支付赎金将公开这些数据。可口可乐此前表示，受攻击影响fairlife位于美国的生产设施已暂时停产。网络安全分析指出，“阿努比斯”团伙以手段极具破坏性着称，曾被曝使用文档擦除软件加剧对受害者的打击。\n\n链接: https://www.channelnewsasia.com/business/gang-claims-responsibility-hack-coca-colas-fairlife-unit-6269146",
-        "date": "2026-07-22 05:36:06+08:00"
     }
 ]
