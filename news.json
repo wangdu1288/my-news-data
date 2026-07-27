@@ -1,5 +1,15 @@
 [
     {
+        "title": "【中国】警告美国勿对AI企业实施制裁",
+        "body": "周一，中国对美国最新关税提出克制抗议，未宣布报复措施，但就华盛顿拟对中国AI公司实施制裁采取更强硬立场。北京方面称，美方曾同意在贸易休战中将关税上限设在20%，分析人士指出新关税可能影响有限。同时，中方表示将采取“一切必要措施”反制美方以所谓窃取美国知识产权为由的惩罚威胁。此举凸显人工智能已成为超级大国经济博弈的内核议题，白宫甚至考虑禁止中国开源模型。\n\n链接: https://www.semafor.com/article/07/27/2026/china-warns-us-against-ai-sanctions",
+        "date": "2026-07-28 06:49:49+08:00"
+    },
+    {
+        "title": "【美国】微软推出AI安全工具Project Perception，称其性能更优且成本更低",
+        "body": "微软在旧金山正式发布名为“Project Perception”的AI驱动网络安全平台及代理模型MAI-Cyber-1-Flash。该公司声称，该产品结合了其内部安全能力，能在机器速度下优先处理威胁并保持人类控制，且在CyberGym基准测试中得分96%，比竞争对手高出12个百分点，同时运营成本仅为其他主流模型的一半。该项目将于8月3日进入公开预览阶段。\n\n链接: https://cyberscoop.com/microsoft-ai-cybersecurity-project-perception/",
+        "date": "2026-07-28 06:57:14+08:00"
+    },
+    {
         "title": "【阿根廷】米莱宣布与Starlink合作为6000所乡村学校提供卫星互联网",
         "body": "阿根廷总统哈维尔·米莱在布宜诺斯艾利斯举行的第138届国际畜牧、农业和工业博览会上宣布，国家通信局（Enacom）已与SpaceX旗下Starlink达成协议，将为6000所网络条件不佳或无网络的农村学校提供卫星连接服务。根据协议，Starlink将捐赠6000套完整的卫星设备并提供24个月的高容量服务，之后由监管机构承担一年的服务费用，相关资金来自电信行业的普遍服务基金。\n\n链接: https://en.mercopress.com/2026/07/27/milei-announces-starlink-deal-to-bring-satellite-internet-to-6-000-rural-schools?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
         "date": "2026-07-28 06:42:34+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【澳大利亚】KPMG前合伙人被指霸凌举报人，引发审计丑闻进一步发酵",
         "body": "澳大利亚四大会计师事务所之一毕马威（KPMG）的内部文档显示，触发该机构生存危机的匿名举报人曾拒绝调回澳大利亚，理由是其遭受了时任董事会成员金·劳里（Kim Lawry）的“霸凌和诽谤”。尽管毕马威此前调查认定相关指控缺乏证据，但最新披露的邮件揭示了举报人对劳里及公司多项管理问题的投诉。随着西太银行（Westpac）因避免干扰而要求撤换劳里负责其审计项目，以及监管机构ASIC发出警告，毕马威正面临更严重的信任危机，联邦与州政府也已暂停与其的新业务合作。\n\n链接: https://www.smh.com.au/business/companies/kpmg-whistleblower-refused-to-move-to-australia-fearing-alleged-bullying-20260722-p60hf0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
         "date": "2026-07-23 03:53:49+08:00"
-    },
-    {
-        "title": "【澳大利亚】前ASIO线人签证被拒，恐无法在Bondi枪击案皇家委员会作证",
-        "body": "一名曾向澳大利亚安全情报组织（ASIO）提供有关Bondi枪击案关键信息的前线人“马库斯”，因其访客签证申请被内政部以“缺乏真实临时停留意图”为由拒绝，导致他无法出席针对反犹太主义与社会凝聚力的皇家委员会作证。尽管皇家委员会迫切希望听取其涉及国家安全的机密证词，且多名联邦议员及吹哨人倡导者呼吁政府协助解决签证问题以确保公共利益，但该线人因身处海外且担忧法律保护和人身安全，难以通过远程方式参与听证。\n\n链接: https://www.abc.net.au/news/2026-07-23/visa-denied-for-source-ahead-of-bondi-commission/106946674",
-        "date": "2026-07-23 03:36:59+08:00"
-    },
-    {
-        "title": "**【美国】阿贡国家实验室寻求巨额私人投资以建设AI超级计算中心**",
-        "body": "美国阿贡国家实验室发起市场研究，旨在为建设位于伊利诺伊州勒蒙特的“国家创世任务超级计算创新中心”征集关于建设、运营及融资的方案。该中心将以人工智能为内核，支持能源部的“创世”创新使命。阿贡实验室计划避免主要依赖纳税人资金，转而寻求至少60亿美元的私人投资用于首期建设，并呼吁企业提供基础设施、软件及运营支持，同时欢迎各方就治理结构、用户访问模式及人才培养框架提出建议。相关反馈截止时间为8月21日美东时间下午4点。\n\n链接: https://washingtontechnology.com/contracts/2026/07/argonne-national-laboratory-seeks-help-resources-ai-supercomputing-center/414937/",
-        "date": "2026-07-23 03:38:46+08:00"
     }
 ]
