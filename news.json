@@ -1,5 +1,15 @@
 [
     {
+        "title": "【澳大利亚】福蒂斯丘创始人呼吁中澳公平谈判",
+        "body": "Fortescue集团创始人Andrew Forrest在珀斯举行的博鳌亚洲论坛分论坛上呼吁中国和中澳“始终公平谈判”。他强调了双边贸易对双方经济的互利作用，但近期中国矿业集团（CMRG）在铁矿石年度供应谈判中施加了阻力，包括限制部分钢厂采购特定产品。Fortescue是全球第四大铁矿石生产商，而澳大利亚是全球最大的铁矿石出口国。\n\n链接: https://www.reuters.com/world/asia-pacific/fortescue-chair-calls-fair-negotiations-with-china-2026-07-27/",
+        "date": "2026-07-27 14:29:40+08:00"
+    },
+    {
+        "title": "【英国】AI生成医生账号散布虚假健康建议引发安全担忧",
+        "body": "英国医学协会（BMA）警告称，TikTok平台上大量由人工智能生成的“医生”账号正在传播缺乏科学依据的健康建议，对公众安全构成严重威胁。研究显示，在热门健康类视频中，约40%的内容为AI生成或辅助制作，部分关键词下比例高达84%，这些视频平均获得250万次观看。相关机构指出，此类内容不仅传播微波炉加热塑料食物、使用除臭剂等会致癌的谣言，还推销如“Hyalethinap Plus Pro Max”等不存在的所谓抗衰老产品。尽管TikTok表示已移除有害信息并与WHO及NHS合作提供可靠资讯，但医疗专家强调需加强监管以防止虚假信息误导公众。\n\n链接: https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
+        "date": "2026-07-27 14:32:20+08:00"
+    },
+    {
         "title": "【印度】克什米尔萨姆巴和拉杰奥里地区因疑似巴基斯坦无人机活动展开搜捕行动",
         "body": "印度安全部队于7月27日在查谟和克什米尔邦的萨姆巴（Samba）和拉杰奥里（Rajouri）地区沿国际边界（IB）和实际控制线（LoC）启动搜捕行动，此前夜间发现疑似巴基斯坦无人机活动。军方在萨姆巴南德普尔（Nandpur）及拉杰奥里诺谢尔区塔尔昆迪-萨伊（Tarkundi-Saaj）附近加强监控，并联合警方及相关部门对空投毒品或武器进行搜索，目前尚未有发现或逮捕报告。近期该区域无人机活动频繁，安全机构已强化边境反制措施。\n\n链接: https://www.thehindu.com/news/national/search-operations-under-way-after-suspected-pakistani-drones-movement-in-jammu-and-kashmirs-samba-rajouri/article71271465.ece",
         "date": "2026-07-27 14:22:12+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【澳大利亚】ABC负责人披露Anthropic愿付费获取数十年内容以训练Claude模型**",
         "body": "澳大利亚广播公司（ABC）负责人休·马克斯近日透露，人工智能公司Anthropic希望付费获取该机构数十年的广播与影视档案内容，用于训练其Claude聊天机器人。马克斯在媒体行业论坛上表示，面对拥有庞大资金实力的科技巨头，传统媒体在知识产权授权谈判中处于显着弱势，强调权威新闻内容与品牌声誉不应被视为免费资源，科技公司必须为长期积累的数字资产提供合理经济补偿。\n\n链接: https://www.smh.com.au/business/companies/abc-boss-says-anthropic-wants-to-pay-for-decades-of-content-to-train-its-claude-chatbot-20260722-p60hef.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
         "date": "2026-07-22 07:24:37+08:00"
-    },
-    {
-        "title": "**【英国】一名从刚果（金）撤离的埃博拉潜在暴露人员正在伦敦医院接受隔离监测**",
-        "body": "英国卫生安全局表示，一名在刚果民主共和国从事人道主义工作的英国居民因可能接触埃博拉病毒，已被单独包机紧急撤离至伦敦专科医院。该人员目前无任何症状且身体状况良好，将在埃博拉2至21天的潜伏期内由传染病专家实施严格隔离监测。英方强调，英国境内暂无埃博拉确诊病例，对公众健康风险仍然较低。此外，世卫组织已于上月将刚果（金）与乌干达的埃博拉疫情宣布为国际关注的突发公共卫生事件。\n\n链接: https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-        "date": "2026-07-22 06:50:59+08:00"
-    },
-    {
-        "title": "**【美国】专家警告美AI实验室成外国间谍新目标，反间谍能力滞后**",
-        "body": "美国情报界需投入更多资源保护本土人工智能企业免受外国间谍活动侵害，否则中国将利用窃取的美方专有AI技术加速其军事与经济发展。前政府官员向众议院情报委员会作证指出，自9·11事件以来，美国长期聚焦反恐导致在追踪中国渗透私企方面的反间谍工作严重滞后；目前，中国不仅通过传统手段窃取数据，更通过“蒸馏”操作秘密利用美国先进AI模型提升自身技术。尽管白宫已下令保护AI安全，但尚未创建类似量子技术领域的专项反间谍框架，且近期放宽对华高端芯片出口的政策进一步加剧了美方担忧。\n\n链接: https://www.nextgov.com/artificial-intelligence/2026/07/us-ai-labs-are-emerging-target-foreign-spies-experts-warn-congress/414927/",
-        "date": "2026-07-22 06:40:46+08:00"
     }
 ]
