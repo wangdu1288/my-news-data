@@ -1,5 +1,20 @@
 [
     {
+        "title": "【英国】克鲁肯科技任命贾斯汀·利特科为美国子公司首席执行官",
+        "body": "英国自主海事防御技术公司克鲁肯科技集团（Kraken Technology Group）已任命贾斯汀·利特科（Justin Litko）担任其美国子公司克鲁肯科技美国的首席执行官。利特科拥有超过二十年的国防、情报及商业领域经验，此前曾在美国陆军特种部队服役并退役，后任BlueHalo特别行动解决方案部门副总裁。他将负责监督该公司在美国市场的扩张与运营。\n\n链接: https://www.naval-technology.com/news/kraken-us-appoints-justin-litko-ceo/",
+        "date": "2026-07-29 00:30:08+08:00"
+    },
+    {
+        "title": "【美国】L2 Aviation入选美国空军KC-46飞机维修合同",
+        "body": "美国空军宣布，L2 Aviation公司被选中成为KC-46商用飞机战略部件交换与维修（CASPER）多项授标合同的中标企业。该合同允许L2 Aviation参与波音KC-46A“天马”加油机的商业衍生部件的维修、更换、拆解、评估和保障工作，旨在支持其维护与战备目标。\n\n链接: https://www.airforce-technology.com/news/l2-aviation-usaf-kc-46-suppo/",
+        "date": "2026-07-29 00:31:22+08:00"
+    },
+    {
+        "title": "【密克罗尼西亚】密克罗尼西亚海域二战沉船漏油危机凸显全球海洋污染风险",
+        "body": "2025年9月，密克罗尼西亚楚克泻湖发现一艘日本运输舰泄漏燃油，油污迅速波及沿岸村庄，当地宣布进入紧急状态并请求联合国援助。此次事件并非孤立——全球估计有8,500艘含潜在污染物的沉船沉睡海底，其中超3,800艘为一战及二战时期舰艇，总载油量高达15亿加仑（约2,270个奥运泳池容量）。海水腐蚀、气候变暖导致的强风暴与地震正加速舰体破损，引发突发性大规模溢油风险。专家警告，此类“生态定时炸弹”若不提前治理，可能彻底摧毁珊瑚礁、海龟栖息地及渔业资源；目前国际社会正推动通过水下无人机监测与跨国合作机制应对，但全面清理成本预估高达3400亿美元。\n\n链接: https://m.economictimes.com/us/news/at-least-8500-potentially-polluting-shipwrecks-are-rusting-on-the-ocean-floor-with-fuel-still-inside-leaks-in-micronesia-show-the-risk-that-one-storm-or-earthquake-could-unleash/articleshow/132679027.cms",
+        "date": "2026-07-29 00:38:02+08:00"
+    },
+    {
         "title": "【印度】安纳马莱大学教授获海藻基水过滤膜专利",
         "body": "印度安纳马莱大学副教授M. Arumugam获得了一项印度专利，题为“利用海藻制备纳米孔植物膜用于水超滤”。该研究由泰米尔纳德邦高等教育委员会资助，旨在提供一种经济且环保的水净化解决方案。这种由海藻制成的纳米孔膜能有效去除水中的离子、有机污染物、细菌、病毒和胶体颗粒，具有生物兼容性和功能性优势，对解决全球水资源短缺问题具有重要意义。\n\n链接: https://www.thehindu.com/news/national/tamil-nadu/annamalai-university-professor-secures-indian-patent-for-seaweed-based-water-filtration-membrane/article71276138.ece",
         "date": "2026-07-29 00:20:02+08:00"
@@ -4983,20 +4998,5 @@
         "title": "【斯里兰卡】斯里兰卡海军逮捕9名涉嫌非法捕捞的印度渔民",
         "body": "2026年7月22日，斯里兰卡海军逮捕了9名来自印度拉梅斯沃勒姆的渔民，指控其在卡奇提夫岛附近海域进行非法捕捞。警方已将涉事渔船及人员带至塔莱曼纳尔的斯里兰卡海军营地。据悉，目前共有18名拉梅斯沃勒姆地区的渔民被关押在斯里兰卡监狱中。\n\n链接: https://www.thehindu.com/news/national/tamil-nadu/nine-indian-fishermen-from-rameswaram-arrested-by-sri-lankan-navy/article71254678.ece",
         "date": "2026-07-23 21:46:05+08:00"
-    },
-    {
-        "title": "【美国】司法部拟以破坏财产罪起诉使用隐私操作系统的Cop City抗议者",
-        "body": "美国司法部正试图依据一项联邦法律，以“销毁财产以阻止扣押”罪名起诉亚特兰大居民Sam Tunick。Tunick因手机安装了开源隐私操作系统GrapheneOS并在边境检查时输入密码清空设备，被指控与反对警察训练中心“Cop City”的运动有关。专家担忧此举将开创先例，把用于保护隐私的技术工具刑事化，并可能传递“使用该软件即有罪”的错误信号。目前法官将在10月底前对是否排除相关证据作出裁决。\n\n链接: https://www.theguardian.com/us-news/2026/jul/23/cop-city-protester-phone",
-        "date": "2026-07-23 21:34:42+08:00"
-    },
-    {
-        "title": "【意大利】佛罗伦萨开设意大利首家数字成瘾干预中心",
-        "body": "意大利佛罗伦萨宣布将开设名为“Discover”的专门中心，旨在应对社交媒体成瘾及数字技术滥用问题，特别是针对10至25岁的青少年。该中心由托斯卡纳中部卫生局、佛罗伦萨市政府和Retesviluppo合作社共同推动，采取预防与引导并重的创新模式，通过提供咨询、工作坊及社交互动活动，帮助年轻人平衡线上与线下生活。此举不同于欧洲其他国家（如法国、英国等）近期推出的严格禁令或宵禁措施，意大利更侧重于促进对技术的有意识使用，而非单纯禁止。\n\n链接: http://www.euronews.com/health/2026/07/23/social-media-florence-opens-italys-first-centre-for-digital-addiction",
-        "date": "2026-07-23 21:37:18+08:00"
-    },
-    {
-        "title": "**【美国】Block发布开源协作平台Buzz，赋予AI代理独立身份与权限**",
-        "body": "美国金融科技公司Block（Square母公司）发布了名为Buzz的开源工作协作平台，旨在取代Slack等传统工具。该平台基于去中心化协议Nostr构建，内核创新在于将AI代理视为具有独立加密身份和权限的“同事”，而非仅仅是辅助工具。Buzz支持人类员工与AI代理在同一频道内共同讨论、审查代码及执行自动化工作流，且由于采用开源模式（Apache 2.0许可证），企业可自由修改、自托管或接入不同的AI模型，从而避免被单一供应商锁定。\n\n链接: http://www.euronews.com/next/2026/07/23/forget-slack-and-teams-your-next-work-chat-could-come-with-ai-co-workers",
-        "date": "2026-07-23 21:38:33+08:00"
     }
 ]
