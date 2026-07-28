@@ -1,5 +1,10 @@
 [
     {
+        "title": "【美国】Cursor推出649卢比印度AI订阅计划，SpaceX 600亿美元并购案等待收尾",
+        "body": "Cursor宣布在印度推出每月649卢比的本地化AI编码订阅服务“Cursor Start”，包含Composer 2.5和Grok 4.5模型等功能，以应对SpaceX 600亿美元并购案的收尾进程。该计划通过UPI等本土支付方式接受印度卢比，定价远低于全球标准的20美元Pro版，旨在利用印度庞大的开发者群体（超2700万）实现规模化扩张。Cursor亚太区负责人Simon Green表示，此举将内部架构成本降至每百万输入token仅0.5美元，既避免了亏损引流，又形成了持续优化算法的反馈闭环。尽管SpaceX收购将在第三季度完成，Cursor已在班加罗尔等地设立销售与政府事务团队，但Starlink在印度的商业部署因安全审查受阻，可能影响企业级采购。\n\n链接: https://www.eweek.com/news/apac-india-cursor-start-ai-coding-plan/",
+        "date": "2026-07-29 03:59:56+08:00"
+    },
+    {
         "title": "【巴勒斯坦】西岸采石场主在定居者袭击后呼吁特朗普干预",
         "body": "一名巴勒斯坦裔美国采石场主呼吁美国总统特朗普介入，称以色列定居者袭击了位于被占领西岸的采石场，纵火焚烧机器并攻击守卫。此次袭击发生在该地区发生多起致命定居者暴力事件数日后。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
         "date": "2026-07-29 03:50:00+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【印度】特里苏尔警方提议加强烟花安全规范以预防悲剧重演",
         "body": "针对4月Mundathikode烟花事故造成17人死亡一事，印度特里苏尔市警察局长在高等法院提交陈述，提出多项强化监管与安全标准的建议。措施包括严格执行《1884年爆炸物法》，对烟花制造和存储单位实施强制性联合检查、定期安全审计及铜制接地板安装；要求相关人员接受强制培训并限制工作时长以减少疲劳；扩大执法部门权限以打击非法生产，并拟加重对违规者及教唆者的惩罚，同时开展公众安全教育。\n\n链接: https://www.thehindu.com/news/national/kerala/mundathikode-fireworks-accident-thrissur-police-chief-proposes-stronger-regulations-safety-norms/article71258265.ece",
         "date": "2026-07-23 23:38:39+08:00"
-    },
-    {
-        "title": "【印度】选举诚信论坛敦促国家人权委员会调查选名删除问题",
-        "body": "公民社会组织“选举诚信论坛”（FEI）呼吁印度国家人权委员会（NHRC）介入调查，指控印度选举委员会（ECI）开展的“特别强化修订”（SIR）行动存在任意且歧视性地删除选民名单的行为。该论坛向NHRC主席提交请愿书，指出此次行动已导致近5200万人名被从选民名册中移除，其中西孟加拉邦约有910万人受影响。FEI声称，尽管许多符合条件的选民持有有效身份证明文档，但仍被排除在外，且穆斯林、孟加拉裔及其他少数族裔群体受到的影响尤为不成比例。论坛要求NHRC将此案作为正式投诉立案，举行公开听证会，并要求在独立调查完成前暂停进一步扩展SIR行动。\n\n链接: https://www.thehindu.com/news/national/karnataka/forum-for-electoral-integrity-urges-nhrc-to-probe-alleged-discriminatory-voter-deletions-under-ecis-sir-exercise/article71258508.ece",
-        "date": "2026-07-23 23:41:17+08:00"
     }
 ]
