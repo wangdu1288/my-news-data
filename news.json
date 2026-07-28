@@ -1,5 +1,15 @@
 [
     {
+        "title": "【美国】Coursera投资1亿美元支持吴恩达新AI教育公司LearnVector",
+        "body": "在线学习平台Coursera联合创始人吴恩达宣布创立人工智能教育初创企业LearnVector，并获得Coursera 1亿美元的投资。吴恩达认为AI将提高人类生产力而非取代白领员工，该公司旨在通过AI开发个性化课程帮助职场人士掌握新技能，预计将于明年年初推出首批课程。\n\n链接: https://www.channelnewsasia.com/business/coursera-backs-co-founder-andrew-ngs-new-ai-education-firm-100-million-investment-6284181",
+        "date": "2026-07-29 04:30:24+08:00"
+    },
+    {
+        "title": "【美国】最新民调显示：49%美国人表示理解民主社会主义者理念",
+        "body": "路透社/益普索的三日民调显示，49%的美国受访者表示理解民主社会主义政策，而47%表示不了解。此外，仅有27%的受访者认为民主社会主义者至少拥有一些好主意，51%则认为几乎没有好主意。\n\n链接: https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss",
+        "date": "2026-07-29 04:31:45+08:00"
+    },
+    {
         "title": "【台湾】Nvidia台北办公室遭搜查 员工因伪造商业文档被拘捕",
         "body": "台湾基隆地检署以涉嫌伪造商业文档为由，逮捕了Nvidia一名姓张的员工，并于7月24日搜查了其住所及位于台北的Nvidia办公室。这是台湾地区针对受限人工智能硬件非法运往中国调查以来，首次直接对该公司采取行动。目前该案共有七人被拘押，其中包括Super Micro Computer和Albatron Technology的人员。由于当地尚无直接禁止向大陆出口AI芯片的法律，检方主要依据《刑法》中关于伪造文书等条款进行调查。与此同时，美国司法部正就一起涉及价值约25亿美元Nvidia GPU服务器非法运华的案件对Super Micro高管提起刑事诉讼。\n\n链接: https://www.zerohedge.com/ai/nvidias-taipei-office-raided-taiwans-ai-chip-smuggling-dragnet-results-arrests",
         "date": "2026-07-29 04:12:38+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【美国】美国宣布对参与网络犯罪人员实施签证限制政策**",
         "body": "美国国务卿马可·鲁比奥周四宣布，美国将实施新的签证限制政策，旨在针对负责或参与网络犯罪及网络辅助犯罪的个人。鲁比奥在国务院发布的声明中补充称，此类人员的直系亲属也可能受到签证限制。\n\n链接: https://www.channelnewsasia.com/business/us-announces-visa-restriction-policy-people-complicit-in-cybercrime-6274101",
         "date": "2026-07-24 00:13:51+08:00"
-    },
-    {
-        "title": "【美国】Databricks深化与微软Azure合作，将更多采用自研芯片",
-        "body": "美国数据智能平台公司Databricks宣布扩大与微软的合作伙伴关系，预计合作将持续至2030年代。根据协议，Databricks将增加对微软Azure云平台的依赖以运行其内核业务，并提升对微软基于Arm架构的自研处理器Azure Cobalt的使用，以应对数据密集型和代理型AI工作负载。此举被视为微软Azure云业务的重要胜利，同时也将加深微软在生成式AI等产品中的集成能力。\n\n链接: https://www.channelnewsasia.com/business/databricks-expands-microsoft-azure-partnership-use-more-custom-chips-6274126",
-        "date": "2026-07-24 00:15:11+08:00"
-    },
-    {
-        "title": "**【巴布亚新几内亚】美军与巴新国防军圆满完成“塔米奥克打击26号”联合演习**",
-        "body": "美国陆军与巴布亚新几内亚国防军（PNGDF）已成功结束年度联合军事演习“塔米奥克打击26号”。此次演习旨在加强两国双边军事关系及战术互操作性，共有逾100名美军人员参与。演练内容覆盖巴新多个地区，包括在莫尔兹比港进行的参谋作业和军事警察培训、在莱埃举行的医疗行动与高层领导会晤，以及在韦瓦克开展的步兵战术机动训练。\n\n链接: https://www.postcourier.com.pg/us-army-and-pngdf-conclude-exercise-tamiok-strike-26/",
-        "date": "2026-07-24 00:19:07+08:00"
     }
 ]
