@@ -1,5 +1,15 @@
 [
     {
+        "title": "【巴勒斯坦】战地学生开设Flora冰淇淋店：以甜梦滋养希望，在苦难中为教育筹款",
+        "body": "2026年7月29日报道，加沙地带战火纷飞，一群巴勒斯坦学生在艰难环境中开设了一家名为“Flora”的冰淇淋咖啡店。他们通过经营这家店铺筹集大学学费并补贴家用，在长时间轮班、身体受伤和失去亲人的逆境中，将这家小店视为维持学业的生命线，同时也作为暂时逃离残酷现实的避风港。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss",
+        "date": "2026-07-30 04:36:39+08:00"
+    },
+    {
+        "title": "【澳大利亚】特朗普威胁对伊朗实施报复；阿尔茨海默病血液检测将变革早期诊断",
+        "body": "美国中东局势紧张，特朗普总统宣布将对伊朗发动报复性打击；澳大利亚即将迎来全球首款阿尔茨海默病血液检测技术，有望革新疾病早期诊断与治疗。\n\n链接: https://www.smh.com.au/national/australia-news-live-trump-flags-imminent-attack-on-iran-alzheimer-s-blood-test-to-transform-early-detection-20260730-p60jtv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "date": "2026-07-30 04:45:34+08:00"
+    },
+    {
         "title": "【美国】Meta下调年度资本支出预测 因AI基建投入增加",
         "body": "社交媒体巨头Meta Platforms周三调整了2026年年度资本支出（CapEx）预期，将区间收窄至1300亿至1450美元。公司正大力投资数据中心以扩大其人工智能计算能力，此举导致其股价在盘后交易中下跌约5%。\n\n链接: https://www.channelnewsasia.com/business/meta-narrows-annual-capex-forecast-ai-buildout-grows-6286786",
         "date": "2026-07-30 04:30:19+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【美国】Polymarket被曝利用“假资金”平台培训网红制造虚假投注以规避监管",
         "body": "据披露的内部视频显示，预测市场平台Polymarket曾通过名为“Fakecharts”的模拟平台，培训数十名社交媒体创作者进行虚假投注演示。该公司向创作者支付费用，要求他们使用假资金在仿冒网站上制造“获胜”假象，以此误导公众并吸引用户，同时刻意避开“赌博”等敏感词汇以规避法律风险。目前，包括美国监管机构在内的多方正对此类涉嫌欺诈性营销的行为展开调查，Polymarket也面临法国封禁及美国多州的法律威胁。\n\n链接: https://www.semafor.com/article/07/24/2026/internal-videos-show-how-polymarket-trained-creators-to-make-fake-bets",
         "date": "2026-07-24 23:26:13+08:00"
-    },
-    {
-        "title": "【马绍尔群岛】台外交盟友青年培训项目圆满结业",
-        "body": "台湾外交部次长吴志中出席在台北举行的外交盟友青年培训结业典礼。为期一个月的培训计划旨在深化台与友好国家的青年交流，马绍尔群岛及图瓦卢等国大使亦出席活动，期待未来能持续加强双边关系。\n\n链接: https://www.taiwantoday.tw/2/285400",
-        "date": "2026-07-24 23:08:32+08:00"
-    },
-    {
-        "title": "【中国】AI代理Kimi K3快速发现Redis漏洞并构建利用代码，引发安全担忧",
-        "body": "中国Moonshot AI开发的AI代理Kimi K3在27分钟内发现Redis内存损坏缺陷并构建出远程代码执行（RCE）利用工具，展示了AI在漏洞研究中的极速能力。Redis已发布补丁修复相关缺陷，但专家提醒该速度声明为自我报告且未经完全验证。此举促使企业立即审查Redis版本，撤销高危命令权限，并凸显了AI加速漏洞挖掘对网络安全防御带来的紧迫挑战。\n\n链接: https://www.eweek.com/news/moonshot-ai-kimi-k3-redis-rce-exploits-apac-china/",
-        "date": "2026-07-24 23:11:08+08:00"
     }
 ]
