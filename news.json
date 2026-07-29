@@ -1,5 +1,25 @@
 [
     {
+        "title": "【委内瑞拉】委内瑞拉炼油厂破败难复兴",
+        "body": "位于西部帕拉瓜纳炼油中心曾是委内瑞拉石油财富的象征，如今却因设备老化与维护缺失成为“丑陋锈迹斑斑”的遗迹，国家难以将其重新激活以将原油转化为燃料并创造出口收入。\n\n链接: https://www.reuters.com/business/energy/ugly-rusty-venezuelas-refineries-are-relics-that-will-be-hard-revive-2026-07-29/",
+        "date": "2026-07-29 19:20:08+08:00"
+    },
+    {
+        "title": "【欧洲】纵火调查缺乏统一标准 欧盟面临“情报缺口”",
+        "body": "尽管欧盟已创建覆盖卫星监测、跨境救援协调的先进野火应对体系，但在纵火案件的起因调查与责任认定上仍面临严重碎片化。由于各成员国刑法定义、侦查手段及数据报告方式存在显着差异，目前尚无统一的欧洲层面数据库来追踪故意纵火的动机与嫌疑人，导致在打击环境犯罪领域存在关键的情报盲区。\n\n链接: http://www.euronews.com/my-europe/2026/07/29/who-started-the-fire-inside-europes-arson-intelligence-gap",
+        "date": "2026-07-29 19:22:14+08:00"
+    },
+    {
+        "title": "【美国】美国海军陆战队第13远征部队部署轻型反无人机系统LMADIS",
+        "body": "美国海军陆战队第13远征部队（MEU）近日在加州海岸的“马金岛”号两栖攻击舰上正式列装并开展训练，使用名为“轻型海上防空一体化系统”（LMADIS）的反无人机平台。该系统基于两辆超轻型战术车辆（ULTV），由4名低空防空炮手操作，配备Skyview MPV-3传感器（探测距离达3000米）、RPS-62雷达和MFEW-D电子干扰器，可识别、追踪并干扰敌方无人机通信链路。LMADIS专为快速部署设计，适用于两栖作战环境，其机动性与隐蔽性优于重型系统，是当前美军应对低成本商用无人机威胁的内核解决方案之一。\n\n链接: https://defence-blog.com/u-s-marines-expand-counter-drone-capability-with-lmadis/",
+        "date": "2026-07-29 19:28:37+08:00"
+    },
+    {
+        "title": "【美国】陆军扩大战术无人机杀伤力训练",
+        "body": "美国陆军位于阿拉巴马州的富特·鲁克（Fort Rucker）“无人化高级杀伤力课程”（UALC）将每批量学员的实弹击靶演练次数从5次增加至12次，并引入了近身作战（CQB）战术场景。课程负责人罗伯特·加塔中尉表示，此举旨在通过更贴近实战的飞行与爆炸物操作训练（使用Shank 1.0消耗型无人机及C4炸药），弥补美军在低成本无人机战场应用方面的差距，提升部队的战术素养。\n\n链接: https://defence-blog.com/u-s-army-expands-tactical-drone-lethality-training/",
+        "date": "2026-07-29 19:29:50+08:00"
+    },
+    {
         "title": "【美国】苹果预计将迎来五年内最强的季度销售增长",
         "body": "由于苹果公司决定维持iPhone价格不变，其6月季度的销售增长预计将达到五年来的最高水平。尽管iPad和MacBook因AI数据中心建设导致的内存和存储芯片短缺而涨价，但iPhone的出货量仍增长了3%，市场份额接近五分之一。这一策略帮助苹果重新夺回全球最有价值公司的头衔，并推动股价年内上涨近25%。分析师认为，苹果的内核产品需求相对缺乏弹性，价格上调可能不会显着影响需求，但未来仍有可能面临市场压力。\n\n链接: https://www.channelnewsasia.com/business/apple-set-strongest-june-quarter-sales-growth-in-5-years-6285766",
         "date": "2026-07-29 19:10:11+08:00"
@@ -4978,25 +4998,5 @@
         "title": "**【澳大利亚】澳海军舰艇利用3D声呐技术为巴布亚新几内亚进行海底测绘**",
         "body": "澳大利亚皇家海军水文调查舰“李温号”（HMAS Leeuwin）近日从凯恩斯出发，执行为期一个月的区域水文调查任务，旨在支持巴布亚新几内亚政府的海图制作及航行安全。该舰搭载了Kraken Robotics公司的Katfish拖曳式合成孔径声呐系统，能够生成超高分辨率的3D海底图像。此次任务不仅提升了巴新水域的航海安全性，还通过实地指导，为巴布亚新几内亚国防部队人员提供了专业的技能培训与指导。\n\n链接: https://www.australiandefence.com.au/news/news/defence-surveys-png-sea-floor",
         "date": "2026-07-24 16:08:03+08:00"
-    },
-    {
-        "title": "【澳大利亚】检方上诉要求恢复涉嫌反以色列护士案中的争议视频证据",
-        "body": "澳大利亚新南威尔士州检方正向刑事上诉法院提出申请，要求推翻地区法院法官此前裁定排除一段网络聊天视频证据的决定。该视频记录了两名悉尼护士与以色列内容创作者在2025年2月的对话，检方指控二人发表威胁以色列民众的言论。法官此前认为该视频获取方式不当或非法，但检方辩称其证明力极高且案件性质严重，主张采纳该证据的益处大于非法获取的不利影响。被告方则强调隐私权受到侵犯。目前上诉法院已保留裁决，两名被告定于8月底出庭受审，并均否认指控。\n\n链接: https://www.smh.com.au/national/nsw/push-for-viral-video-of-alleged-anti-israeli-nurses-to-be-included-in-trial-20260724-p60i7v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-        "date": "2026-07-24 16:11:53+08:00"
-    },
-    {
-        "title": "【印度】涉嫌“旁遮普之子”组织成员美籍人士入境印度时在边境被捕",
-        "body": "印度警方于2026年7月23日宣布，在乌塔拉坎德邦与尼泊尔接壤的卢皮迪亚边境，拦截并逮捕了两名涉嫌加入“旁遮普之子”（Waris Punjab De）分离主义组织的男子。其中一人是印度公民维克拉吉特·辛格，另一人是为美国公民曼维尔·辛格·迪隆。警方指出，迪隆涉嫌通过尼泊尔非法入境以规避执法审查，另有三名协助二人非法入境的印度国民也被逮捕。目前，案件已在当地警察局立案，相关安全机构正在对嫌疑人进行进一步审讯。\n\n链接: https://www.thehindu.com/news/national/uttar-pradesh/wanted-waris-punjab-de-member-us-national-nabbed-while-entering-india-from-nepal/article71261104.ece",
-        "date": "2026-07-24 15:56:43+08:00"
-    },
-    {
-        "title": "**【波黑】波黑向土耳其采购10套KANGAL/ADL 100反无人机干扰系统**",
-        "body": "波斯尼亚和黑塞哥维那（波黑）与土耳其防务制造商ASELSAN签署新合同，正式采购10套KANGAL/ADL 100无线电频率干扰系统。该系统通过主动干扰敌机与控制端之间的遥控链路、视频传输及GPS/GLONASS卫星导航信号，实现对无人机的“致盲”而非物理击落。此举是波黑加强防空能力的一部分，继此前土耳其捐赠KANGAL FPV反无人机系统及提供400部军用无线电后，双方防务合作进一步深化，旨在提升波黑在复杂地缘政治环境下的自主防御水平。\n\n链接: https://defence-blog.com/bosnia-adds-10-more-turkish-anti-drone-jammers-to-its-arsenal/",
-        "date": "2026-07-24 15:59:01+08:00"
-    },
-    {
-        "title": "【荷兰】俄方公布残骸或为首次证实乌克兰使用荷兰制造巡航导弹",
-        "body": "俄罗斯社交媒体流传的导弹残骸照片可能构成荷兰Destinus公司制造的“Ruta Block 1”巡航导弹在实战中使用的物理证据。该导弹由荷兰生产，射程达300公里，旨在打击俄军补给线。尽管乌克兰方面此前已报道该武器投入服役，且荷兰承诺向乌提供700枚此类导弹，但此次残骸曝光若经确认，将标志着该武器从“传闻服役”到“视觉证实”的关键里程碑。\n\n链接: https://defence-blog.com/evidence-of-ukraine-using-dutch-built-cruise-missile-in-russia-emerges/",
-        "date": "2026-07-24 16:02:52+08:00"
     }
 ]
