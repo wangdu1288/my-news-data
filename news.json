@@ -1,5 +1,30 @@
 [
     {
+        "title": "【中国台湾】台企与美国Shield AI合作打造AI攻击艇，呼吁加快国防预算决策",
+        "body": "台湾无人机制造商Thunder Tiger与美国防务技术公司Shield AI于7月30日在大鹏湾联合展示了搭载Hivemind自主软件的“海鲨”系列无人快艇。双方于今年5月签署备忘录，将Shield AI的自主导航系统与Thunder Tiger的舰船平台结合，旨在应对乌克兰战争后无人机在现代军事战略中的内核地位。Thunder Tiger董事长陈冠儒特别强调，台湾作为四面环海的岛国，需通过无人化、集群化的AI系统构建不对称防御能力，并呼吁当局尽快明确国防预算与政策方向，以加速产业发展和供应链布局。\n\n链接: https://defence-blog.com/taiwan-teams-up-with-a-us-firm-to-build-ai-guided-attack-boats/",
+        "date": "2026-07-30 19:42:47+08:00"
+    },
+    {
+        "title": "【巴基斯坦】巴方称美伊谈判持续中 冲突在区域多国升级",
+        "body": "巴基斯坦外交部发言人表示，尽管美国对伊朗实施大规模空袭报复、中东局势在约旦、科威特和埃及等地进一步恶化，但美方与伊方仍在进行谈判，重点集中在霍尔木兹海峡局势及降低紧张程度上。\n\n链接: https://www.channelnewsasia.com/world/mediator-pakistan-says-us-iran-talks-still-ongoing-6287836",
+        "date": "2026-07-30 19:46:23+08:00"
+    },
+    {
+        "title": "【欧盟】欧委会发言人：ChatGPT和Roblox或将被纳入《数字服务法案》监管范围",
+        "body": "欧盟委员会发言人托马斯·雷尼耶表示，由于ChatGPT和Roblox的公布用户数量已超过《数字服务法案》（DSA）设定的阈值，这两家平台“很可能”被欧盟列入“超大型在线平台”名单。一旦列入，它们将必须遵守DSA规定的一系列规则和义务。\n\n链接: https://www.channelnewsasia.com/business/chatgpt-roblox-could-be-included-in-dsa-scope-eu-commission-spokesperson-says-6288506",
+        "date": "2026-07-30 19:47:38+08:00"
+    },
+    {
+        "title": "【菲律宾】美国签署3100万比索设施协议协助菲方防范恐怖威胁",
+        "body": "美国国务院反恐怖主义援助计划与菲律宾南三宝颜省于7月30日达成协议，将在帕加迪安市提供永久性执法训练设施，每年预计培训约2000名菲律宾国家警察及其他执法人员。该项目投资额约为3080万比索（约合3100万美元），旨在提升菲律宾应对恐怖威胁的能力，巩固两国在2026年建交80周年之际的安全合作关系。\n\n链接: http://www.globalsecurity.org/military/library/news/2026/07/mil-260730-pna01.htm",
+        "date": "2026-07-30 19:50:17+08:00"
+    },
+    {
+        "title": "【美国】OpenAI将向10万名学术研究者免费开放ChatGPT至2027年",
+        "body": "OpenAI宣布推出“ChatGPT for Academic Researchers”计划，将于2027年前为全球符合条件的学术机构研究人员提供免费的先进AI工具访问权限，包括GPT-5.6 Sol Pro、Codex及专属研究工作台。首批1万名研究人员（含美国高等研究院与法国巴黎高等师范学院）将从今年夏季起率先体验，随后逐步扩展至10万人规模。获批者将获得为期12个月的免费授权，支持单人创建最多五座位的工作区并邀请四名同机构协作成员，同时享受更高使用额度、更大上下文窗口及商业级安全保护等权益。该举措是OpenAI承诺投入超2.5亿美元支持外部科学研究的一部分，旨在推动AI在生命科学建模、文献分析及代码生成等科研场景中的深度应用，但模型权重与训练数据仍保持封闭状态以规避滥用风险。\n\n链接: https://www.eweek.com/news/openai-free-chatgpt-academic-researchers/",
+        "date": "2026-07-30 19:51:34+08:00"
+    },
+    {
         "title": "【美国】亚特兰大初创公司Askari Defense无人机拦截系统入围美军xTech|Adaptive Strike竞赛决赛",
         "body": "美国国防初创企业Askari Defense宣布，其研发的手持式无人机拦截系统“Rift Alpha”已入选美军xTech|Adaptive Strike反无人机技术竞赛的决赛阶段。该系统专为单兵设计，可针对1至2类小型低慢小无人机（重量低于25公斤），并已通过加州欧文堡国家训练中心的士兵实兵对抗测试。此次竞赛由美军xTech创新办公室主导，旨在加速将商业技术转化为实战能力，最终优胜者将获得后续合同或奖励。\n\n链接: https://defence-blog.com/small-atlanta-firms-drone-interceptor-advances-in-u-s-army-contest/",
         "date": "2026-07-30 19:33:42+08:00"
@@ -4973,30 +4998,5 @@
         "title": "【印度】贾坎德邦选民名册特别修订发现逾61万已故选民",
         "body": "印度贾坎德邦选举委员会数据显示，在该邦进行的选民名册特别修订（SIR）中，共发现614,639名已故选民。截至2026年7月25日，拉钦奇地区记录的已故选民数量最多，达71,990人。此次门对门走访覆盖了该邦2.64亿选民中的99.58%，另有约107万名选民因永久迁出无法收集表格。草案选民名册预计将于8月5日公布。\n\n链接: https://www.thehindu.com/news/national/jharkhand/jharkhand-records-more-than-six-lakh-deceased-voters/article71265589.ece",
         "date": "2026-07-25 18:00:34+08:00"
-    },
-    {
-        "title": "【德国】默茨政府重组遇阻，联合议会党团领袖称系“倒霉”",
-        "body": "德国总理弗里德里希·默茨欲更换交通部长帕特里克·施耐德却因继任者临时退出而陷入僵局。新任联合议会党团主席托尔斯滕·弗赖将此归咎于“倒霉”，并解释称此类情况在高层政治中难以完全避免。与此同时，前部长彼得·阿尔布莱希特批评对施耐德的处置方式令人愤怒，绿党则指责默茨采取“切香肠战术”分批重组内阁，认为此举缺乏专业性且不利于政府稳定。\n\n链接: https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-reax-frei-100.html",
-        "date": "2026-07-25 18:01:52+08:00"
-    },
-    {
-        "title": "【印度】德里警方称正在核实关于贾米亚学生被拘留的社交媒体传言",
-        "body": "针对社交媒体上流传的“贾米亚伊斯兰大学学生在参加Jantar Mantar抗议后返校时被德里警方拘留”的说法，警方表示目前尚无法确认。德里警方指出，7月24日晚在安全搜查中从不同地点拘留了约150人，目前正在对其身份和背景进行核实，需待细节审查完毕后方可释放。与此同时，德里警方在敏感区域加强了部署和安全检查，以维护社会秩序。\n\n链接: https://www.thehindu.com/news/cities/Delhi/social-media-posts-claim-jamia-students-detained-police-say-verification-under-way/article71265582.ece",
-        "date": "2026-07-25 17:49:31+08:00"
-    },
-    {
-        "title": "【澳大利亚】利率上调与油价飙升重创家庭预算，月支出平均减少450澳元",
-        "body": "经济咨询公司Polis Partners发布的报告显示，2026年第一季度，受储备银行两次加息及汽油价格突破每升2.50澳元的影响，澳大利亚家庭面临数十年来最严重的财务冲击。拥有按揭贷款和两辆汽车的典型家庭每月可支配资金平均减少450澳元，而非必需支出较2024-2025年的恢复水平大幅回落，实际购买力倒退至15年前。报告指出，低收入群体受到不成比例的打击，而高收入且无房贷的家庭相对免疫。专家警告，随着5月再次加息及中东局势紧张导致油价回升，家庭预算压力预计将在第二季度进一步加剧。\n\n链接: https://www.smh.com.au/business/the-economy/the-two-factors-that-cut-450-from-your-household-s-monthly-budget-20260723-p60hyu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-        "date": "2026-07-25 17:50:52+08:00"
-    },
-    {
-        "title": "**【中国】王毅呼吁尽快恢复海湾紧张局势对话 伊朗感谢中方和平努力**",
-        "body": "中国与伊朗外长在吉尔吉斯斯坦会晤，就中东及海湾地区紧张局势交换意见。中国外长王毅强调应通过对话协商解决分歧，恢复落实此前达成的备忘录共识，并妥善处理霍尔木兹海峡相关问题，坚决支持伊朗维护主权与安全。伊朗外长阿拉格齐重申伊朗愿通过谈判解决问题，感谢中国一贯客观公正的立场及为促进地区和平所作的努力，并希望中方继续发挥重要作用以缓解紧张局势。\n\n链接: http://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260725-globaltimes01.htm",
-        "date": "2026-07-25 17:53:17+08:00"
-    },
-    {
-        "title": "【美国】美军击毁企图突破封锁的伊朗港口货轮",
-        "body": "美国中央司令部（CENTCOM）宣布，其部队于7月25日清晨打击了一艘试图违反美国对伊朗港口封锁的油轮。发言人蒂姆·霍金斯船长表示，该船船员在多次无视警告并试图强行突破封锁后，美军向其引擎室开火，“瘫痪”了该船。此举标志着美国本月早些时候恢复的对伊朗港口的海上封锁行动取得进展，导致霍尔木兹海峡的通行船只数量降至近七周来的最低水平。\n\n链接: http://www.globalsecurity.org/military/library/news/2026/07/mil-260725-rferl02.htm",
-        "date": "2026-07-25 17:54:32+08:00"
     }
 ]
