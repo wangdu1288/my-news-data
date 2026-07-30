@@ -1,5 +1,10 @@
 [
     {
+        "title": "【澳大利亚】女子因拍摄司机种族歧视手势视频遭法律威胁",
+        "body": "澳大利亚黄金海岸一名女子杰西卡·罗伯森（Jessica Roberson）因在社交媒体上发布视频，记录了一名Provac Australia公司司机向其优步司机做出种族歧视手势的事件，近日面临该公司发出的停止侵权及下架视频的律师函。该公司指控该视频损害了其商业声誉并暗示企业存在种族主义行为，但事件发生后，该公司高管已公开为涉事员工致歉。\n\n链接: https://www.abc.net.au/news/2026-07-30/jessica-roberson-legal-threat-racist-road-rage-incident-provac/106966510",
+        "date": "2026-07-30 08:35:47+08:00"
+    },
+    {
         "title": "【美国】伊朗战争加速空军KC-135加油机关键通信升级",
         "body": "美国空军高层官员表示，近期在伊拉克军事行动期间发生的致命坠机事故促使美军加快了KC-135加油机的战场态势感知与通信系统升级。自3月两架KC-135发生非战斗原因导致6名机组人员丧生的事故后，空中机动司令部将“实时驾驶舱信息”（RTIC）和Link 16安全网络接入列为首要任务，目前 fleet 中大部分飞机已完成相关改造，旨在提升作战环境下的生存能力、任务成功率及指挥控制性能。\n\n链接: https://www.defenseone.com/defense-systems/2026/07/iran-war-accelerated-key-tanker-connectivity-upgrades-top-air-force-officials-say/415109/",
         "date": "2026-07-30 08:25:42+08:00"
@@ -4993,10 +4998,5 @@
         "title": "**【美国】OpenAI总裁称模型蒸馏是技术问题，已部署防御系统**",
         "body": "OpenAI总裁格雷格·布罗克曼表示，尽管中国公司通过“蒸馏”技术提取顶尖AI模型引发美国政府对国家安全的担忧并可能招致制裁，但解决这一问题的根本途径在于技术手段。OpenAI已创建包含机器学习和人工审查在内的系统，以识别并防止用户通过评分、提取推理过程或生成合成数据进行模型蒸馏的行为。此外，布罗克曼反驳了开源模型因价格低廉而构成威胁的观点，强调所有模型均运行于相同硬件之上；他指出OpenAI正通过布局芯片和数据中心等硬件业务构建竞争壁垒，致力于成为任何任务中最具成本效益的模型提供商。\n\n链接: https://www.semafor.com/article/07/24/2026/openais-brockman-says-distillation-is-a-technical-problem",
         "date": "2026-07-25 01:26:23+08:00"
-    },
-    {
-        "title": "【印度】两名马哈拉施特拉邦警察因强奸低种姓未成年女孩被捕",
-        "body": "据警方消息，印度中央邦博帕尔的两名警察宪兵Santosh Sen和Jitendra Singh因涉嫌绑架并强奸一名达利特（低种姓）未成年女孩而被逮捕。案件发生于7月22日，受害者于次日向贾汉吉拉巴德警察局报案。警方依据《保护儿童免受性侵犯法》（POCSO）、《预防暴行法》以及新刑法典相关条款立案调查。目前嫌疑人已被拘捕，受害者健康状况良好。\n\n链接: https://www.thehindu.com/news/national/madhya-pradesh/two-mp-police-constables-arrested-for-raping-minor-dalit-girl-in-bhopal/article71262423.ece",
-        "date": "2026-07-25 01:19:38+08:00"
     }
 ]
