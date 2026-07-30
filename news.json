@@ -1,5 +1,15 @@
 [
     {
+        "title": "【国际】LLMs存在根本性缺陷 无法完全抵御攻击",
+        "body": "研究人员在国际机器学习大会（ICML）发表论文指出，大语言模型因工作原理的根本性缺陷而无法实现完全安全。研究团队通过实验发现，攻击者只需伪造文本风格即可欺骗模型，使其执行越狱操作或提供危险指令，这种“链式思维伪造”攻击已被证明可绕过OpenAI、Anthropic及DeepSeek等主流模型的防御机制。研究者强调，由于该问题源于模型对角色标识的本质性误解，任何训练手段均无法彻底解决，且随着AI在关键领域的部署，潜在风险正在扩大。\n\n链接: https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+        "date": "2026-07-30 18:52:46+08:00"
+    },
+    {
+        "title": "【新加坡】新加坡研发机构将推进“最有希望”埃博拉疫苗临床试验",
+        "body": "位于新加坡的Hilleman Laboratories宣布，将与流行病防范创新联盟（CEPI）合作，推进基于rSV平台的Bundibugyo型埃博拉疫苗研发，使其进入人体临床试验阶段。该疫苗被视为对抗刚果民主共和国致命疫情“最有希望的候选方案”，且有望在普通冰箱中保存数月，便于部署到偏远地区。此次公告距离牛津大学研发的同类疫苗仅一周时间，目前刚果已出现第3大规模埃博拉疫情，确诊超3000例，死亡近1500人。\n\n链接: https://www.channelnewsasia.com/singapore/singapore-ebola-vaccine-hilleman-laboratories-merck-bundibugyo-6288361",
+        "date": "2026-07-30 18:57:56+08:00"
+    },
+    {
         "title": "【澳大利亚】新加坡企业租用私人巡逻船协助澳海岸警卫队",
         "body": "新加坡企鹅国际有限公司（Penguin International Limited）确认，其全资子公司POS Fleet已为澳大利亚边境力量提供四艘定制化的澳大利亚旗帜FLEX FIGHTER武装安保船只，以支持海上边境保护任务。该合作采用公私合营模式，由私营公司负责建造、拥有并运营设备，旨在弥补澳方自有船队因维护积压和人手短缺导致的巡逻能力不足问题。这些源自石油天然气行业标准的装甲船航速可达28节，续航力极强，目前全球已有超过100艘在役。\n\n链接: https://defence-blog.com/australia-is-renting-private-boats-to-help-guard-its-coast/",
         "date": "2026-07-30 18:51:28+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【缅甸】失踪罗兴亚族足球运动员家属担忧其已在海难中遇难**",
         "body": "缅甸罗兴亚难民Siraz Ullah的家属担心，这名24岁的足球运动员可能已在6月底驶往马来西亚的两艘疑似沉没船只中遇难。据联合国估计，这两起事故共导致约500名罗兴亚人失踪。Siraz因无法忍受缅甸国内的暴力迫害及孟加拉国难民营中的生活困境，冒险偷渡以追求职业足球梦想，但其家人最后一次联系他是6月22日。目前，关于船只是否被贩运集团劫持尚无确切消息，这一悲剧也反映了罗兴亚人在缅甸军政府与反叛武装冲突加剧背景下，为寻求生路所面临的高风险处境。\n\n链接: https://www.theguardian.com/global-development/2026/jul/25/family-of-missing-rohingya-footballer-fear-he-is-among-500-believed-dead-in-myanmar-shipwrecks",
         "date": "2026-07-25 17:29:01+08:00"
-    },
-    {
-        "title": "【印度】印度记者联盟强烈谴责针对报道学生抗议记者的袭击事件",
-        "body": "印度记者联盟（IJU）于2026年7月24日发表联合声明，强烈谴责在德里贾纳特曼塔等地发生的针对报道学生抗议活动记者的身体攻击和恐吓事件，认为这是对新闻自由的严重侵犯。该联盟指出，媒体人员不仅遭到部分抗议者针对，还面临安全部队使用警棍和弹丸枪等武力的威胁。鉴于有人员身着便衣执行任务导致身份难以辨认，IJU呼吁对此展开调查，并强调无论抗议者还是安保人员对记者的攻击都是反民主行为，同时敦促媒体机构反思以提升公信力。\n\n链接: https://www.thehindu.com/news/national/telangana/iju-condemns-attacks-on-journalists-covering-student-protests-seeks-probe/article71265587.ece",
-        "date": "2026-07-25 17:10:34+08:00"
-    },
-    {
-        "title": "**【印度尼西亚】印尼搜救队搜寻失踪快艇，艇上11名欧洲游客及2名船员失联**",
-        "body": "印度尼西亚搜救部门正在中苏拉威西省托米尼湾附近海域展开大规模搜救行动，寻找一艘于周五早上出发后失联的快艇。该快艇载有11名来自捷克、比利时、荷兰、德国和法国的欧洲游客，以及2名印尼船员。尽管已出动数十支搜救队伍、热成像无人机及潜水设备覆盖约300平方海里的水域，且气象预报显示天气总体晴朗，但救援人员仍面临强风和高达2.5米海浪的挑战，截至周六尚未发现任何踪迹。印尼当局表示，由于海上安全标准执行不严及船只超载等问题，此类海难事故在该群岛国家时有发生。\n\n链接: https://www.smh.com.au/world/asia/indonesian-rescuers-search-for-missing-speedboat-with-11-european-tourists-two-local-crew-20260725-p60ij5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-        "date": "2026-07-25 17:02:11+08:00"
     }
 ]
