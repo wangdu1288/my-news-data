@@ -1,5 +1,10 @@
 [
     {
+        "title": "【中国】Dell与DigitalOcean引入Moonshot AI Kimi K3模型拓展企业级AI部署方案",
+        "body": "戴尔数字平台与云服务商DigitalOcean宣布接入月之暗面Kimi K3大模型，通过Dell Enterprise Hub及DigitalOcean推理引擎提供本地化部署与云端管理服务。该2.8万亿参数混合专家架构模型支持百万token上下文窗口，企业可灵活选择自建基础设施或托管服务，以满足数据主权、定制化及敏感信息处理需求。此举标志着中国开源模型正加速进入全球企业级应用市场。\n\n链接: https://www.eweek.com/news/dell-digitalocean-kimi-k3-enterprise-ai/",
+        "date": "2026-07-31 08:18:52+08:00"
+    },
+    {
         "title": "【巴布亚新几内亚】道达尔与埃克森美孚拟对巴布亚液化天然气项目进行重大调整",
         "body": "巴布亚新几内亚总理詹姆斯·马拉佩表示，法国总统埃马纽埃尔·马克龙正在推动该国液化天然气项目operatorship的变更评估，道达尔和埃克森美孚正参与相关讨论。\n\n链接: https://www.upstreamonline.com/exclusive/totalenergies-and-exxonmobil-set-for-momentous-change-at-papua-lng/2-1-2022693",
         "date": "2026-07-31 08:05:43+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【美国】叙利亚总统沙拉阿称赞特朗普将叙从恐怖主义支持国名单中移除的决定",
         "body": "叙利亚总统艾哈迈德·沙拉阿在接受半岛电视台采访时表示，美国解除对叙经济制裁的影响有限，除非同时将叙利亚从美国认定的“支持恐怖主义国家”名单中移除。他指出，该列名已过时，严重制约了叙利亚的经济恢复进程。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss",
         "date": "2026-07-27 02:32:02+08:00"
-    },
-    {
-        "title": "**【英国】前议员安·威德科姆遭锤击遇害，政治暗杀疑云引发安全争议**",
-        "body": "英国前保守党大臣、现任改革党发言人安·威德科姆在其南英格兰住所内遭一名28岁男子持锤猛烈袭击致死。警方初步排除恐怖主义动机，但因受害者身份特殊且袭击具有针对性，反恐部门已介入调查，重点排查政治动机。该案引发了英国社会对政治暴力及网络环境毒化的高度担忧，改革党指责媒体与政客营造了“煽动性”的政治气候，而政府方面则回应称将重新评估对所有政治人物的人身保护措施，包括非议会席位人士。\n\n链接: https://www.tagesschau.de/ausland/europa/ann-widdecombe-mord-fragen-100.html",
-        "date": "2026-07-27 02:07:17+08:00"
     }
 ]
