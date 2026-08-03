@@ -1,5 +1,15 @@
 [
     {
+        "title": "【俄罗斯】俄驻新大使淡化间谍案 称新西兰不在俄情报重点",
+        "body": "俄驻新西兰大使斯坦尼斯拉夫·克兰斯近日将一起涉嫌间谍案称为“小案件”，并表示新西兰不在俄罗斯情报或外交政策的关注范围内。俄联邦安全局（FSB）此前在哈巴罗夫斯克逮捕了一名55岁俄公民，指控其为金钱向新西兰安全情报局（SIS）泄露信息，该男子现被以叛国罪羁押，可能面临终身监禁。克兰斯拒绝证实或否认SIS涉案，强调定罪需由俄法院裁决，并对新西兰部分舆论的过度反应表示遗憾，呼吁双方勿使双边关系进一步恶化。\n\n链接: https://www.1news.co.nz/2026/08/02/nz-not-in-focus-of-russian-intelligence-as-envoy-plays-down-spy-case/",
+        "date": "2026-08-04 04:20:54+08:00"
+    },
+    {
+        "title": "【美国】Palantir上调年度营收预期，政府与商业需求强劲",
+        "body": "美国数据分析和人工智能公司Palantir于8月3日宣布再次上调年度营收预期，反映出其软件在美国政府和商业客户中需求强劲。公司预计全年营收介于81.5亿美元至81.58亿美元之间，高于此前预期的76.5亿美元至76.62亿美元。受此消息影响，公司股价在盘后交易中上涨8%。Palantir首席执行官Alex Karp表示，公司业务正以前所未有的速度和规模增长。在现代战争和地缘政治不确定性的背景下，美国政府持续加大对先进国防技术的投资，Palantir的AI驱动战场软件及与Anduril合作开发的\"金穹顶\"反导盾牌项目均受益于此。第二季度财报显示，公司营收同比增长93%至19.4亿美元，调整后每股收益为41美分，均超预期。分析师预计第三季度营收将在21.6亿美元至21.64亿美元之间，高于市场平均预期的20亿美元。\n\n链接: https://www.channelnewsasia.com/business/palantir-raises-annual-revenue-forecast-strong-demand-us-government-commercial-customers-6296176",
+        "date": "2026-08-04 04:23:18+08:00"
+    },
+    {
         "title": "【乌克兰】泽连斯基解雇驻美大使斯特凡尼希娜",
         "body": "乌克兰总统泽连斯基周一发布总统令，解雇驻美大使奥尔加·斯特凡尼希娜。斯特凡尼希娜任职近一年，其离职已预期数周。此次人事变动与近期乌克兰高层官员调整同步，包括总理和国防部长的更换。预计乌克兰外交及大使任命也将进行改组。斯特凡尼希娜在社交媒体表示离职系\"个人原因\"，并称驻美任职是其\"一生最大荣誉\"，期间成功推动美国武器供应并维持政治支持。\n\n链接: https://www.scmp.com/news/world/europe/article/3362847/zelensky-dismisses-ukraines-ambassador-us-presidential-decree?utm_source=rss_feed",
         "date": "2026-08-04 04:16:48+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【英国】英国电网监管机构提议对数据中心接入电网收取预付款",
         "body": "英国能源和天然气市场办公室（Ofgem）提出，为缓解电力连接排队积压问题，数据中心项目需在获得连接承诺时支付高额预付款或提供财务担保。目前已有315个数据中心项目等待接入电网，总需求达73吉瓦，远超英国45吉瓦的峰值用电量。该措施旨在确保有限电网资源优先分配给最有可能落地的高价值项目，相关方案将进入公众咨询阶段。\n\n链接: https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem",
         "date": "2026-07-29 16:00:22+08:00"
-    },
-    {
-        "title": "【澳大利亚】澳选定Leidos Gibbs and Cox公司负责潜艇应急船坞初步设计",
-        "body": "澳大利亚政府已正式选定Leidos Gibbs and Cox公司，负责在西澳大利亚州创建支持未来核动力潜艇舰队的应急干船坞的初步设计工作。该设施是澳大利亚接收首艘弗吉尼亚级核潜艇的关键先决条件，旨在确保从2030年代初起能够自主进行关键维修与保养，并支撑印太地区的安全稳定。此次任命也是阿尔巴尼斯政府投资120亿澳元建设亨德森防务区计划的一部分，预计将为西澳创造一万个就业岗位。\n\n链接: https://www.minister.defence.gov.au/media-releases/2026-07-29/australia-advances-aukus-capability-dry-dock-design-appointment-0",
-        "date": "2026-07-29 15:41:29+08:00"
-    },
-    {
-        "title": "【澳大利亚】CISA联合多国发布关键基础设施运营技术隔离指导指南",
-        "body": "美国网络安全和基础设施安全局（CISA）与澳大利亚信号局、英国国家网络安保中心及加拿大网络安保中心等机构共同发布了《CI Fortify：隔离关键基础设施中关键系统和启用系统的建议》。该指导旨在帮助关键基础设施运营商应对日益升级的网络威胁，在遭遇网络攻击或地缘政治危机时，通过隔离操作技术（OT）系统来保障服务连续性。\n\n链接: https://www.cisa.gov/news-events/news/cisa-joins-australia-and-others-publish-guidance-isolate-operational-technology-and-enabling-systems",
-        "date": "2026-07-29 15:37:18+08:00"
     }
 ]
