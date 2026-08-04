@@ -1,5 +1,15 @@
 [
     {
+        "title": "**【加拿大】Moderna启动Bundibugyo埃博拉疫苗首次人体试验**",
+        "body": "Moderna宣布已开始针对Bundibugyo埃博拉病毒株的首个人体试验，该疫苗采用与新冠疫苗相同的mRNA技术。试验在加拿大三个地点进行，计划招募约80名健康成年人，以评估疫苗的安全性和免疫反应。目前刚果民主共和国的Bundibugyo疫情已造成3748例确诊和1657例死亡，为史上第二大埃博拉疫情。该项目由CEPI资助，若疫苗获批，Moderna计划向中低收入国家提供至少50万剂。\n\n链接: https://www.reuters.com/business/healthcare-pharmaceuticals/moderna-begins-first-human-trial-bundibugyo-ebola-vaccine-2026-08-04/",
+        "date": "2026-08-04 23:47:37+08:00"
+    },
+    {
+        "title": "**【沙特阿拉伯】X 成为最新一家在沙特当局要求下屏蔽持不同政见者账号的美国社交媒体平台**",
+        "body": "据英国《卫报》报道，埃隆·马斯克旗下的 X（前 Twitter）已成为最新一家遵从沙特当局命令、屏蔽沙特持不同政见者账号的美国大型社交媒体公司。自 7 月中旬以来，超过 60 个账号在沙特境内被地理屏蔽，用户无法查看相关内容。受影响者包括人权活动家亚赫亚·阿西里、流亡 activists 阿卜杜拉·阿劳德以及流亡学者和独立媒体人士等。X 向用户发送通知，称屏蔽内容是为了\"遵守沙特当地法律义务\"，并附上沙特法令称相关账号传播了\"破坏公共秩序、宗教价值观、公共道德或侵犯私人生活神圣性\"的材料。此前，Snapchat 和 Meta 的 Facebook、Instagram 等平台已采取类似行动。人权组织 ALQST 呼吁 X、Meta、Snapchat 和 YouTube 恢复对账号的访问并提供决策透明度。\n\n链接: https://www.theguardian.com/technology/2026/aug/04/x-twitter-blocks-dissident-accounts-saudi-arabia",
+        "date": "2026-08-04 23:50:11+08:00"
+    },
+    {
         "title": "【美国】INC勒索软件组织成为SonicWall零日漏洞攻击主要实施者",
         "body": "INC勒索软件组织是全球最活跃的勒索软件集团之一，在SonicWall两款零日漏洞（CVE-2026-15409和CVE-2026-15410）披露后，迅速成为利用这两个漏洞进行攻击的主要威胁行为体。该组织善于将两个漏洞结合使用，实现数据窃取和加密勒索。尽管Inc是披露后攻击浪潮的主要推动者，但研究人员指出并非所有攻击都可归因于INC。自6月22日以来，已有多个国家的组织和企业被列为INC的受害者，包括美国、澳大利亚、阿联酋、哥伦比亚和瑞士的机构。\n\n链接: https://cyberscoop.com/inc-ransomware-sonicwall-zero-day-attacks/",
         "date": "2026-08-04 23:41:16+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【美国】美联储维持利率不变引发市场动荡，油价因中东局势升级大幅上涨",
         "body": "2026年7月30日，美联储在分票决策中决定暂停加息，导致华尔街主要股指应声重挫；受中东地区导弹袭击影响加剧推动，国际原油价格单日飙升逾8%，突破关键心理价位。与此同时，澳大利亚股市期货市场开盘前跌势明显，ASX 200指数期货预计下跌0.7%，结束了此前连续三日的反弹态势。\n\n链接: https://www.abc.net.au/news/2026-07-30/asx-markets-business-live-news/106974038",
         "date": "2026-07-30 05:29:47+08:00"
-    },
-    {
-        "title": "【美国】阿贡国家实验室主任Paul Kearns将于2027年3月31日退休",
-        "body": "美国能源部下属的阿贡国家实验室宣布，其主任Paul Kearns将于2027年3月31日退休，结束近十年的任期。UChicago Argonne, LLC将负责在全球范围内寻找继任者。Kearns在任期间，主导了Aura超级计算机的部署、先进光源（APS）升级以及Q-NEXT量子研究中心的启动与续签，并推动实验室在人工智能、高性能计算及新能源领域的发展，提升了其国际地位。\n\n链接: https://www.executivegov.com/articles/paul-kearns-argonne-national-lab-retirement",
-        "date": "2026-07-30 05:17:37+08:00"
-    },
-    {
-        "title": "【美国】空军发布任务系统与自主权开放架构标准",
-        "body": "美国空军近日公布了支撑任务系统和自主软件的两个参考架构的技术标准。敏捷任务套件（AMS GRA）标准为模块化、供应商无关的设计提供指导，而自主权标准（A-GRA）则使自主软件能够在不同飞机之间移动。这两项架构将任务软件与安全关键的飞行系统分离，允许在不影响适航性的情况下更新任务能力，并消除了对专有系统进行多年重新设计的需求。\n\n链接: https://www.executivegov.com/articles/air-force-ams-gra-a-gra-open-architecture-standards",
-        "date": "2026-07-30 05:18:51+08:00"
     }
 ]
