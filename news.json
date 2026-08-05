@@ -1,5 +1,10 @@
 [
     {
+        "title": "【印度】特伦甘纳邦推出AI驱动紧急号码112，响应时间大幅缩短",
+        "body": "特伦甘纳邦于8月5日推出人工智能驱动的112紧急服务平台，由警察总监C.V. Anand在海得拉巴的集成指挥控制中心揭幕。该平台集成了警察、消防、救护车、妇女安全、儿童保护和灾害响应六大服务，实现统一接警。系统采用AI智能处理来电、精准定位和优先分级，可将平均处理时间从190秒缩短至133秒，紧急响应时间平均为10分30秒，远低于全国18分钟的平均水平。中心24小时运营，配备164名培训人员，同时完成了原Dial-100服务从GVK EMRI的迁移。\n\n链接: https://www.thehindu.com/news/national/telangana/telangana-rolls-out-ai-powered-emergency-number-112-slashes-response-time/article71308963.ece",
+        "date": "2026-08-05 18:36:20+08:00"
+    },
+    {
         "title": "**【美国】摩根大通CEO戴蒙牵头跨行业联盟应对AI风险**",
         "body": "摩根大通CEO杰米·戴蒙正推动成立一个跨行业组织，联合40余家覆盖金融、能源、水务、电信、航空和铁路等关键基础设施领域的企业，共同应对人工智能带来的安全风险。该倡议依托摩根大通参与创立的\"关键基础设施联盟\"（ACI）展开，旨在与特朗普政府协作，创建信息共享机制，识别并解决AI可能引发的网络安全漏洞。近期美国多地水务系统遭遇网络攻击，进一步凸显了跨行业合作的紧迫性。戴蒙此前曾警告称，高级AI模型如Anthropic的Mythos存在被滥用的风险，强调必须严格控制先进AI能力的获取。\n\n链接: https://www.channelnewsasia.com/business/exclusive-jpmorgan-ceo-dimon-leads-new-cross-industry-effort-tackle-ai-risks-6300796",
         "date": "2026-08-05 18:23:23+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【美国】Scale AI任命前谷歌云高管弗朗西斯·德索萨为新任首席执行官，以拓展其数据与AI应用业务",
         "body": "链接: https://www.channelnewsasia.com/business/scale-ai-taps-former-google-cloud-executive-ceo-6289006",
         "date": "2026-07-30 23:49:09+08:00"
-    },
-    {
-        "title": "【美国】美伊导弹互射 和平解决希望渺茫",
-        "body": "美国总统特朗普表示，伊朗冲突可能导致战争持续数周至数月，目前双方正在交换导弹袭击，燃料价格飙升，全球经济动荡。\n\n链接: https://www.stuff.co.nz/world-news/361013762/us-and-iran-trade-missile-barrages-hopes-dim-quick",
-        "date": "2026-07-30 23:50:24+08:00"
     }
 ]
