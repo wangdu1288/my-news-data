@@ -1,5 +1,25 @@
 [
     {
+        "title": "**【澳大利亚】设立首个国防研究中心强化国防科技创新**",
+        "body": "澳大利亚政府已成立首个国防研究中心，作为2024年国防创新、科学与技术战略的内核组成部分，旨在联合国防部门、工业界、高校及研究机构，加速国防研发并解决澳军面临的技术挑战。首批中心将于2025-26年启动，首个项目为\"作战能源转型国防研究中心\"。\n\n链接: https://www.army-technology.com/news/australia-defence-research-centre/",
+        "date": "2026-08-05 16:12:36+08:00"
+    },
+    {
+        "title": "【美国】Jetoptera退出DARPA重型无人机竞赛",
+        "body": "美国航空航天初创公司Jetoptera宣布退出DARPA的Lift Challenge竞赛，该竞赛旨在研发能够吊起自身重量四倍载荷的重型无人机。Jetoptera表示，DARPA近期更改了比赛规则，包括150英尺的飞行高度限制、在狭窄赛道上重复绕圈飞行，以及允许飞行员在飞行过程中抛弃用过的电池，这些变化引发了安全和责任方面的担忧。公司认为这些规则与其实用航空验证目标不符，因此决定退出即将在俄亥俄州代顿举行的决赛，转而前往俄勒冈州Pendleton的FAA无人机测试场，按照自己的节奏进行飞行测试。\n\n链接: https://defence-blog.com/jetoptera-quits-darpas-heavy-lift-drone-contest-before-finals/",
+        "date": "2026-08-05 16:16:27+08:00"
+    },
+    {
+        "title": "【印度尼西亚】M-346F战机采购将支持印尼发展有人-无人协同作战能力",
+        "body": "印尼宣布采购12架Leonardo M-346F Block 20轻型战斗飞机，预计2030年起交付，将替代现役Hawk战斗机中队。该机型配备AESA雷达和Link 16数据链，可执行雷达与数据链训练及防空巡逻任务，减轻高端战机的作战负担。印尼今年早些时候已成为土耳其Baykar Kizilelma无人战斗机的首个国际买家，GlobalData分析指出，同时采购这两款平台将为印尼实现有人机与无人机协同作战奠定基础，且两者均采用意大利航空电子标准，有利于系统集成。\n\n链接: https://www.airforce-technology.com/news/indonesia-m346f-deal-globaldata/",
+        "date": "2026-08-05 16:17:48+08:00"
+    },
+    {
+        "title": "【美国】Leidos获选为Golden Dome卫星提供红外传感器",
+        "body": "美国太空发展局（SDA）加速导弹防御第三批量（AMDT3）跟踪层项目中，Sierra Space选择Leidos为其18颗新型导弹预警与跟踪卫星提供经飞行验证的红外传感载荷及运营支持。该卫星群将组成\"金穹顶\"（Golden Dome）国家导弹防御计划的一部分，可在低地球轨道持续探测和追踪高超音速武器等先进导弹威胁。Leidos已在轨运行Tranche 0的4个载荷，并为Tranche 1和Tranche 2提供后续传感器。\n\n链接: https://www.airforce-technology.com/news/sierra-space-leidos-sensors/",
+        "date": "2026-08-05 16:19:07+08:00"
+    },
+    {
         "title": "**【美国】特朗普总统访问前高尔夫球场男子因藏匿枪支被拘**",
         "body": "美国西部加利福尼亚州特朗普总统的高尔夫球场2日接到可疑人物报告，警方在车内发现手枪后对一名男子实施拘束，涉嫌非法藏匿枪支。该高尔夫球场计划于4日接待特朗普总统访问，特勤局等安保部门正在对其背景展开调查。\n\n链接: http://www3.nhk.or.jp/news/html/20260805/k10015197171000.html",
         "date": "2026-08-05 15:57:57+08:00"
@@ -4978,25 +4998,5 @@
         "title": "**【印度】贾伊尚卡尔部长在瓦努阿图独立日致贺词，深化双边合作**",
         "body": "印度外交部长S·贾伊尚卡尔于2026年7月30日在社交平台X向瓦努阿图外长Marc Ati、瓦努阿图政府及人民致以独立日祝贺，重申印度致力于深化与该太平洋岛国的伙伴关系。贾伊尚卡尔特别提及印度支持建设的“信息技术卓越中心”（Centre of Excellence in IT），该中心自2024年至2026年已运作两年，旨在提升当地青年数字技能。此前，印度外事务部长兼纺织部长Pabitra Margherita于2026年4月访问瓦努阿图和图瓦卢，期间宣布向瓦努阿图提供额外的IT硬件与软件、海上救护船以及“Heal in India”计划下为10名患者提供赴印度专科治疗的资助，进一步巩固印度在太平洋地区的“向东行动”与发展伙伴形象。\n\n链接: https://www.lokmattimes.com/international/committed-to-deepening-our-partnership-eam-jaishankar-greets-vanuatu-on-independence-day/",
         "date": "2026-07-30 20:45:32+08:00"
-    },
-    {
-        "title": "**【美国】Wiz发现Azure CosmosDB漏洞或导致微软云用户大规模泄露**",
-        "body": "网络安全公司Wiz在其官网披露，微软关键云数据库服务Azure CosmosDB存在一项已修补的漏洞，攻击者可远程入侵该服务的任意用户，可能影响数千家使用该数据库的企业客户。微软表示已与Wiz合作彻底解决问题，且在调查中未发现客户数据受损的证据。CosmosDB广泛用于存储聊天机器人、网页应用、在线零售推荐等数据，并支撑Microsoft Teams和Copilot等自家服务。业内专家认为此类高危云基础设施漏洞虽偶有出现，但若被黑客利用，后果可能相当严重。\n\n链接: https://www.channelnewsasia.com/business/cyber-firm-wiz-says-flaw-could-have-led-mass-exposure-microsoft-cloud-customers-6288616",
-        "date": "2026-07-30 20:46:53+08:00"
-    },
-    {
-        "title": "**【印度】德里政府决定不对NEET抗议者采取法律行动**",
-        "body": "德里政府住宅部于2026年7月30日发布指令，表示对参加NEET（本科）抗议的人员不予采取不利法律措施，但该保护不适用于有犯罪前科者，需遵循最高法院相关命令。政府承诺将加快审查已被逮捕或拘留的案件，并尽快释放符合条件的被捕者。\n\n链接: https://www.thehindu.com/news/national/delhi-government-says-no-legal-action-against-neet-protesters/article71285962.ece",
-        "date": "2026-07-30 20:50:53+08:00"
-    },
-    {
-        "title": "【美国】亚马逊旗下Zoox获美国首张无方向盘付费自动驾驶出租车商业许可",
-        "body": "美国国家公路交通安全管理局（NHTSA）于7月30日批准亚马逊子公司Zoox在无需人类操控的情况下，有限度商业化部署其新型无人驾驶出租车。这是美国首次允许完全自动驾驶车辆投入商业运营。Zoox的电动厢式车采用无方向盘设计，配备两排面对面座椅。根据豁免条款，Zoox未来两年内每年可部署最多2500辆，并可在获得州和地方批准后向乘客收费。作为条件，NHTSA要求Zoox对事故及不当停车等事件加强报告监管。目前Zoox已在拉斯维加斯和旧金山进行载客测试，但因软件可能无法及时检测浓烟而召回105辆车队进行更新。同时，NHTSA正着手制定联邦层面的自动驾驶系统安全标准，并计划改革原有针对人类驾驶员制定的规则（如强制要求刹车踏板与后视镜）。\n\n链接: https://www.channelnewsasia.com/business/exclusive-amazons-zoox-wins-first-us-approval-paid-robotaxis-no-human-controls-6288701",
-        "date": "2026-07-30 20:52:56+08:00"
-    },
-    {
-        "title": "【瓦努阿图】习近平致电祝贺瓦努阿图独立46周年",
-        "body": "国家主席习近平7月30日致电瓦努阿图共和国总统武罗巴拉武，祝贺瓦努阿图独立46周年。习近平指出，中瓦建交44年来政治互信不断深化、务实合作成果丰硕，愿同瓦方携手构建更加紧密的新时代中瓦命运共同体。\n\n链接: https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1864324-20260730.htm?spTabChangeable=0",
-        "date": "2026-07-30 20:40:28+08:00"
     }
 ]
