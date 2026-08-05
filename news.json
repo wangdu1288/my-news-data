@@ -1,5 +1,15 @@
 [
     {
+        "title": "**【美国】华尔街多家大型对冲基金遭黑客网络攻击尝试**",
+        "body": "据彭博新闻报道，黑客近日对包括Two Sigma Investments、Citadel和Point72 Asset Management在内的多家华尔街大型对冲基金及私募股权公司发起了一系列 sophisticated 网络攻击尝试，主要针对其信息系统。攻击手段包括通过电话联系员工，试图诱骗其提供系统访问权限或敏感信息。该报道指出，此类网络钓鱼手段因效果显着而被黑客组织广泛使用，全球企业正面临日益增多的AI驱动网络攻击和数据盗窃威胁。\n\n链接: https://www.channelnewsasia.com/business/major-wall-street-hedge-funds-targeted-in-attempted-cyberattacks-bloomberg-news-reports-6301841",
+        "date": "2026-08-06 01:20:01+08:00"
+    },
+    {
+        "title": "【帕劳】太平洋岛国论坛外长会议在中国导弹测试阴影下召开",
+        "body": "太平洋岛国论坛（PIF）外长会议于9月初在帕劳举行。此次会议是中国进行导弹测试背景下召开的首次领导人会议，此前索洛门群岛前总理杰里米·马内勒曾争议性地阻挠相关议程。\n\n链接: https://www.thepost.co.nz/politics/361056698/pacifics-foreign-ministers-gather-shadow-chinese-missile-test",
+        "date": "2026-08-06 01:24:32+08:00"
+    },
+    {
         "title": "【巴基斯坦】巴当局禁止国际媒体在大部分地区报道，引发新闻界强烈反弹",
         "body": "巴基斯坦政府出台\"2026年外国媒体便利指南\"，要求包括本国公民在内的所有人在伊斯兰堡、卡拉奇和拉合尔以外地区进行报道须事先获得许可，并强制国际媒体和记者注册认证。新规在巴控克什米尔地区数十名抗议者被杀事件后迅速出台，该事件仅由国际媒体率先报道。半岛电视台网站在巴被限制访问，巴信息部斥其报道为\"黄色新闻\"；BBC报道后遭当局强烈否认并被要求记者立即离开克什米尔。巴基斯坦联邦记者联盟前秘书长纳赛尔·扎伊迪批评新规比军法管制时期更为严厉，称其模糊条款可被用来打压异见。巴基斯坦在世界新闻自由指数中排名第153位。\n\n链接: https://www.theguardian.com/world/2026/aug/05/pakistani-authorities-ban-international-media-from-reporting-in-most-of-country",
         "date": "2026-08-06 01:11:23+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【美国】空军第442战斗机联队将换装F-15E，标志鹰式战机更大规模重新部署计划",
         "body": "美国空军预备役第442战斗机联队（驻怀特曼空军基地）决定退役A-10“疣猪”攻击机并换装F-15E“攻击鹰”。该计划由密苏里州众议员马克·阿尔福德宣布，获国防部批准。首架F-15E预计于2031财年抵达，届时将为该基地带来24架新机。此举被视为美国空军为扩大战斗机容量、实现现代化而进行的更大规模力量结构重组的一部分，同时也预示着现役F-15E机队可能进行大规模重新分配，以支持预备役和国民警卫队单位的转型需求。\n\n链接: https://www.twz.com/air/f-15es-replacing-a-10s-at-whiteman-afb-signals-bigger-realignment-of-eagle-fleet",
         "date": "2026-07-31 05:53:56+08:00"
-    },
-    {
-        "title": "【伊朗】泄露备忘录将明尼苏达州水设施网络攻击与伊朗直接关联",
-        "body": "一份由WaterISAC（美国水务信息共享与分析中心）获取并分发的加密备忘录显示，近期针对明尼苏达州数十个公共供水及污水处理系统的网络攻击与伊朗有关。此次袭击发生在美国对伊宣战数月后，被视为自冲突爆发以来伊朗对美国民用基础设施最广泛且最具破坏性的打击之一。报告指出，黑客通过入侵可编程逻辑控制器（PLC），试图造成系统压力损失及潜在的水源污染风险，目前已导致多个地区发布煮沸用水通知并转入人工操作模式。尽管具体执行团伙（如CyberAv3ngers或Handala）尚存不确定性，但多方情报一致认定该行为系伊朗国家支持所为。\n\n链接: https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/",
-        "date": "2026-07-31 05:42:41+08:00"
-    },
-    {
-        "title": "【美国】特朗普签署行政令限制关键矿物废料出口",
-        "body": "据白宫官员透露，美国总统特朗普于周四签署一项行政命令，授权联邦官员禁止含有旧电池及其他电子废物的关键矿物出口。此举旨在推动国内回收产业，并减少中国在国家安全相关原材料领域的影响力。\n\n链接: https://www.reuters.com/legal/government/trump-orders-restrictions-export-critical-minerals-scrap-white-house-officials-2026-07-30/",
-        "date": "2026-07-31 05:43:54+08:00"
     }
 ]
