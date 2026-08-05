@@ -1,5 +1,10 @@
 [
     {
+        "title": "**【朝鲜】网络安全研究员渗透朝鲜黑客系统，揭露全球千余家公司遭入侵**",
+        "body": "希腊网络安全研究员Vangelis Stykas在过去22个月内获取了朝鲜黑客服务器的访问权限，发现朝鲜黑客活动已影响57个国家的1640家公司，其中约700至800家遭受严重入侵。黑客主要通过虚假招聘广告（\"Contagious Interview\"活动）入侵目标系统，以高薪职位诱骗软件开发人员下载恶意软件。尽管黑客主要目标是加密货币钱包，但已获得对AWS服务器、开发者密钥和区块链系统的最高权限访问。Stykas已在Black Hat安全会议上公开点名约12家受影响公司，包括波士顿儿童医院、日本AEON Smart Technology、中国手机制造商Oppo、加密货币平台Coinbase和Uniswap Labs等。他警告称，真正危险的是那些未回应其警告的数百家公司。\n\n链接: https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
+        "date": "2026-08-06 07:41:32+08:00"
+    },
+    {
         "title": "【美国】舰载集装箱微工厂实现无人机3D打印",
         "body": "美国海军黄蜂级两栖攻击舰埃塞克斯号（USS Essex）在海上航行期间，利用Firestorm Labs研发的集装箱化微工厂（xCell）成功3D打印了12架Squall第一人称视角无人机，并制造了超过1000个零件。这些无人机随后在2026年环太平洋军演（RIMPAC）中作为假想敌目标使用。海军作战部长达里尔·考德尔（Daryl Caudle）此前提出的\"集装箱化能力战役计划\"正逐步落地，五角大楼已与多家防务公司签署框架协议，计划从2027年起三年内采购超过1万枚集装箱化导弹，以增强舰艇的模块化作战能力。\n\n链接: https://www.defensenews.com/industry/techwatch/2026/08/05/firestorm-labs-builds-drones-aboard-uss-essex-without-shore-resupply/",
         "date": "2026-08-06 07:27:04+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【德国】莱茵金属获英国陆军72门新型自行火炮订单",
         "body": "德国莱茵金属公司宣布获得一份供应合同，将为英国陆军提供72套RCH 155轮式火炮系统及相关设备与服务，合同金额处于三位数百万欧元级别。该订单涵盖L/52远程遥控武器系统、155毫米炮塔组件及升降装置等，交付时间从2028年5月至2031年6月，全部将在位于英国特福德的莱茵金属新造炮厂生产。\n\n链接: https://defence-blog.com/rheinmetall-gets-deal-for-72-new-british-army-howitzers/",
         "date": "2026-07-31 15:35:41+08:00"
-    },
-    {
-        "title": "【塞浦路斯】伦敦男子在塞浦路斯被捕，涉嫌为伊朗侦察英国军事基地",
-        "body": "伦敦一名44岁的英阿混血男子拉沙德·苏丹诺夫（Rashad Sultanov）于7月17日在塞浦路斯被捕，被控为伊朗伊斯兰革命卫队对RAF阿克罗蒂里空军基地进行“敌意监视”并泄露情报。英国警方已启动引渡进程，并依据《国家安全法》提起诉讼。该基地是英国在中东的主要作战枢纽，此前曾遭伊朗无人机袭击。英国本月早些时候已将伊朗革命卫队列为威胁国家安全的组织。\n\n链接: https://apnews.com/article/uk-cyprus-akrotiri-spying-iran-arrest-115cc3b8c7945fc68c182852d60856a2",
-        "date": "2026-07-31 15:39:37+08:00"
     }
 ]
