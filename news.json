@@ -1,5 +1,10 @@
 [
     {
+        "title": "【韩国】诺塔将中国\" kimi K3\"AI模型轻量化，所需GPU从8张减至4张",
+        "body": "韩国公司诺塔（Nota）宣布，已成功将中国文心AI的超大型AI模型\"Kimi K3\"进行轻量化，使运行所需的图形处理器（GPU）数量减少至原来的一半。诺塔采用自主研发的\"非均匀专家剪枝\"技术，根据各层模型特性和模块重要度，选择性保留内核专家、移除贡献度较低的模块，从而在实现50%轻量化程度的同时，最大程度降低了性能损失。自测结果显示，该轻量化模型在多项基准测试中表现优于传统均匀剪枝方式，在高难度科学推理（GPQA-Diamond）和指令执行（IFEval）任务上分别提升了2.52分和2.22分。Kimi K3拥有2.8万亿参数，采用专家混合（MoE）架构，原本需要8块B300 GPU才能运行，此次轻量化有望大幅降低企业与开发者的成本和基础设施负担。\n\n链接: https://www.yna.co.kr/view/AKR20260806029600017",
+        "date": "2026-08-06 08:10:07+08:00"
+    },
+    {
         "title": "**【新西兰】Mongols MC帮派涉墨西哥卡特尔毒品案被捣毁，5人落网**",
         "body": "新西兰警方在美国情报协助下，经过五个月调查成功捣毁Mongols outlaw motorcycle gang关联的甲基苯丙胺进口网络。国家有组织犯罪集团摩托车帮派小组（MGU）联合奥克兰帮派破坏单位开展\"掠夺者行动\"，逮捕5名嫌疑人。警方的行动导致该帮派在Tuakau地区的据点被查封，其活动能力遭受重大打击。\n\n链接: https://www.nzherald.co.nz/nz/crime/mongols-mc-gang-busted-after-alleged-mexican-cartel-drug-links-five-arrested/Q7JGODBUGZBARERXZYG6JC5FOM/",
         "date": "2026-08-06 08:02:29+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【英国】BP将北海油气业务出售，结束数十年生产",
         "body": "英国石油公司（BP）于周五宣布正式启动北海油气业务的出售进程，标志着其在该地区长达数十年的生产即将结束。此举旨在简化公司结构并降低债务，新首席执行官Meg O'Neill表示，尽管北海对英国能源系统仍具重要性，但资产将在其他公司中获得更好定位。\n\n链接: https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
         "date": "2026-07-31 15:46:58+08:00"
-    },
-    {
-        "title": "【印度】德里高等法院要求警方就Umar Khalid在UAPA案件中的保释申请表态",
-        "body": "德里高等法院于7月31日要求德里警方就活动人士Umar Khalid在《非法活动预防法》（UAPA）案件中提出的保释申请发表意见，该案涉及2020年2月东北德里骚乱的“更大阴谋”。法院已发出通知，要求警方在两周内提交回应。初审法院已于7月4日驳回其保释申请，该申请将于8月27日与共同被告Sharjeel Imam的保释申请一并审理。\n\n链接: https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-high-court-seeks-polices-stand-on-umar-khalids-bail-plea-in-uapa-case/article71289247.ece",
-        "date": "2026-07-31 15:33:12+08:00"
     }
 ]
