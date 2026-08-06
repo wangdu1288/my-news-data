@@ -1,5 +1,15 @@
 [
     {
+        "title": "【澳大利亚】锂矿商试图在国内加工获取更多价值，但面临中国竞争压力",
+        "body": "澳大利亚拥有世界第二大锂储量，但长期以来仅出口锂辉石原矿至中国加工。为在电池供应链中获取更多价值，部分西澳锂矿商开始尝试境内精炼，然而面临高昂运营成本和中国成熟产业链的激烈竞争。Kemerton精炼厂因成本压力于2026年2月进入维护状态，TLEA Kwinana精炼厂产能未达预期。专家指出澳大利亚在电池精炼领域落后中国约50年，需要约10年政策支持才能创建竞争力。尽管政府提供补贴和税收优惠，但商业成功仍有限。\n\n链接: https://www.abc.net.au/news/2026-08-07/australian-lithium-miners-domestic-refineries/106619924",
+        "date": "2026-08-07 03:16:36+08:00"
+    },
+    {
+        "title": "【美国】联邦警告后仍有数千台水务系统工业控制器暴露于公网",
+        "body": "美国网络安全公司Forescout的Vedere Labs发布扫描结果显示，仍有超过4000台罗克韦尔自动化（Rockwell Automation）和艾伦-布拉德利（Allen-Bradley）品牌的可编程逻辑控制器（PLC）直接暴露在互联网上，其中65%位于美国境内，包括22台位于近期遭受水务系统网络攻击的城市。FBI和环保署（EPA）上周发布联合警告，确认自7月27日以来至少12个州的水务和废水处理设施遭遇攻击，部分攻击导致压力损失和洪水。尽管制造商和联邦机构自2018年起就已警告不得将控制器直接暴露于公网，此类风险仍持续存在。\n\n链接: https://cyberscoop.com/exposed-rockwell-controllers-water-system-attacks/",
+        "date": "2026-08-07 03:21:17+08:00"
+    },
+    {
         "title": "【印度】泰米尔纳德邦首席部长致信莫迪 呼吁加快恒河-卡弗里-贡达尔河流 linking 项目",
         "body": "泰米尔纳德邦首席部长C. Joseph Vijay致信印度总理莫迪，呼吁加快实施Godavari-Cauvery-Gundar河流 linking项目，称该项目对增加邦地表水资源、满足南部地区饮水和灌溉需求至关重要。他建议授予该项目\"国家项目\"地位，并成立由中央政府和相关邦参与的特别目的载体（SPV）以确保快速推进。Vijay还指出国家水务发展机构（NWDA）编制的第一阶段详细项目报告（DPR）在距离卡弗里河数公里处即终止，建议优先推进具有国家重要性的Godavari-Cauvery-Gundar线路。此外，他还致信外交部长S Jaishankar，要求干预斯里兰卡海军逮捕11名印度渔民一事，并呼吁尽快恢复双边对话机制。\n\n链接: https://www.thehindu.com/news/national/tamil-nadu/cm-urges-pm-to-expedite-godavari-cauvery-gundar-river-link-project/article71314288.ece",
         "date": "2026-08-07 02:40:30+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【立陶宛】拟收紧对俄白亲克里姆林宫人士限制",
         "body": "立陶宛外交部提出修正案，拟禁止支持俄乌战争、在占领区任职或拒绝谴责莫斯科入侵的俄罗斯及白俄罗斯公民在立开展教育、文化、体育等公共活动，并进一步限制其购买敏感区域房产，以防止“软实力”宣传。该法案若获议会通过及总统签署，将于2027年1月生效。\n\n链接: http://www.euronews.com/my-europe/2026/08/01/lithuania-moves-to-tighten-curbs-on-pro-kremlin-russian-and-belarusian-figures",
         "date": "2026-08-01 19:59:28+08:00"
-    },
-    {
-        "title": "【西班牙】西班牙称塞法特移民已返回摩洛哥",
-        "body": "西班牙政府宣布，此前进入其北非飞地塞法特的约5万名移民已返回摩洛哥。有指控称，这些移民在穿越过程中受到了积极鼓励。报道指出，贫困和不平等正驱使人们前往欧洲寻求机会。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss",
-        "date": "2026-08-01 20:02:01+08:00"
-    },
-    {
-        "title": "**【美国】特朗普模仿爱国者导弹拦截声描述击落伊朗导弹**",
-        "body": "美国总统特朗普2日在描述美军击落五枚伊朗导弹的事件时，模仿了爱国者导弹拦截的声音。他开玩笑称自己需要说对\"叮\"的次数，以避免被拿来与拜登做比较。特朗普称，美军在约旦上空成功拦截了伊朗发射的五枚导弹。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss",
-        "date": "2026-08-01 20:03:21+08:00"
     }
 ]
