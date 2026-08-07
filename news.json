@@ -1,5 +1,15 @@
 [
     {
+        "title": "【美国】美军悄然重塑西半球指挥架构",
+        "body": "美国军方正在低调调整其在美洲地区的指挥结构，这一动向引发了外界对该地区战略意图的猜测。\n\n链接: https://www.npr.org/2026/08/07/nx-s1-5923917/u-s-military-quietly-redraws-command-map-in-the-western-hemisphere",
+        "date": "2026-08-07 18:21:15+08:00"
+    },
+    {
+        "title": "【俄罗斯】莫斯科多地传出巨响，官方称暂无灾情，初步推测为音爆",
+        "body": "莫斯科多地居民于上午11时左右听到类似爆炸的巨响，影响范围涵盖西南、东南及西北部等多个区域，部分居民甚至感受到冲击波。莫斯科紧急情况部表示目前尚未发现任何烟雾或火灾迹象，对事件原因尚不明确。据Telegram频道“Baza”初步消息，该声音可能源于飞机在莫斯科上空进行超音速飞行所产生的音爆。\n\n链接: https://meduza.io/news/2026/08/07/v-moskve-proizoshel-gromkiy-vzryv-ego-slyshali-v-raznyh-chastyah-goroda-chto-eto-bylo-ne-znaet-dazhe-mchs",
+        "date": "2026-08-07 18:27:05+08:00"
+    },
+    {
         "title": "【印度】最高法院要求中央政府就RTI法案修订案作出回应",
         "body": "印度最高法院于2026年8月7日就一批质疑《数字个人数据保护法》对《信息权法》（RTI）修订案的诉讼，要求中央政府提交答复。原告方认为，此次修订删除了披露个人信息时的公共利益保障条款，削弱了透明度。最高法院法官组成的法庭已听取律师意见，并指示总法律顾问Tushar Mehta代表政府提交回应。\n\n链接: https://www.thehindu.com/news/national/supreme-court-seeks-centres-response-on-pleas-challenging-data-protection-law/article71316856.ece",
         "date": "2026-08-07 18:12:35+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【印度】印度青年国大党热线已收到超3000通抗议学生求助电话",
         "body": "印度青年国大党（IYC）于2026年7月27日启动的抗议学生支持热线已收到超过3000通来电，为面临网络及线下骚扰的学生提供法律援助、家庭咨询和反网络欺凌支持。由于大量来电者为女性，IYC加强了对女性抗议者的帮扶力度。热线启动首日即收到1080通来电，其中55人需紧急法律介入，多数来电来自比哈尔邦。IYC强烈批评警方对7月23日抗议者Ruchika Singh立案，并派出调查委员会赴比哈尔邦实地了解情况。IYC主席表示，青年发声是民主权利，国大党将与面临法律行动的抗议学生站在一起。\n\n链接: https://www.thehindu.com/news/national/youth-congress-helpline-receives-over-3000-calls-from-student-protesters/article71298501.ece",
         "date": "2026-08-03 00:36:31+08:00"
-    },
-    {
-        "title": "**【美国】美军高官警告：缺乏舰艇将迫使美军在保卫以色列与美国本土间做出抉择**",
-        "body": "美国欧洲司令部司令格雷尼克将军本周致信五角大楼，警告因海军驱逐舰和导弹拦截器库存严重不足，美军将无力同时保护以色列免受伊朗导弹袭击与保卫美国本土安全。特朗普总统持续升级对伊朗军事行动期间，以色列财政部长表示本国无意参战，而内塔尼亚胡上周访美游说特朗普对伊朗实施陆地封锁并打击其能源基础设施。五角大楼评估显示，美军已承担防御伊朗弹道导弹的主要责任，爱国者和萨德拦截弹库存已大幅下降。\n\n链接: https://www.zerohedge.com/military/defend-israel-or-homeland-top-us-general-issues-stark-warning-pentagon-brass",
-        "date": "2026-08-03 00:38:40+08:00"
-    },
-    {
-        "title": "【美国】Coldcard硬件钱包漏洞致近8900万美元比特币被盗，CZ警告用户",
-        "body": "Coldcard硬件钱包因固件漏洞遭黑客攻击，截至8月1日已累计盗取约1,367枚比特币（近8900万美元），涉及4,585个地址。攻击分三波进行，第三波策略改变、更难追踪。漏洞源于2021年3月发布的固件存在构建错误，导致私钥种子从软件回退而非硬件随机数生成器获取。Binance创始人CZ赵长鹏警告硬件钱包并非绝对安全，建议用户分散资金并更新固件。制造商Coinkite已发布紧急热修复，但警告已受影响设备的种子无法修复，需转移资金至新种子。\n\n链接: https://www.zerohedge.com/crypto/nothing-100-cz-warns-bitcoin-holders-after-89-million-wallet-exploit",
-        "date": "2026-08-03 00:39:57+08:00"
     }
 ]
