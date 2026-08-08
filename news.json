@@ -1,5 +1,10 @@
 [
     {
+        "title": "【印度】CDSCO发布指南澄清AI及软件类医疗器械监管路径",
+        "body": "印度中央药品标准控制组织（CDSCO）发布指南，明确依据《2017年医疗器械规则》对人工智能（AI）及软件类医疗器械的监管框架。该指南区分了独立软件医疗器械（SaMD）与设备内置软件（SiMD），规定用于疾病诊断、监测或治疗的AI产品需按风险等级分类并接受全生命周期监管，旨在为行业提供合规路线图并提升患者安全。\n\n链接: https://www.thehindu.com/news/national/cdsco-issues-guidance-clarifying-regulatory-pathway-for-ai-software-based-medical-devices/article71281400.ece",
+        "date": "2026-08-08 15:22:17+08:00"
+    },
+    {
         "title": "【印度】215名学者联名致信皮尤什·甘地，谴责其以“牛粪专家”嘲讽IIT madras校长",
         "body": "215名学者和知识分子（包括多所顶尖大学校长及IIM、IIT负责人）发表公开信，强烈谴责国大党议员普里扬卡·甘地·瓦德拉在议会中以“gaumutra expert”（牛粪专家）一词嘲讽印度理工学院马德拉斯分校校长V.卡马科蒂。信中指出，此类政治嘲讽回避了实质性辩论，损害了宪法规定的科学精神，并对学术界的公共参与造成“寒蝉效应”。信中强调，应尊重学者的专业资质与学术自主权，以理性讨论取代人身标签。\n\n链接: https://www.thehindu.com/news/national/academics-slam-priyanka-gandhis-gaumutra-expert-jibe-aimed-at-iit-madras-director/article71286302.ece",
         "date": "2026-08-08 15:19:34+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【美国】AI电力需求激增推动风险投资涌入美国核能初创企业",
         "body": "2026年美国核能初创企业获得大量风险投资，裂变与聚变领域全球融资已超45亿美元，覆盖81家公司，有望打破2025年62亿美元的历史纪录。OpenAI山姆·阿尔特曼和比尔·盖茨等科技巨头积极投资核聚变，以应对AI数据中心不断膨胀的电力需求。特朗普政府通过行政令14301加速先进核技术商业化，推动美国在全球核能市场保持主导地位。然而批评者指出，初创企业普遍忽视行业自愿安全准则，且对前沿技术的过度关注可能分散对成熟大型反应堆项目的资金和精力，反而不利于核电容量的实际增长。\n\n链接: https://www.zerohedge.com/energy/vc-money-floods-us-nuclear-startups-ai-power-demand-explodes",
         "date": "2026-08-04 03:50:59+08:00"
-    },
-    {
-        "title": "【美国】LinkedIn推出\"AI垃圾内容\"举报按钮以打击低质AI帖子",
-        "body": "LinkedIn宣布添加\"AI垃圾内容\"（AI slop）举报选项，允许用户标记低质量、不真实或过度自动化的帖子，为内容推荐和审核系统提供额外信号。该平台强调区分AI辅助编辑与完全AI生成内容的差异，并同步推出新分类器、加强自动化滥用检测，同时升级写作工具以保留用户原创风格。此举反映了社交平台在经历几年AI功能推广后，正转向强调内容真实性而非单纯自动化。\n\n链接: https://www.eweek.com/news/linkedin-ai-slop-reporting-button-2026/",
-        "date": "2026-08-04 03:37:09+08:00"
     }
 ]
