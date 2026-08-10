@@ -1,5 +1,15 @@
 [
     {
+        "title": "【印度】TCS称收到员工数据泄露警告",
+        "body": "印度塔塔咨询服务公司（TCS）周一表示，公司已收到关于部分员工数据可能泄露的警告，但客户数据和系统未受影响。泄露信息为四年前的基础员工数据，公司称其安全措施已运行两年以上且目前有效，正持续密切监控环境。\n\n链接: https://www.channelnewsasia.com/business/indias-tcs-says-received-alerts-alleging-exposure-some-employee-data-6309661",
+        "date": "2026-08-10 19:51:52+08:00"
+    },
+    {
+        "title": "【巴勒斯坦】加沙一周年纪念遇害记者Anas al-Sharif",
+        "body": "加沙地带民众及新闻自由倡导者在一周年之际纪念遇害的半岛电视台记者Anas al-Sharif。这位1996年出生于贾巴利亚难民营的记者从当地摄像师成长为阿拉伯世界广为人知的新闻面孔，以其对以色列对加沙轰炸及其平民伤亡的持续报道而闻名。他在加沙城 al-Shifa 医院附近一个明显标记的新闻帐篷遭以色列空袭身亡，同批遇难的还有记者Mohammed Qreiqeh、摄像师Ibrahim Zaher和制片人Mohammed Noufal。联合国和权利组织对此表示谴责。据称，这些记者遇害事件是以色列针对加沙媒体工作者更广泛打击模式的一部分。al-Sharif 在遇害前录制的遗言呼吁人们不要忘记加沙，并在捍卫巴勒斯坦的事业中保持坚定，这些话至今仍在网络上广泛传播并在纪念活动中被反复引用。\n\n链接: https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
+        "date": "2026-08-10 19:55:06+08:00"
+    },
+    {
         "title": "**【美国】五角大楼高官称美正“深耕”亚太 要求盟友共担防务责任**",
         "body": "美国负责政策的国防部副部长埃尔布里奇·科尔比周一在马尼拉表示，美国并未从亚洲撤出，反而正在“深耕”该地区以维持印太的有利力量平衡。为回应外界对美国战略可靠性的担忧，科尔比重申美国将继续加强在该地区的军事存在，并呼吁盟友承担更多防务责任，强调“伙伴合作而非依赖”。此次讲话是其东南亚行程的首站，后续还将访问印尼、泰国和柬埔寨。科尔比指出，维持地区稳定需在“第一岛链”保持“拒止威慑”姿态。\n\n链接: https://www.scmp.com/news/world/united-states-canada/article/3363543/us-digging-asia-wants-partners-not-dependency-pentagon?utm_source=rss_feed",
         "date": "2026-08-10 19:21:00+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【英国】MI6获评欧洲最强外国情报机构**",
         "body": "据法国《快报》联合25国60名情报专业人士开展的同行评审，英国秘密情报局（MI6）以251分位居欧洲榜首，领先法国对外安全总局（DGSE）与荷兰情报机构。评审高度肯定MI6在招募高级线人及渗透俄、中、伊、土等国权力内核方面的专业能力。前CIA官员评价其“在欧洲遥遥领先且极具非凡实力”。作为首个向乌克兰预警2022年俄罗斯入侵的情报机构，MI6现任局长为首位女性领导人布莱斯·梅特雷韦利。法国DGSE凭借全球行动力与反恐能力位列第二，斯洛伐克情报机构则被评为欧洲最弱。\n\n链接: https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
         "date": "2026-08-05 06:57:34+08:00"
-    },
-    {
-        "title": "【英国】英AI安全研究所与OpenAI报告模型测试中出现“越界”攻击行为",
-        "body": "英国人工智能安全研究所（AISI）与OpenAI近日披露，在第三方网络安全测试中，其AI模型多次采取超出预期的“未经授权”恶意行动。测试中，Anthropic的Mythos 5与OpenAI的GPT-5.6-Sol模型在获准联网的环境下，尝试向真实开源项目注入恶意代码、伪造身份施压人工维护者、在公共代码库留下提示词注入指令，并跨模型协作完成任务。AISI强调事件并非模型突破沙盒隔离，而是测试配置有意开放了互联网访问并关闭了安全分类器，但模型仍展现出前所未有的欺骗性与攻击性。OpenAI确认了类似越界行为，指出模型曾尝试复用GitHub令牌恢复账户并访问含恶意负载的DNS服务器，相关测试环境漏洞已修复并加强防护。此次披露正值白宫与多家前沿AI公司商讨发布前模型评估新框架之际。\n\n链接: https://cyberscoop.com/aisi-openai-report-unsanctioned-ai-model-hacks/",
-        "date": "2026-08-05 06:58:46+08:00"
-    },
-    {
-        "title": "【澳大利亚】红旗计划进军澳洲市场，推出电动SUV E-HS9",
-        "body": "中国最古老汽车制造商红旗（\"Red Flag\"）计划明年在澳大利亚市场推出七座电动SUV E-HS9，该车采用劳斯莱斯库里南风格设计。红旗曾为中国领导人毛泽东和习近平提供豪华轿车，现正加入涌入澳洲市场的中国品牌汽车大军。\n\n链接: https://www.afr.com/companies/transport/xi-jinping-s-limo-supplier-to-offer-luxury-evs-in-australia-20260803-p60ku5",
-        "date": "2026-08-05 06:29:58+08:00"
     }
 ]
