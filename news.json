@@ -1,5 +1,15 @@
 [
     {
+        "title": "【韩国】Hanwha Defense USA拟以10.5亿至12亿美元收购Austal USA",
+        "body": "韩国Hanwha航空航天子公司Hanwha Defense USA宣布，已向澳大利亚造船企业Austal USA提交初步、非约束性收购要约，交易价格约为10.5亿至12亿美元。此次收购仅针对Austal在美国的业务，不包括其澳大利亚本土内核资产。Austal董事会已批准开展尽职调查，表明其对出售美国业务持开放态度。2024年4月，Hanwha曾尝试收购整个Austal，但因美澳监管审批担忧而于同年9月撤回报价。Hanwha此前已于2024年6月收购费城造船厂，正持续扩大在美国造船业的布局。\n\n链接: https://breakingdefense.com/2026/08/hanwha-defense-usa-seeks-to-acquire-austal-usa/",
+        "date": "2026-08-11 08:06:36+08:00"
+    },
+    {
+        "title": "【美国】SEC豁免部分数据中心债券证券化规则",
+        "body": "美国证券交易委员会（SEC）宣布豁免数据中心债券的关键证券化规则，认定数据中心发行的固定收益证券不属于资产支持证券，此举降低了数据中心所有者发行证券融资的门槛。该决定响应了Latham & Watkins律师事务所的来函。随着AI算力需求激增，数据中心企业正积极寻求新的融资渠道以支持扩张。\n\n链接: https://www.channelnewsasia.com/business/us-sec-exempts-certain-data-center-bonds-key-securitization-rules-6310736",
+        "date": "2026-08-11 08:07:55+08:00"
+    },
+    {
         "title": "【澳大利亚】珀斯附近海底电缆故障引关注，所有者呼吁警方调查",
         "body": "澳大利亚珀斯海岸附近两条国际通信海底电缆近日相继发生故障，电缆所有者Subco公司CEO贝万·斯拉特利公开呼吁澳大利亚联邦警察紧急介入调查。专家指出，这16条海底电缆承载着澳大利亚99%的国际通信流量，对国家经济和民众日常生活至关重要。虽然电缆位于保护区内，但极易因船舶锚击或人为破坏而受损，近年来欧洲及台湾周边已多次发生类似事件。专家警告，当前电缆多由美国科技巨头私营运营，政府监管能力有限，且缺乏统一负责机构，建议澳大利亚增加电缆数量以提升韧性，并明确指定单一政府部门负责电缆保护与应急响应。\n\n链接: https://www.abc.net.au/news/2026-08-11/subsea-cable-damaged-off-perth-coast-in-protection-zone/107021436",
         "date": "2026-08-11 07:44:34+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【印度尼西亚】M-346F战机采购将支持印尼发展有人-无人协同作战能力",
         "body": "印尼宣布采购12架Leonardo M-346F Block 20轻型战斗飞机，预计2030年起交付，将替代现役Hawk战斗机中队。该机型配备AESA雷达和Link 16数据链，可执行雷达与数据链训练及防空巡逻任务，减轻高端战机的作战负担。印尼今年早些时候已成为土耳其Baykar Kizilelma无人战斗机的首个国际买家，GlobalData分析指出，同时采购这两款平台将为印尼实现有人机与无人机协同作战奠定基础，且两者均采用意大利航空电子标准，有利于系统集成。\n\n链接: https://www.airforce-technology.com/news/indonesia-m346f-deal-globaldata/",
         "date": "2026-08-05 16:17:48+08:00"
-    },
-    {
-        "title": "【美国】Leidos获选为Golden Dome卫星提供红外传感器",
-        "body": "美国太空发展局（SDA）加速导弹防御第三批量（AMDT3）跟踪层项目中，Sierra Space选择Leidos为其18颗新型导弹预警与跟踪卫星提供经飞行验证的红外传感载荷及运营支持。该卫星群将组成\"金穹顶\"（Golden Dome）国家导弹防御计划的一部分，可在低地球轨道持续探测和追踪高超音速武器等先进导弹威胁。Leidos已在轨运行Tranche 0的4个载荷，并为Tranche 1和Tranche 2提供后续传感器。\n\n链接: https://www.airforce-technology.com/news/sierra-space-leidos-sensors/",
-        "date": "2026-08-05 16:19:07+08:00"
-    },
-    {
-        "title": "**【美国】特朗普总统访问前高尔夫球场男子因藏匿枪支被拘**",
-        "body": "美国西部加利福尼亚州特朗普总统的高尔夫球场2日接到可疑人物报告，警方在车内发现手枪后对一名男子实施拘束，涉嫌非法藏匿枪支。该高尔夫球场计划于4日接待特朗普总统访问，特勤局等安保部门正在对其背景展开调查。\n\n链接: http://www3.nhk.or.jp/news/html/20260805/k10015197171000.html",
-        "date": "2026-08-05 15:57:57+08:00"
     }
 ]
