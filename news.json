@@ -1,5 +1,10 @@
 [
     {
+        "title": "【尼日尔利亚】West African energy regulators accelerate plans for regional fuel trading hub",
+        "body": "尼日尔利亚中游和下游石油监管局首席执行官Rabiu Umar周二表示，依托尼日尔利亚Dangote炼油厂（产能65万桶/日）投产带动的新炼化能力增长，西非地区正加快构建区域燃料定价基准和交易中心，以推动非洲从全球石油市场的价格接受者转变为具备影响力的价格发现与交易中心，但目前仍需克服基础设施不足、物流薄弱及监管碎片化等挑战。\n\n链接: https://www.reuters.com/business/energy/dangote-refinery-spurs-west-africa-fuel-trading-hub-ambitions-2026-08-11/",
+        "date": "2026-08-12 05:04:21+08:00"
+    },
+    {
         "title": "**【美国】Oracle与Quantinuum合作将量子计算引入云服务平台**",
         "body": "美国甲骨文公司（Oracle）与量子计算公司Quantinuum宣布达成多年期合作协议，将Quantinuum的Helios量子计算机集成至Oracle云平台。通过Oracle云基础设施（OCI）的量子服务，客户可将量子计算与图形处理及高性能计算服务结合使用。Helios已在美国数据中心的OCI环境下部署，计划在未来数月内预览量子服务，并提供开源混合编程框架供开发者测试量子-经典应用。双方表示，此次合作旨在探索量子计算、人工智能与高性能计算融合的基础设施，以解决企业级计算密集型挑战，并促进高校和研究机构的科学研究与教育发展。具体财务条款及部署日期未披露。\n\n链接: https://www.channelnewsasia.com/business/oracle-quantinuum-partner-bring-quantum-computing-cloud-6312981",
         "date": "2026-08-12 04:52:30+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【美国】太空军激活第77监视中队以增强太空目标追踪能力",
         "body": "美国太空军第7太空大队已激活第77监视中队（77 SURS），专门负责太空移动目标指示任务，为国防部各军种和作战司令部提供持续的目标追踪情报。该中队临时驻扎于北达科他州大福克斯空军基地，人员规模预计将于2027年增至45人、2028年增至61人。此举旨在支持太空军\"目标力量2040\"愿景，通过集成情报与太空作战人员，打破传统壁垒，提升联合作战能力。第7太空大队指挥官纳撒尼尔·皮斯上校表示，该能力将增强全球作战司令部的战场态势感知，为地面、空中和海上部队提供关键追踪数据。\n\n链接: https://www.executivegov.com/articles/77-surs-activation-space-delta-7-target-tracking",
         "date": "2026-08-06 05:23:20+08:00"
-    },
-    {
-        "title": "【美国】IonQ与桑迪亚国家实验室合作推进量子技术发展",
-        "body": "IonQ宣布与美国桑迪亚国家实验室达成合作，共同开展量子系统协同设计与任务导向应用研究。双方将聚焦量子技术的系统优化、器件开发、测试与表征等领域。该合作基于双方长期合作关系，桑迪亚曾为IonQ早期量子计算机制造离子阱。IonQ首席执行官Niccolo de Masi表示，政府与企业的合作曾推动曼哈顿计划和太空竞赛等重大突破，此次合作有望塑造量子技术的未来，对经济和国家安全发挥重要作用。\n\n链接: https://www.executivegov.com/articles/ionq-sandia-national-labs-quantum-tech",
-        "date": "2026-08-06 05:24:36+08:00"
     }
 ]
