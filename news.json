@@ -1,5 +1,10 @@
 [
     {
+        "title": "【澳大利亚】科技巨头被迫为新闻内容付费；澳联合多国谴责伊朗死刑；Tomago铝厂获政府救助",
+        "body": "澳大利亚《新闻谈判激励法案》将在议会通过，要求Facebook和TikTok等平台与新闻机构至少达成八项交易，并向澳大利亚联合通讯社分配5%资金。通信部长表示此举确保数字平台为利用澳洲新闻内容付出公平报酬。此外，政府宣布25亿澳元救助Tomago铝业厂以维持至2039年运营。澳大利亚还加入30多国联合谴责伊朗以死刑压制异见，同时数千名学生将在全国主要城市举行反对Pauline Hanson的集会。\n\n链接: https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+        "date": "2026-08-13 05:25:53+08:00"
+    },
+    {
         "title": "**【澳大利亚】Heidi Health有望成为独角兽，以超10亿美元估值筹集逾1亿美元资金**",
         "body": "澳大利亚医疗人工智能公司Heidi Health计划从国际投资者处筹集超过1亿美元，估值将超过10亿美元，从而跻身\"独角兽\"行列。这是一家提供患者咨询和医疗记录软件的公司，由澳大利亚最大风投机构Blackbird Ventures及HEST A支持。此前黑鸟风投曾称其为旗下增长最快的初创企业。\n\n链接: https://www.afr.com/technology/rising-australian-ai-start-up-star-set-to-seal-1b-unicorn-status-20260810-p60mxf",
         "date": "2026-08-13 04:57:41+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【澳大利亚】锂矿商试图在国内加工获取更多价值，但面临中国竞争压力",
         "body": "澳大利亚拥有世界第二大锂储量，但长期以来仅出口锂辉石原矿至中国加工。为在电池供应链中获取更多价值，部分西澳锂矿商开始尝试境内精炼，然而面临高昂运营成本和中国成熟产业链的激烈竞争。Kemerton精炼厂因成本压力于2026年2月进入维护状态，TLEA Kwinana精炼厂产能未达预期。专家指出澳大利亚在电池精炼领域落后中国约50年，需要约10年政策支持才能创建竞争力。尽管政府提供补贴和税收优惠，但商业成功仍有限。\n\n链接: https://www.abc.net.au/news/2026-08-07/australian-lithium-miners-domestic-refineries/106619924",
         "date": "2026-08-07 03:16:36+08:00"
-    },
-    {
-        "title": "【美国】联邦警告后仍有数千台水务系统工业控制器暴露于公网",
-        "body": "美国网络安全公司Forescout的Vedere Labs发布扫描结果显示，仍有超过4000台罗克韦尔自动化（Rockwell Automation）和艾伦-布拉德利（Allen-Bradley）品牌的可编程逻辑控制器（PLC）直接暴露在互联网上，其中65%位于美国境内，包括22台位于近期遭受水务系统网络攻击的城市。FBI和环保署（EPA）上周发布联合警告，确认自7月27日以来至少12个州的水务和废水处理设施遭遇攻击，部分攻击导致压力损失和洪水。尽管制造商和联邦机构自2018年起就已警告不得将控制器直接暴露于公网，此类风险仍持续存在。\n\n链接: https://cyberscoop.com/exposed-rockwell-controllers-water-system-attacks/",
-        "date": "2026-08-07 03:21:17+08:00"
     }
 ]
