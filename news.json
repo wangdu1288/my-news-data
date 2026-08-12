@@ -1,5 +1,10 @@
 [
     {
+        "title": "**【澳大利亚】Heidi Health有望成为独角兽，以超10亿美元估值筹集逾1亿美元资金**",
+        "body": "澳大利亚医疗人工智能公司Heidi Health计划从国际投资者处筹集超过1亿美元，估值将超过10亿美元，从而跻身\"独角兽\"行列。这是一家提供患者咨询和医疗记录软件的公司，由澳大利亚最大风投机构Blackbird Ventures及HEST A支持。此前黑鸟风投曾称其为旗下增长最快的初创企业。\n\n链接: https://www.afr.com/technology/rising-australian-ai-start-up-star-set-to-seal-1b-unicorn-status-20260810-p60mxf",
+        "date": "2026-08-13 04:57:41+08:00"
+    },
+    {
         "title": "【印度】印以举办网络安全对话 深化数字领域合作",
         "body": "卡纳塔克邦电子、信息技术和生物技术部门秘书N. Manjula在印以网络安全对话上表示，网络安全已成为经济需求和治理优先事项。以色列驻南印度总领事奥尔利·韦茨曼表示，印度与以色列在解决问题、教育、创业和创新方面有着共同的文化，网络安全是两国生态系统合作最清晰的领域之一。此次对话聚焦创新、产业合作、人才培养和政策信任四大领域，旨在促进两国在网络安全领域的务实合作。\n\n链接: https://www.thehindu.com/news/national/karnataka/cybersecurity-is-an-economic-imperative-for-the-government-it-secretary-n-manjula-no-pic-on-dcx/article71337692.ece",
         "date": "2026-08-13 04:50:39+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【美国】联邦警告后仍有数千台水务系统工业控制器暴露于公网",
         "body": "美国网络安全公司Forescout的Vedere Labs发布扫描结果显示，仍有超过4000台罗克韦尔自动化（Rockwell Automation）和艾伦-布拉德利（Allen-Bradley）品牌的可编程逻辑控制器（PLC）直接暴露在互联网上，其中65%位于美国境内，包括22台位于近期遭受水务系统网络攻击的城市。FBI和环保署（EPA）上周发布联合警告，确认自7月27日以来至少12个州的水务和废水处理设施遭遇攻击，部分攻击导致压力损失和洪水。尽管制造商和联邦机构自2018年起就已警告不得将控制器直接暴露于公网，此类风险仍持续存在。\n\n链接: https://cyberscoop.com/exposed-rockwell-controllers-water-system-attacks/",
         "date": "2026-08-07 03:21:17+08:00"
-    },
-    {
-        "title": "【印度】泰米尔纳德邦首席部长致信莫迪 呼吁加快恒河-卡弗里-贡达尔河流 linking 项目",
-        "body": "泰米尔纳德邦首席部长C. Joseph Vijay致信印度总理莫迪，呼吁加快实施Godavari-Cauvery-Gundar河流 linking项目，称该项目对增加邦地表水资源、满足南部地区饮水和灌溉需求至关重要。他建议授予该项目\"国家项目\"地位，并成立由中央政府和相关邦参与的特别目的载体（SPV）以确保快速推进。Vijay还指出国家水务发展机构（NWDA）编制的第一阶段详细项目报告（DPR）在距离卡弗里河数公里处即终止，建议优先推进具有国家重要性的Godavari-Cauvery-Gundar线路。此外，他还致信外交部长S Jaishankar，要求干预斯里兰卡海军逮捕11名印度渔民一事，并呼吁尽快恢复双边对话机制。\n\n链接: https://www.thehindu.com/news/national/tamil-nadu/cm-urges-pm-to-expedite-godavari-cauvery-gundar-river-link-project/article71314288.ece",
-        "date": "2026-08-07 02:40:30+08:00"
     }
 ]
