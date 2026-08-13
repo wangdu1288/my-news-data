@@ -1,5 +1,25 @@
 [
     {
+        "title": "【俄罗斯】\"Рой.Маркет\"将从试点升级为全功能军事电商平台",
+        "body": "俄罗斯市场服务平台\"Рой.Маркет\"将转型为面向军人的全功能电商平台。该平台此前以试点模式运营，主打双用途商品。据俄方介绍，平台目前正开始接入第三方卖家，其中不乏已与Wildberries和\"Озон\"（Ozon）合作的商家。到2027年，平台计划将商品目录扩充至超过1万种，涵盖无人机零部件、单兵防护装备、电子设备及野战军服等。值得关注的是，自7月中旬以来，乌克兰频繁袭击俄罗斯电商巨头Wildberries的仓储设施，基辅方面将其定性为\"合法军事目标\"，理由是该平台提供无人机设备、军服及其他可用于军事目的的物资。\n\n链接: https://meduza.io/news/2026/08/13/v-rossii-poyavitsya-polnotsennyy-marketpleys-dlya-voennyh-roy-market",
+        "date": "2026-08-14 00:19:01+08:00"
+    },
+    {
+        "title": "**【美国】苹果等40余家美企快速收到关税退款合计96亿美元**",
+        "body": "美国主要企业正以超出预期的速度接收关税退款，S&P500指数中逾40家企业已报告总计96亿美元的退款金额，其中至少21亿美元已实际到账。科技硬件企业退款规模居首，苹果一家就约占90%。部分企业如亚马逊、耐克、费多等表示将把退款用于下调产品价格或直接返还客户，而美联储此前的相关裁决也成为退款依据。\n\n链接: https://www.yna.co.kr/view/AKR20260814001300072",
+        "date": "2026-08-14 00:20:14+08:00"
+    },
+    {
+        "title": "**【美国】AMD拟发行40亿至50亿美元债券为企业融资**",
+        "body": "据路透社获得的条款文档显示，AMD于8月13日（周四）启动了分四期的债务发行计划，预计可募集资金40亿至50亿美元。此次发行的债券包括2029年、2031年、2033年和2036年到期的无担保优先票据，募集所得将用于一般企业用途，可能包括偿还现有债务。美国银行、摩根大通、巴克莱和富国银行担任承销商，债券预计于8月17日结算。\n\n链接: https://www.channelnewsasia.com/business/amd-looks-raise-4-billion-5-billion-in-debt-offering-source-says-6318011",
+        "date": "2026-08-14 00:23:59+08:00"
+    },
+    {
+        "title": "**【美国】底特律汽车制造商担忧北美贸易协定修订将致数百亿美元损失**",
+        "body": "底特律主要汽车制造商计划向特朗普政府表明，其提出的北美贸易协议修订方案可能给车企带来数百亿美元经济损失，并削弱其相对于外国竞争对手的市场竞争力。汽车厂商正就此向政府传达强烈担忧。\n\n链接: https://www.reuters.com/business/autos-transportation/detroit-automakers-fear-north-american-trade-deal-revamp-could-cost-them-2026-08-13/",
+        "date": "2026-08-14 00:25:31+08:00"
+    },
+    {
         "title": "**【韩国】KAI与现代Rotem签署合作备忘录 联合开发KF-21空对空导弹**",
         "body": "韩国航空航天工业公司（KAI）与现代Rotem于2026年8月12日在韩国泗川市签署合作备忘录，双方将联合开发KF-21战机配套的空对空导弹及先进机载武器系统，并探索战机与武器打包出口海外的商业机会。此次合作标志着现代Rotem正式从地面装备向航空航天领域拓展，涵盖推进系统、制导导弹技术及高超音速飞行器等方面。KF-21战机已于2024年完成开发并于2026年6月获得飞行安全认证，KAI计划到2028年向韩国空军交付首批40架，2032年再交付80架升级版，总交付量达120架。\n\n链接: https://www.airforce-technology.com/news/kai-hyundai-rotem-missiles-kf21/",
         "date": "2026-08-14 00:13:19+08:00"
@@ -4978,25 +4998,5 @@
         "title": "**【美国】OpenAI暂停开发新模型Astra，称其或具备“关键”级网络攻击能力**",
         "body": "美国OpenAI于8月7日宣布，其即将推出的AI模型Astra可能具备“关键”级别的网络安全能力，即能够自主识别并利用零日漏洞或执行复杂网络攻击。OpenAI已暂停涉及Astra的内部开发活动，将模型移至隔离环境进行测试，并加强安全管控。公司澄清Astra并未参与此前引起关注的Hugging Face黑客事件，并将联合政府机构及第三方安全组织对模型进行独立评估。此举反映了随着AI自主代理能力的提升，开发者在确保系统安全 containment 方面面临的日益严峻的挑战。\n\n链接: https://www.channelnewsasia.com/business/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-tightens-controls-6306796",
         "date": "2026-08-08 02:45:20+08:00"
-    },
-    {
-        "title": "【美国】撞毁尾翼的KC-135加油机已抵塔克纳基地进行全面修复",
-        "body": "一架在3月12日伊拉克上空与另一架加油机相撞并导致6名机组人员丧生的KC-135 Stratotanker（串行号63-8017）目前已抵达俄克拉荷马州的廷克空军基地。该机在事发后紧急降落在以色列，随后经英国米尔登霍尔皇家空军基地转运至美国。美国空军表示，该飞机正在接受计划中的 depot 维护，其由远征 depot 维护（EDMX）部队进行的战损临时修补将与定期5年维护一并进行全面修复。此次维修过程凸显了美军在实战环境中快速修复老旧加油机战损的能力，但也暴露了美国空军在近期冲突中面临的重大装备损失挑战。\n\n链接: https://www.twz.com/air/kc-135-that-lost-its-tail-in-deadly-collision-over-iraq-now-at-tinker-afb-repair-shop",
-        "date": "2026-08-08 02:49:11+08:00"
-    },
-    {
-        "title": "【印度】海得拉巴将修复空客A320neo及波音737 MAX关键发动机部件",
-        "body": "GMR Aero Technic与霍尼韦尔航空航天签署许可协议，将在印度海得拉巴维修空客A320neo和波音737 MAX飞机LEAP发动机上的七个关键部件，此举有望缩短航空公司周转时间并提供更具成本效益的维修解决方案。\n\n链接: https://www.thehindu.com/news/cities/Hyderabad/critical-engine-components-used-on-airbus-a320neo-boeing-737-max-aircraft-to-be-repaired-in-hyderabad/article71277334.ece",
-        "date": "2026-08-08 02:30:19+08:00"
-    },
-    {
-        "title": "【印度】印度中央大学与印度海军签署谅解备忘录",
-        "body": "印度中央大学（CUK）与印度海军签署谅解备忘录（MoU），旨在加强学术界与武装部队之间的合作。双方将聚焦海事研究、战略研究及海军历史等领域，通过联合研究、师生交流、专家讲座及实习项目等形式，促进知识共享与能力建设。该合作还涵盖人工智能、网络安全、海洋科学及环境可持续性等多学科新兴领域，以提升学生实践能力并支持国家海事安全与战略知识体系建设。\n\n链接: https://www.thehindu.com/news/national/kerala/cuk-signs-mou-with-indian-navy-to-foster-academic-and-research-collaboration/article71276972.ece",
-        "date": "2026-08-08 02:32:45+08:00"
-    },
-    {
-        "title": "【印度】警方捣毁涉嫌新生儿贩卖团伙，逮捕两名嫌疑人",
-        "body": "印度埃拉图珀塔警方逮捕了涉嫌参与新生儿贩卖的两名嫌疑人拉贾和阿俊。此次调查始于一名来自阿萨姆邦的孕妇报案，她称被诱骗至喀拉拉邦后，因拒绝交出新生儿遭殴打，随后逃脱并报警。警方以袭击和企图人口贩卖罪名将其逮捕，并正在追查其他涉案成员。\n\n链接: https://www.thehindu.com/news/national/kerala/police-bust-suspected-newborn-trafficking-racket-arrest-two/article71276784.ece",
-        "date": "2026-08-08 02:35:17+08:00"
     }
 ]
