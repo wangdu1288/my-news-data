@@ -1,5 +1,15 @@
 [
     {
+        "title": "**【澳大利亚】兽医警告：禽流感危机或致大量可救治野鸟被迫安乐死**",
+        "body": "随着H5禽流感病毒在澳大利亚各州陆续确诊，兽医行业面临严峻的救治压力。由于缺乏政府资金、隔离设施及快速检测试剂，多家野生动物兽医诊所已接近承载上限，部分机构甚至暂停接收伤病野鸟。业界警告，若需求持续激增且无应急支持，兽医将不得不被迫对大量本可康复的野鸟实施安乐死。当前兽医学界本就深陷职业心理健康危机，相关机构与从业者呼吁联邦及南澳州政府尽快拨款并提供检测权限，以免进一步加剧从业人员的心理负担与人才流失。\n\n链接: https://www.abc.net.au/news/2026-08-18/bird-flu-vet-euthanasia-mental-health/107023130",
+        "date": "2026-08-18 04:36:23+08:00"
+    },
+    {
+        "title": "【英国】伦敦铜价逼近历史纪录，空头挤压加剧",
+        "body": "伦敦金属交易所铜价连续九个交易日站稳每吨14000美元上方，现货较三个月期货溢价最高达543.50美元，价差扩大至2021年市场挤压以来最高水平，显示近期需求显着超出可用供应。巴克莱银行分析师Richard Garchitorena指出，智利矿产量同比下降6.7%、印尼Gresik冶炼厂故障导致出货延迟、LME铜库存一个月骤降32%至20.5万吨等多重因素共同收紧供应。投机性净多头持仓较7月增长20%至77,123手合约，三个月期货周一最高上涨1.7%至14,396美元，正逼近1月创下的14,527.50美元纪录高点。Garchitorena推荐Freeport-McMoRan、First Quantum Minerals、Hudbay Minerals、Newmont及Agnico Eagle等矿业股，并认为供应持续收紧将推动矿业股继续走强。法巴银行金属策略师David Wilson表示，铜价已进入超买区域，但由于市场极度紧张，这并不构成利空信号；他同时指出，贸易商更倾向于将铜运往美国而非交付至LME，进一步加剧了伦敦市场的供应压力。随着本月第三个星期三交割日临近，空头面临更大平仓压力。\n\n链接: https://www.zerohedge.com/commodities/copper-squeeze-deepens-london-futs-near-record-barclays-flags-top-mining-picks",
+        "date": "2026-08-18 04:39:01+08:00"
+    },
+    {
         "title": "【印度】印度船员拒绝冒险穿越霍尔木兹海峡并发出SOS视频",
         "body": "印度\"Forward Seamen's Union of India\"（FSUI）表示，停泊在波斯湾的AM Pioneer号船舶船主和管理方正施压船长，强迫16名印度船员穿越高风险的霍尔木兹海峡。船长Anil Raj及多名船员在视频中明确指出，此前公司已承诺仅在海况安全时航行，如今却要求他们冒险通过危险海域，甚至提出安排安保人员和请求美军空中支持。船员们坚决拒绝以自身生命换取公司利润，表示不会在黑暗和通信关闭的条件下穿越海峡。\n\n链接: https://www.thehindu.com/news/national/indian-sailors-sos-company-asking-us-to-risk-lives-cross-strait-of-hormuz/article71357907.ece",
         "date": "2026-08-18 04:21:07+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【美国】Oracle与Quantinuum合作将量子计算引入云服务平台**",
         "body": "美国甲骨文公司（Oracle）与量子计算公司Quantinuum宣布达成多年期合作协议，将Quantinuum的Helios量子计算机集成至Oracle云平台。通过Oracle云基础设施（OCI）的量子服务，客户可将量子计算与图形处理及高性能计算服务结合使用。Helios已在美国数据中心的OCI环境下部署，计划在未来数月内预览量子服务，并提供开源混合编程框架供开发者测试量子-经典应用。双方表示，此次合作旨在探索量子计算、人工智能与高性能计算融合的基础设施，以解决企业级计算密集型挑战，并促进高校和研究机构的科学研究与教育发展。具体财务条款及部署日期未披露。\n\n链接: https://www.channelnewsasia.com/business/oracle-quantinuum-partner-bring-quantum-computing-cloud-6312981",
         "date": "2026-08-12 04:52:30+08:00"
-    },
-    {
-        "title": "**【美国】超威电脑预计全年营收超预期，AI热潮驱动增长**",
-        "body": "超威电脑（Super Micro）周二预测其2027财年全年营收将达到650亿至720亿美元，高于华尔街分析师平均预期的525亿美元。公司表示，生成式AI的爆发带动大型科技企业与云服务商持续加码数据中心基础设施投资，其AI优化服务器需求强劲，有望推动业绩实现新一轮增长。受利好提振，该公司盘后股价上涨约9%。此外，公司预计第一财季营收为145亿至155亿美元，毛利率为17.5%，均优于此前指引及市场预期。\n\n链接: https://www.channelnewsasia.com/business/super-micro-forecasts-upbeat-annual-revenue-6313006",
-        "date": "2026-08-12 04:53:49+08:00"
-    },
-    {
-        "title": "**【美国】五角大楼计划扩大90亿美元云服务合同范围，向中小企业和新兴公司开放**",
-        "body": "美国国防部信息系统局（DISA）宣布将于8月24日发布下一代联合作战人员云能力（JWCC）合同 solicitation。新版合同名为\"JWCC统一云市场\"，将在原有四大超大规模云服务商——亚马逊AWS、微软Azure、谷歌和甲骨文的基础上，添加第二层和第三层类别，分别涵盖软件、平台和基础设施等\"一切即服务\"类产品，以及为商业创新者和中小企业预留的准入信道。当前JWCC合同上限为90亿美元，其中AWS获任务订单金额最高，达5.265亿美元。\n\n链接: https://www.defenseone.com/defense-systems/2026/08/disa-sets-release-date-follow-cloud-solicitation/415345/",
-        "date": "2026-08-12 04:59:01+08:00"
     }
 ]
