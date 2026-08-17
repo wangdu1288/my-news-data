@@ -1,5 +1,10 @@
 [
     {
+        "title": "【美国】Anduril为陆军士兵任务指挥系统重新设计AR头戴设备",
+        "body": "美国国防科技公司Anduril正在为陆军的士兵携带任务指挥（SBMC）计划推进头戴式显示设备的迭代开发。在2026年1月于西雅图测试场为第75游骑兵团完成第一阶段原型测试并获得反馈后，Anduril已获准进入第二阶段设计，重点优化重量分布、人机交互界面并引入4K数字夜视与增强现实功能，以克服此前IVAS项目的重量与不适问题；首批硬件交付量已达数百套，第二阶段将增加摄像头等新模块，公司正利用自有研发资金提前布局语音激活等超纲能力，预计量产合同授予或将于2028财年敲定。\n\n链接: https://defensescoop.com/2026/08/17/anduril-tech-soldier-borne-mission-command-program/",
+        "date": "2026-08-18 04:54:43+08:00"
+    },
+    {
         "title": "**【澳大利亚】兽医警告：禽流感危机或致大量可救治野鸟被迫安乐死**",
         "body": "随着H5禽流感病毒在澳大利亚各州陆续确诊，兽医行业面临严峻的救治压力。由于缺乏政府资金、隔离设施及快速检测试剂，多家野生动物兽医诊所已接近承载上限，部分机构甚至暂停接收伤病野鸟。业界警告，若需求持续激增且无应急支持，兽医将不得不被迫对大量本可康复的野鸟实施安乐死。当前兽医学界本就深陷职业心理健康危机，相关机构与从业者呼吁联邦及南澳州政府尽快拨款并提供检测权限，以免进一步加剧从业人员的心理负担与人才流失。\n\n链接: https://www.abc.net.au/news/2026-08-18/bird-flu-vet-euthanasia-mental-health/107023130",
         "date": "2026-08-18 04:36:23+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【尼日尔利亚】West African energy regulators accelerate plans for regional fuel trading hub",
         "body": "尼日尔利亚中游和下游石油监管局首席执行官Rabiu Umar周二表示，依托尼日尔利亚Dangote炼油厂（产能65万桶/日）投产带动的新炼化能力增长，西非地区正加快构建区域燃料定价基准和交易中心，以推动非洲从全球石油市场的价格接受者转变为具备影响力的价格发现与交易中心，但目前仍需克服基础设施不足、物流薄弱及监管碎片化等挑战。\n\n链接: https://www.reuters.com/business/energy/dangote-refinery-spurs-west-africa-fuel-trading-hub-ambitions-2026-08-11/",
         "date": "2026-08-12 05:04:21+08:00"
-    },
-    {
-        "title": "**【美国】Oracle与Quantinuum合作将量子计算引入云服务平台**",
-        "body": "美国甲骨文公司（Oracle）与量子计算公司Quantinuum宣布达成多年期合作协议，将Quantinuum的Helios量子计算机集成至Oracle云平台。通过Oracle云基础设施（OCI）的量子服务，客户可将量子计算与图形处理及高性能计算服务结合使用。Helios已在美国数据中心的OCI环境下部署，计划在未来数月内预览量子服务，并提供开源混合编程框架供开发者测试量子-经典应用。双方表示，此次合作旨在探索量子计算、人工智能与高性能计算融合的基础设施，以解决企业级计算密集型挑战，并促进高校和研究机构的科学研究与教育发展。具体财务条款及部署日期未披露。\n\n链接: https://www.channelnewsasia.com/business/oracle-quantinuum-partner-bring-quantum-computing-cloud-6312981",
-        "date": "2026-08-12 04:52:30+08:00"
     }
 ]
