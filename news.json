@@ -1,5 +1,10 @@
 [
     {
+        "title": "【韩国】韩澳举行首次\"经济安全对话\" 探讨能源与关键矿产合作",
+        "body": "韩国外交部宣布，韩国经济外交协调官朴钟韩18日在首尔与澳大利亚外交部通商投资次官补乔治·米纳举行了首次\"韩澳经济安全对话\"。双方就全球经济安全环境、能源安全、关键矿产及内核技术等议题交换意见，并探讨了具体合作方案。韩方评价澳大利亚为印太地区立场相近的代表性伙伴，在能源、关键矿产供应链及新兴内核技术领域具有巨大合作潜力。\n\n链接: https://www.yna.co.kr/view/AKR20260818161100504",
+        "date": "2026-08-18 18:38:20+08:00"
+    },
+    {
         "title": "【印度】贾坎德邦四毛派叛乱分子落网，一赏金高达50万卢比",
         "body": "印度贾坎德邦古姆拉县警方于8月18日在Dumri警察辖区的Aurapat森林地区实施突击行动，成功逮捕四名毛派叛乱分子。被捕者中包括禁令组织CPI（毛主义）分裂派系JJMP的区域指挥官Ramdeo Lohra，其本人身上载有50万卢比的悬赏金；另一名被捕者Arvind Nayak为地区指挥官。此外，两名成员Muneshwar Singh和Jitendra Lohra亦遭擒获。警方在行动中缴获了大量武器弹药。\n\n链接: https://www.thehindu.com/news/national/maoist-with-5-lakh-bounty-among-four-red-rebels-arrested-in-jharkhand/article71359696.ece",
         "date": "2026-08-18 18:26:57+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【美国】AI防御新策略：\"上下文炸弹\"利用提示注入阻止黑客攻击",
         "body": "Tracebit公司研究人员发现，在AWS等云平台存储机密信息时，可放置包含违规指令的\"提示注入\"来防御AI黑客代理攻击。当攻击性LLM遇到被安全护栏禁止的内容时，会因触发安全限制而停止响应。该技巧被称为\"context bombing\"（上下文炸弹），但仅对带安全护栏的模型有效；随着本地运行模型的普及，无安全限制的模型可能成为攻击者的新目标。\n\n链接: https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
         "date": "2026-08-12 20:35:23+08:00"
-    },
-    {
-        "title": "【比利时】欧盟对华电商平台征税首月：比利时有额外税收但包裹量锐减",
-        "body": "欧盟针对中国电商平台的3欧元/件新税实施首月，比利时通过海关申报添加4250万欧元税收，日均包裹量却减少约126万件（降幅35%）。专家指出，部分消费者转向合并订单避税（150欧元以上包裹量上升10%），而Shein等平台通过在欧盟境内分拣中心发货规避税收。该政策旨在遏制中国电商低价倾销引发的不公平竞争。\n\n链接: https://meduza.io/news/2026/08/12/v-evrosoyuze-bolee-mesyatsa-deystvuet-nalog-dlya-kitayskih-marketpleysov-na-etom-fone-belgiya-stala-poluchat-na-million-posylok-v-den-menshe",
-        "date": "2026-08-12 20:42:37+08:00"
     }
 ]
