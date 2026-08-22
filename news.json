@@ -1,5 +1,15 @@
 [
     {
+        "title": "【所罗门群岛】美国陆军与所罗门群岛开展听力保健医疗公益活动",
+        "body": "美国陆军医疗团队于2026年8月20日至21日在所罗门群岛首都霍尼亚拉开展为期两天的医疗 civic action program（MEDCAP），为超过40名当地社区成员提供听力评估服务，并向所罗门群岛耳鼻喉诊所捐赠了400副听力保护设备。此次活动由特普勒陆军医学中心与美国陆军太平洋部队大洋洲联络组（OET）联合举办，旨在加强与所罗门群岛的伙伴关系，促进太平洋地区的卫生合作与安全稳定。\n\n链接: https://www.dvidshub.net/news/573038/us-army-solomon-islands-conduct-audiology-focused-medical-civic-action-program",
+        "date": "2026-08-23 04:04:47+08:00"
+    },
+    {
+        "title": "【美国】NVIDIA AI服务器价格拟涨超15%",
+        "body": "据彭博新闻周五报道，NVIDIA部分客户已获通知，含其AI芯片的服务器价格将上涨超过15%，主要原因是内存成本飙升。该涨幅适用于明年早期发货的系统，涵盖搭载旗舰Vera Rubin和Grace Blackwell芯片的机型。服务器代工厂已向微软、谷歌、甲骨文等大型数据中心运营商客户发出通知，但路透社尚未核实此消息，NVIDIA未置评。NVIDIA将于8月26日公布第二季度财报，其芯片是AI基础设施建设的内核，也被视为整个AI生态的代表。\n\n链接: https://www.channelnewsasia.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-reports-6335256",
+        "date": "2026-08-23 04:11:44+08:00"
+    },
+    {
         "title": "【以色列】以色列首席拉比称巴勒斯坦人\"不是一个民族\"且\"没有权利\"",
         "body": "以色列首席拉比大卫·约瑟夫（David Yosef）于2026年8月22日在西耶路撒冷古什卡蒂夫博物馆发表讲话时，否认巴勒斯坦人作为一个民族的存在，并称其\"没有权利\"。他还声称加沙地带及被占领的约旦河西岸城市属于犹太人，呼吁摧毁加沙并创建犹太定居点。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
         "date": "2026-08-23 02:25:42+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【美国】五角大楼调查30所美国高校涉敌对势力关联",
         "body": "美国国防部近日下令30所美国大学及专业技术学院，立即对其与外国实体的学术、财务和研究联系进行全面审计。根据国防部声明，受调查院校须在2026年8月31日前完成审查并报告结果，同时需制定严格的缓解计划，包括终止存在风险的合作伙伴关系。此举旨在防止美国纳税人资助的研究成果被未经授权的技术转移、知识产权窃取和敌对势力利用。被点名机构包括麻省理工学院、哈佛大学、斯坦福大学、加州大学伯克利分校等知名高校。国防部研究工程部副部长Emil Michael表示，国防部对损害国家安全的教育合作\"零容忍\"。\n\n链接: https://defensescoop.com/2026/08/17/pentagon-probes-30-u-s-academic-institutions-for-potential-ties-to-adversaries/",
         "date": "2026-08-18 05:12:10+08:00"
-    },
-    {
-        "title": "【美国】特朗普支持率跌至任期新低 超八成民众担忧对伊战争将长期持续",
-        "body": "根据路透社/Ipsos民调，美国总统特朗普的工作认可率降至33%，为其第二任期以来的最低点。六成以上民众对其施政表示不满。民调显示，约80%的美国人认为美国对伊朗的军事参与将会长期持续，仅16%的人认为冲突会在数周内结束。随着2月份对伊战争爆发，美国汽油价格较上年同期上涨近三分之一，消费者负担加重。即便是特朗普的内核支持者MAGA选民中，也仅有约三分之一认为战争的经济成本值得承受。特朗普此前曾承诺控制通胀并避免长期战争，且曾预计对伊冲突仅需数周即可解决。\n\n链接: https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
-        "date": "2026-08-18 05:13:29+08:00"
-    },
-    {
-        "title": "【韩国】LG与Nvidia联手开发人形机器人，计划2027年亮相",
-        "body": "LG公司与英伟达宣布合作开发双足人形机器人，预计于2027年第一季度正式发布。双方已于8月13日签署谅解备忘录，英伟达将提供Jetson Thor处理单元、Isaac GR00T基础模型及Halos安全框架等计算与AI底层技术，LG则负责执行器、传感器和电池等硬件制造。在发布人形机器人前，LG计划于2026年底前在田纳西州工厂验证轮式CLOiD机器人。此外，双方还将合作建设AI工厂，并在汽车领域集成英伟达DRIVE Hyperion平台与LG车载信息系统。\n\n链接: https://www.eweek.com/news/lg-nvidia-humanoid-robot-apac-south-korea/",
-        "date": "2026-08-18 05:14:47+08:00"
     }
 ]
