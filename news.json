@@ -1,5 +1,15 @@
 [
     {
+        "title": "【美国】旧金山初创公司两周建成高速无人机拦截器原型",
+        "body": "Y Combinator支持的美国初创公司IMPACT Drones宣称，仅用两周时间便建造出高速拦截无人机SABLE的工作原型。该公司同时推出了名为HUNTER的近程拦截无人机，两款产品共同构成其\"防空即服务\"解决方案，旨在以接近威胁无人机本身的价格保护数据中心、机场和电网等关键基础设施。公司目前已获得超过1.8亿美元意向书，预计于2026年第三季度启动试点部署。\n\n链接: https://defence-blog.com/san-francisco-startup-claims-two-week-build-for-jet-interceptor/",
+        "date": "2026-08-26 22:20:01+08:00"
+    },
+    {
+        "title": "【美国】美司法部与FBI摧毁中国黑客组织关键网络攻击平台",
+        "body": "美国司法部与FBI宣布，通过法院授权扣押域名，成功瘫痪了由国家支持的黑客组织\"QTFY\"运营的两款互补性网络攻击工具——\"QScan\"和\"QTRouter\"。这两个平台主要用于规避溯源、针对美国关键基础设施及敏感网络实施入侵，受害者涵盖NASA、美联储、能源部、司法部、卫生与公共服务部、国立卫生研究院及美国参议院等多个政府机构。据美方正统指控，QTFY隶属于南京鑫玖维网络科技有限公司，长期为包括中国国家安全部和解放军在内的客户群体提供网络黑客服务。此次行动是美方近年来持续打击中国国家赞助网络攻击活动系列行动的一部分，与此同时，FBI与国家安全局也发布了针对QTFY的网络威胁预警信息。\n\n链接: https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-platforms-operated-and-used-china-state-sponsored-hackers",
+        "date": "2026-08-26 22:22:34+08:00"
+    },
+    {
         "title": "【几内亚】总统杜姆博亚解雇173名士兵，含政变盟友",
         "body": "几内亚总统马马迪·杜姆博亚以\"擅离职守\"为由解雇超过170名士兵，其中包括帮助他在2021年发动政变的米歇尔·拉马上校。分析认为此举旨在巩固其权力，防范潜在挑战。杜姆博亚曾承诺推翻孔戴后交还民选政府，但随后违背承诺并在去年选举中以87%得票率获胜。自政变以来，几内亚大幅收紧公民自由，关闭媒体、禁止抗议，并解散主要反对党。\n\n链接: https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
         "date": "2026-08-26 22:06:57+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【澳大利亚】澳科学家引领癌症疫苗突破",
         "body": "前澳大利亚年度人物乔治娜·朗作为临床试验医学负责人，其团队研发的皮肤癌疗法取得重大突破。结果公布于葡萄牙里斯本，被誉为\"关键时刻\"。\n\n链接: https://www.afr.com/policy/health-and-education/how-an-australian-scientist-led-a-cancer-vaccine-breakthrough-20260820-p60pzj",
         "date": "2026-08-21 12:16:53+08:00"
-    },
-    {
-        "title": "【澳大利亚】澳国立大学将终止与山东大学合作办学协议",
-        "body": "澳大利亚国立大学（ANU）宣布将完全遵守澳大利亚外交部长的通知，终止与山东大学的本科教学合作伙伴关系。该决定依据澳大利亚《外交关系（州和领地安排）法2020》作出。ANU表示，目前在该校注册的学生不受影响，学校将继续支持他们的学业。校方重申，作为澳大利亚的国家大学，ANU致力于国际交流，但会确保所有国际合作关系符合澳大利亚法律和政策要求，并认真应对与外国干涉、国家安全相关的风险。\n\n链接: https://www.anu.edu.au/news/all-news/statement-on-the-australian-national-university-and-shandong-university-agreement",
-        "date": "2026-08-21 12:19:23+08:00"
-    },
-    {
-        "title": "**【新西兰】新西兰与泰国创建战略伙伴关系，目标到2045年贸易额翻三倍**",
-        "body": "新西兰与泰国周五正式创建战略伙伴关系。根据联合声明，两国计划到2045年将双边贸易额提升至80亿美元（约合2620亿泰铢）。泰国总理阿努廷·查恩维拉库尔访问奥克兰期间，与新西兰总理克里斯托弗·卢克森举行会谈。\n\n链接: https://www.bangkokpost.com/business/general/3305519/new-zealand-and-thailand-launch-strategic-partnership",
-        "date": "2026-08-21 12:10:26+08:00"
     }
 ]
