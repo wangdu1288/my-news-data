@@ -1,5 +1,15 @@
 [
     {
+        "title": "【巴布亚新几内亚】2026年\"丛林突击\"演习基建修缮项目耗资近1500万基纳",
+        "body": "2026年巴布亚新几内亚与澳大利亚国防部队联合举行的\"丛林突击\"（Pukpuk）军事演习期间，位于莱城的Igam军营基础设施建设修缮项目总花费接近1500万巴布亚新几内亚基纳。\n\n链接: https://www.postcourier.com.pg/exercise-pukpuk-refurbishment-projects-spends-almost-k15-million/",
+        "date": "2026-09-01 10:11:32+08:00"
+    },
+    {
+        "title": "【澳大利亚】CSL与美国签署药品降价协议以规避高额关税",
+        "body": "澳大利亚最大制药企业CSL与美国特朗普政府签署协议，将降低其在美国的药品价格，以避免此前对澳大利亚制造药品加征的100%关税。根据协议，CSL将为美国医疗补助（Medicaid）计划提供折扣，使价格与其他发达国家相当，并承诺与美国新上市疗法价格匹配。CSL是九家签署此类药品定价协议的全球生物科技公司之一。作为协议一部分，CSL还与美国商务部签署了\"本土化协议\"，承诺投资15亿美元扩建伊利诺伊州血浆疗法工厂。特朗普政府此前在4月签署行政令，对进口专利药征收100%关税，但欧盟、日本、韩国和瑞士等国获得了仅15%的优惠税率，而澳大利亚未能获得减免。分析人士认为，CSL Plasma疗法出口业务受到的冲击预计将通过政府豁免部分抵消，公司表示预计2027财年不会受到重大影响。\n\n链接: https://www.smh.com.au/business/companies/csl-signs-deal-with-trump-administration-to-slash-prices-for-its-medicines-20260901-p60tdk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "date": "2026-09-01 10:12:46+08:00"
+    },
+    {
         "title": "【密克罗尼西亚联邦】密克罗尼西亚联邦总统与帕劳总统会晤讨论区域优先事项",
         "body": "密克罗尼西亚联邦总统威斯里·W·西米纳于8月30日在帕劳科罗尔与帕劳总统苏兰格尔·S·韦普斯举行会晤，双方就即将召开的太平洋岛屿论坛领导人会议（PIFLM）前的区域议题进行交流。会议重点讨论了维护太平洋声音的团结、推动气候宣言（针对COP31）以及加强海洋与气候关联应对策略。此外，密克罗尼西亚联邦向帕劳政府移交了20万美元资金支持密克罗尼西亚岛屿论坛秘书处的设立，旨在强化区域协调与合作。\n\n链接: https://gov.fm/president-simina-and-president-whipps-discuss-regional-priorities-ahead-of-pacific-islands-forum/",
         "date": "2026-09-01 09:54:35+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【美国】Anthropic将向Nscale支付450亿美元租用AI算力**",
         "body": "Anthropic同意在未来六年内向云基础设施提供商Nscale支付约450亿美元，租用其位于西弗吉尼亚的旗舰数据中心的AI云计算资源。该协议约涉及460兆瓦的电力容量，Nscale将使用英伟达的Vera Rubin芯片满足Anthropic的算力需求，以支撑其AI编码工具Claude Code等产品的预期需求增长。双方未对记者的置评请求作出即时回应。\n\n链接: https://www.channelnewsasia.com/business/anthropic-pay-nscale-45-billion-rent-ai-computing-power-bloomberg-news-reports-6343361",
         "date": "2026-08-27 01:48:47+08:00"
-    },
-    {
-        "title": "【美国】思科联合英伟达与超微电脑扩展AI工厂架构",
-        "body": "思科与英伟达宣布将携手超微电脑推出机架级AI基础设施系统，集成高密度计算与液冷技术，支持英伟达Rubin架构。此次合作标志着企业AI建设重点从单一GPU部署转向涵盖散热、网络、安全和能耗管理的完整系统解决方案，旨在帮助企业更高效地部署和维护大规模AI集群。相关产品计划于2026年10月推出。\n\n链接: https://www.eweek.com/news/cisco-nvidia-supermicro-ai-factory/",
-        "date": "2026-08-27 01:52:54+08:00"
-    },
-    {
-        "title": "【澳大利亚】五眼联盟会议探讨AI反恐与打击有组织犯罪",
-        "body": "五眼联盟情报盟友于周三在悉尼召开会议，讨论利用人工智能打击恐怖主义和有组织犯罪。澳大利亚内政部长托尼·伯克表示，各国主管官员重点讨论了AI在反恐、打击毒品走私、诈骗中心及有组织犯罪等威胁领域的应用。会议期间还展示了澳大利亚最新部署的空中和海上无人机，用于加强北部偏远海岸的监视能力。澳大利亚自25年前因民粹反移民政党\"一国党\"崛起而实施严格的边境管控政策，将乘船抵达的难民遣送至瑙鲁。随着\"一国党\"在民意调查中再度升温，澳大利亚政府承诺将进一步降低移民水平。\n\n链接: https://www.dailysabah.com/world/five-eyes-intel-alliance-weighs-using-ai-to-combat-terrorism/news/amp",
-        "date": "2026-08-27 01:56:33+08:00"
     }
 ]
