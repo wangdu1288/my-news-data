@@ -1,5 +1,10 @@
 [
     {
+        "title": "【美国】美国医学团体联合敦促民众接种流感与新冠疫苗",
+        "body": "美国多家主流医学组织联合发布疫苗接种指南，旨在澄清因特朗普政府政策变动引发的公众困惑。在美国疾控中心建议出现调整、相关咨询委员会陷入法律纠纷的背景下，这些团体强调无论流感还是新冠疫苗，均对6个月以上人群有益，尤其对老年人、孕妇及慢性病患者至关重要。今年添加的mRNA流感疫苗和更新版新冠疫苗已获FDA批准并陆续供应。医学界指出，疫苗虽不能阻断所有感染，但可显着降低重症和住院风险，且副作用普遍轻微。专家呼吁民众克服犹豫，及时接种。\n\n链接: https://www.theguardian.com/us-news/2026/sep/02/flu-covid-vaccines-guidance",
+        "date": "2026-09-03 00:36:46+08:00"
+    },
+    {
         "title": "【塞尔维亚】Pegasus及NoviSpy间谍软件被发现在塞尔维亚活动人士设备上",
         "body": "2026年首个经Citizen Lab法医确认的Pegasus间谍软件感染案例出现在塞尔维亚，针对学生活动家等目标。SHARE基金会称这是塞尔维亚迄今最大规模的间谍软件监视浪潮，共涉及14人，其中包括一名议员和一名地方政府官员。Amnesty International确认两名设备感染了新型NoviSpy变体，迹象指向塞尔维亚警方或情报机构所为。此次感染利用的是零点击漏洞，无需受害者交互即可植入。研究发现，间谍软件的使用与当地3月地方选举及政治抗议活动密切相关。Citizen Lab研究员批评NSO集团十年未实现改革，其间谍软件仍是政治压迫工具。苹果已修复该漏洞，建议用户升级iOS系统。\n\n链接: https://cyberscoop.com/pegasus-novispy-variant-spyware-found-on-devices-of-serbian-activists/",
         "date": "2026-09-03 00:26:42+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【印度】印巴推动贸易协定扩容，印方呼吁改善巴制药监管环境",
         "body": "印度商务部31日宣布，在第八次印巴贸易监测机制会议上，印度呼吁巴西创建更可预测的监管路径，以促进药品出口并加强医疗可及性。双方同意加快完成谈判职权范围的制定，推动印度与南方共同市场现有特惠贸易协定的扩容升级。目前双边贸易额达150.7亿美元，目标于2030年前增至300亿美元。\n\n链接: https://www.thehindu.com/news/national/india-calls-for-more-predictable-regulatory-environment-in-brazil-to-boost-pharma-exports/article71409833.ece",
         "date": "2026-08-31 14:42:27+08:00"
-    },
-    {
-        "title": "【印度】INS Nipun深潜救生船正式服役",
-        "body": "印度海军于8月31日在孟买正式服役深潜救生船INS Nipun，海军参谋长Krishna Swaminathan上将出席仪式。该舰由hindustan造船厂建造，长119.4米，排水量10500吨，可支持300米深度潜水作业并具备快速潜艇救援能力，还可用于灾难救援与人道主义行动。这是印度海军第二艘此类深潜救生船。Swaminathan上将表示，当前海上环境日益复杂，西亚危机背景下战略形势正经历重大调整。\n\n链接: https://www.thehindu.com/news/national/indian-navy-commissions-deep-sea-diving-vessel-ins-nipun/article71409836.ece",
-        "date": "2026-08-31 14:29:30+08:00"
     }
 ]
