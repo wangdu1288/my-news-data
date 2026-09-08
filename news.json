@@ -1,5 +1,10 @@
 [
     {
+        "title": "**【美国】五角大楼发布新一轮军用云计算合同首轮招标**",
+        "body": "美国国防部于本周四公布了下一代“联合战斗人员云能力”（JWCC）项目的首个最终招标文档，命名为 JWCC Unified Cloud Marketplace Core（内核合约），合同最高上限为216亿美元，期限最长10年（5年基期＋一次性5年延期）。该合约将覆盖基础设施即服务（IaaS）、平台即服务（PaaS）以及软件即服务（SaaS），甚至使用“anything‑as‑a‑service”概念描述全部云需求。投标截止时间为10月6日中午（美东时间）。\n\n与此同时，国防信息系统局（DISA）正准备推出配套的 JWCC Unified Cloud Marketplace Premier（高级合约），分为两层服务：第2层提供 SaaS、PaaS 与非超大规模 IaaS；第3层面向商业创新企业和小型企业，旨在扩大供应商竞争。该合约预计将在2027年第一季度正式发布招标，2027年第三季度授予合同。\n\n目前的 JWCC 合约（2022 年启动）由亚马逊 AWS、谷歌、微软 Azure 与甲骨文四大超大规模云服务商共同承担，累计已使用约10亿美元预算，其中 AWS 占55%（约5.64亿美元），微软占28%（约2.91亿美元），其余由甲骨文和谷歌分担约17%。\n\n链接: https://www.washingtontechnology.com/contracts/2026/09/pentagon-unveils-first-two-solicitations-its-next-big-cloud-contract/415839/",
+        "date": "2026-09-09 03:08:18+08:00"
+    },
+    {
         "title": "**【卡塔尔】卡塔尔回应内塔尼亚胡将其称为“敌对国家”**",
         "body": "卡塔尔外交部对以色列总理本杰明·内塔尼亚胡称卡塔尔为“敌对国家”的言论作出强硬回应，称此类指责是对卡塔尔的“抹黑运动”。卡方表示将通过外交渠道维护国家形象，并呼吁各方保持克制，避免局势升级。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss",
         "date": "2026-09-09 03:04:29+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【俄罗斯】扎哈罗娃引用布尔加科夫名句回应帕希尼扬关于俄军事基地言论",
         "body": "俄罗斯外交部发言人扎哈罗娃引用作家布尔加科夫的作品中的语句，回应亚美尼亚总理帕希尼扬此前的表态。帕希尼扬称，如果俄罗斯决定撤出驻亚美尼亚军事基地，亚美尼亚当局不会反对。扎哈罗娃的回应被视为对亚美尼亚这一立场的外交辞令式反驳。\n\n链接: https://tass.ru/politika/28081015",
         "date": "2026-09-04 22:31:03+08:00"
-    },
-    {
-        "title": "【印度】两名穆斯林女记者指控警方暴力殴打",
-        "body": "两名穆斯林女记者指控称，她们在印度首都新德里被警方拘留并遭到暴力殴打。警方否认相关指控，声称将两人带至派出所是因违规停车纠纷。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss",
-        "date": "2026-09-04 22:22:20+08:00"
     }
 ]
