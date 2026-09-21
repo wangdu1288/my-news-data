@@ -1,5 +1,15 @@
 [
     {
+        "title": "【新西兰】社交媒体用户报告Facebook和Instagram服务中断",
+        "body": "社交媒体用户报告无法访问Meta旗下的Facebook和Instagram平台，原因是出现意外错误，平台建议用户稍后重试。\n\n链接: https://www.stuff.co.nz/nz-news/361036225/social-media-users-report-facebook-and-instagram-outages",
+        "date": "2026-09-21 10:17:59+08:00"
+    },
+    {
+        "title": "**【澳大利亚】大南方矿业在西澳Golden Boulder探获10.72克/吨高品位金矿，深部矿化潜力巨大**",
+        "body": "大南方矿业（Great Southern Mining）在西澳大利亚州拉夫顿（Laverton）附近的杜克顿（Duketon）金矿项目Golden Boulder靶区取得了重要勘探突破。在计划为14,000米的反循环（RC）钻探计划中，首批19个钻孔（总计2436米）的分析结果揭晓，重点聚焦于3.5公里长的Main Line矿化趋势北段。结果显示，矿化带成功向下延伸了45米，其中最瞩目的钻孔在20米深处见10米矿段，平均品位为2.62克/吨，内部包含2米高达10.72克/吨的极高品位金矿段。其他钻孔也报告了多处高品位矿化区间，且高品位矿化同时存在于浅部氧化带和深部原生岩中。公司董事总经理马修·基恩（Matthew Keane）表示，这些结果有力支持了Golden Boulder乃至整个杜克顿金矿项目具备大规模金矿系统潜力的观点，有望在未来支持多个露天矿场的开发，且项目地处周边20公里内已有黄金加工设施的黄金地带。目前，钻探已转移至Main Line趋势的南部，而邻近的Amy Clarke项目首批分析结果也即将在未来几周内公布。\n\n链接: https://www.smh.com.au/business/companies/drill-blitz-serves-up-10-72g-t-wa-gold-for-great-southern-20260921-p60z50.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "date": "2026-09-21 10:20:38+08:00"
+    },
+    {
         "title": "**【俄罗斯】Yandex从零开始自主研发大语言模型**",
         "body": "俄罗斯科技巨头Yandex宣布，已成功从零开始自主研发出全新的大语言模型。该模型总共包含800亿个参数，其中活跃参数达到30亿个。这一进展标志着俄罗斯在内核人工智能技术领域迈出了重要一步。\n\n链接: https://tass.ru/ekonomika/28133099",
         "date": "2026-09-21 10:07:04+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【乌克兰】乌克兰内阁提议将语言监察员预算翻倍",
         "body": "乌克兰内阁提议将语言监察员办公室的预算增加一倍。该职位由叶莲娜·伊万诺夫斯卡娅担任，她的倡议包括要求调查在交火中使用俄语的乌克兰国防部情报总局和安全局人员。\n\n链接: https://tass.ru/mezhdunarodnaya-panorama/28122463",
         "date": "2026-09-18 01:23:09+08:00"
-    },
-    {
-        "title": "**【荷兰】Nebius因AI算力需求激增再次上调云服务价格**",
-        "body": "云服务商Nebius周四宣布，将从10月1日起上调部分英伟达芯片的按需租赁价格，涨幅在17%至21%之间，这是该公司在三个月内第二次涨价。由于训练和运行AI模型的算力需求激增，该公司部分AMD和英特尔CPU实例价格将上涨高达25%，内存服务价格也将上调约41%。尽管长期预订大规模集群的客户可获得承诺折扣，但此次涨价正值其AI云业务经历快速增长之后，Nebius在此前一个季度签署了四份平均价值超过10亿美元的客户合同。作为总部位于阿姆斯特丹的新云服务商，Nebius主要出租AI模型所需的高性能芯片和数据中心基础设施。\n\n链接: https://www.channelnewsasia.com/business/nebius-hikes-ai-cloud-prices-again-demand-computing-power-soars-6392766",
-        "date": "2026-09-18 01:05:43+08:00"
-    },
-    {
-        "title": "**【英国】英足联主席休伊特要求因凡蒂诺公开世界杯投资计划及巴洛贡禁赛记录**",
-        "body": "英格兰足球协会（FA）主席兼国际足联（FIFA）副主席黛比·休伊特（Debbie Hewitt）已致信国际足联主席詹尼·因凡蒂诺（Gianni Infantino），要求公开其放弃的世界杯商业股份出售计划的相关材料，以及关于美国前锋福拉林·巴洛贡（Folarin Balogun）禁赛事件的记录。因凡蒂诺此前提出的向私人投资者出售世界杯商业股份的计划引发了包括欧足联、亚足联和中北美足联在内的多方强烈反对，休伊特呼吁对该计划进行独立审查。此外，巴洛贡在2026年世界杯上因红牌被禁赛一场，在美国总统唐纳德·特朗普的直接干预下，该禁赛被暂停一年。下一次国际足联理事会会议定于10月15日举行。\n\n链接: https://www.channelnewsasia.com/sport/fas-hewitt-asks-infantino-release-records-world-cup-plan-balogun-suspension-6392771",
-        "date": "2026-09-18 01:06:56+08:00"
     }
 ]
