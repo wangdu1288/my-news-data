@@ -1,5 +1,15 @@
 [
     {
+        "title": "**【印度】一寺庙祭司因涉嫌对宗教领袖及社群发表侮辱性言论被捕**",
+        "body": "印度喀拉拉邦埃尔纳库拉姆农村网络警察局于2026年9月26日逮捕了当地一座寺庙的首席祭司K.V. Subhash。据警方透露，被告涉嫌在本月早些时候发布的一段YouTube视频中，对宗教改革家斯里·纳拉亚纳古鲁（Sri Narayana Guru）、埃扎瓦社区（Ezhava community）以及相关组织成员发表侮辱性言论，涉嫌诋毁其尊严与声誉。警方在接到投诉后对其立案，指控其涉嫌煽动社区间仇恨和扰乱公共秩序，并依法将其逮捕。\n\n链接: https://www.thehindu.com/news/national/kerala/temple-priest-arrested-for-alleged-derogatory-remarks-against-sree-narayana-guru/article71511900.ece",
+        "date": "2026-09-26 15:11:42+08:00"
+    },
+    {
+        "title": "**【印度】梅加拉亚代表团在马耳他确认三座一战时期加罗人士兵墓碑**",
+        "body": "印度梅加拉亚邦代表团近日在地中海岛国马耳他的皮埃塔军事公墓（Pieta Military Cemetery）确认了三座在第一次世界大战期间服役于英国第69加罗劳动连（69th Garo Labour Company）的加罗人士兵墓碑。该代表团由梅加拉亚邦议长托马斯·A·桑格马（Thomas A. Sangma）率领，新确认的墓碑属于阿丁·马拉克（Ading Marak）、乔因·马拉克（Join Marak，两人均于1918年6月10日去世）和桑吉姆·桑格马（Sangjim Sangma，于1918年6月19日去世）。此前，该公墓中唯一已知的加罗人士兵墓碑属于克尤·马拉克（Khew Marak，死于1918年6月15日）。\n\n据悉，加罗劳动连是第一次世界大战期间从该地区招募的劳动部队之一，成员主要负责道路建设、维护和物资运输等后勤保障工作，曾为盟军的战争 effort 做出重要贡献。此次发现进一步完善了梅加拉亚邦的历史，将该地区的历史与印度在一战中对盟军的广泛贡献紧密联系起来。代表团此次马耳他之行是其在南非开普敦参加英联邦议会协会会议后的学术考察行程，期间他们还向公墓中安葬的四名加罗人士兵表达了深切哀悼与敬意。\n\n链接: https://www.thehindu.com/news/national/meghalaya/meghalaya-delegation-identifies-three-world-war-1-graves-of-garo-men-in-malta/article71511851.ece",
+        "date": "2026-09-26 15:12:53+08:00"
+    },
+    {
         "title": "**【巴布亚新几内亚】总理呼吁联合国承认健康可持续环境权**",
         "body": "巴布亚新几内亚总理詹姆斯·马拉佩今日敦促联合国成员国承认享有清洁、健康和可持续环境的人权，强调全球决策必须保护地球，以造福子孙后代。\n\n链接: https://www.postcourier.com.pg/pm-reaffirms-pngs-commitment-to-environmental-custodianship-and-citizen-rights/",
         "date": "2026-09-26 14:49:44+08:00"
@@ -4988,15 +4998,5 @@
         "title": "**【澳大利亚】Quest公寓酒店提示客户更换护照与驾照**",
         "body": "Quest公寓酒店近日通知约199万名客户，其在今年8月遭遇的数据安全事件实际泄露了更广泛的敏感信息，包括护照、驾照、信用卡号及CVV验证码等个人数据。公司建议受影响客户及时联系相关部门补办或更换证件，并更改信用卡信息。部分曾多次遭遇数据泄露的客户对繁琐的补救流程表示困扰，指出澳洲驾照补办最长需14天，护照重新签发则需约六周。Quest管理方已就此次事件向客户公开致歉。\n\n链接: https://www.abc.net.au/news/2026-09-23/quest-tells-customers-to-replace-passports-amid-security-breach/107177222",
         "date": "2026-09-23 04:27:50+08:00"
-    },
-    {
-        "title": "【美国】IBM研究将量子纠错开销降低63倍",
-        "body": "IBM研究人员在新研究中通过结合错误检测与概率误差消除（PEC）技术，在ibm_aachen超导处理器上实现了最高63倍的采样开销降低。该方法利用时空PEC模型，通过检查22个数据量子比特和27个校验量子比特，识别约65%的基础错误，从而大幅减少需重复运行的电路次数。不过，该成果尚未完成同行评审，也未在其他量子硬件上独立验证，目前仍被视为特定实验条件下的有效进展。\n\n链接: https://www.eweek.com/news/ibm-cuts-quantum-error-correction-overhead-63x/",
-        "date": "2026-09-23 04:33:08+08:00"
-    },
-    {
-        "title": "【美国】专家：韩美造船合作需重塑在美市场规则框架",
-        "body": "美国企业研究所资深研究员比尔·格林沃尔特22日在华盛顿表示，造船业是美国政治上最敏感的产业之一，若仅靠口头支持而无法实现盈利，韩国企业的投资便无从谈起。他强调韩美应在知识产权、出口管制、投资激励及法规合规等方面创建全新合作框架，而非沿用现有制度，同时指出特朗普政府既要求创新又推行\"美国优先\"政策的立场存在内在矛盾，两者难以兼得。\n\n链接: https://www.hani.co.kr/arti/international/america/1279162.html",
-        "date": "2026-09-23 04:14:41+08:00"
     }
 ]
