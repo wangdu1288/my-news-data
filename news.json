@@ -1,5 +1,10 @@
 [
     {
+        "title": "【美国】Anthropic发布独立AI智能体应用Claude Duet",
+        "body": "Anthropic于周四发布了名为Claude Duet的独立AI智能体应用，旨在为专业人士和小企业主提供主动式的辅助服务。该应用基于Anthropic的Opus 5.5模型构建，目前通过等待名单向iOS、Android及claude.ai平台上的美国Pro和Max套餐用户提供研究预览版。Claude Duet能够监控用户连接的应用进程，主动推送需关注的事项，而无需等待用户指令；其功能涵盖每日简报、会议日程安排、财务预测、Web应用构建以及通过Stripe和Shopify进行购买等。该应用集成了Claude Marketplace中超过6000个连接器，包括Gmail和Slack。尽管该智能体在执行敏感操作时需经用户批准，且Anthropic承认其在判断紧急程度及个人事务（如订票）方面仍有局限，但这一发布紧跟OpenAI和Meta在自主AI智能体领域的竞争步伐，进一步凸显了市场对能够代表用户自主完成任务的AI服务的关注。\n\n链接: https://www.channelnewsasia.com/business/anthropic-unveils-claude-duet-ai-agent-app-6480311",
+        "date": "2026-10-22 04:40:42+08:00"
+    },
+    {
         "title": "【美国】特朗普称要求对其实施新对俄措施者“愚蠢”",
         "body": "美国总统特朗普表示，那些要求他采取新的对抗俄罗斯措施的人“愚蠢”。他未具体说明这些被其批评为“愚蠢”的要求究竟涉及哪些具体的反俄行动或制裁细节。\n\n链接: https://tass.ru/mezhdunarodnaya-panorama/28239605",
         "date": "2026-10-22 04:34:41+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【美国】纳斯达克指数周初反弹，投资者逢低买入",
         "body": "受上周五纳斯达克指数下跌4.5%影响，美国股市周一开盘走高，投资者借机进行“逢低买入”。分析指出，此前市场下跌主要源于对人工智能建设及高利率债务影响的担忧。交易开始约15分钟后，科技股集中的纳斯达克综合指数上涨1.1%，报26,426.22点；道琼斯工业平均指数微跌0.2%，报51,915.41点；标准普尔500指数上涨0.5%，报7,695.20点。本周财报日程包括通用汽车、Netflix、Meta和特斯拉。\n\n链接: https://www.channelnewsasia.com/world/nasdaq-opens-higher-after-last-weeks-pullback-6472851",
         "date": "2026-10-20 02:18:27+08:00"
-    },
-    {
-        "title": "【俄罗斯】俄伊表示将加快在BRICS、SCO和EAEU平台上的合作",
-        "body": "俄罗斯和伊朗表示有兴趣加快在BRICS（金砖国家）、SCO（上海合作组织）和EAEU（欧亚经济联盟）等平台上的努力。双方同意扩大经贸和投资合作。\n\n链接: https://tass.ru/politika/28230941",
-        "date": "2026-10-20 02:25:03+08:00"
     }
 ]
