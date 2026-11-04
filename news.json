@@ -1,5 +1,10 @@
 [
     {
+        "title": "【韩国】卡巴斯基警告无线条码扫描器成物流网络安全漏洞",
+        "body": "全球网络安全公司卡巴斯基（Kaspersky）于2026年11月4日表示，发现主要厂商的无线条码扫描器存在严重安全漏洞。研究指出，由于设备间缺乏相互认证机制，攻击者可在蓝牙范围内窃听并获取基站地址，随后模拟正常键盘输入发送恶意载荷。这将导致连接的电脑误认为是用户指令，从而使攻击者无需人工干预即可远程执行恶意代码或访问仓储管理系统（WMS）等内核基础设施。卡巴斯基建议企业通过实施网络分段、强化设备认证、禁用未使用的蓝牙接口及最小化访问权限等措施，来防范此类针对物流生态系统的网络攻击。\n\n链接: https://www.yna.co.kr/view/AKR20261104044700017",
+        "date": "2026-11-04 08:57:27+08:00"
+    },
+    {
         "title": "【斐济】斐济副总理称特朗普关税导致Bumble Bee终止与PAFCO合作",
         "body": "斐济副总理Manoa Kamikamica在议会表示，美国总统特朗普实施的关税政策是Bumble Bee Seafoods终止与太平洋渔业公司（PAFCO）长期合作关系的主要原因，并促使Bumble Bee将业务转移至墨西哥。他强调，该决定与PAFCO的经营绩效无关。尽管反对派议员对过渡计划及员工就业稳定性提出担忧，Kamikamica指出政府已迅速帮助PAFCO找到替代买家，并重申PAFCO作为重要雇主地位，特别是其70%的女性员工队伍。\n\n链接: https://www.fijitimes.com.fj/trumps-tariffs-forced-bumble-bee-to-leave-pafco-kamikamica/",
         "date": "2026-11-04 08:30:02+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【乌克兰】泽连斯基对俄“黎明”卫星系统及影子舰队实施制裁",
         "body": "乌克兰总统泽连斯基于2026年10月30日签署法令，对参与开发俄罗斯“黎明”（Rassvet）低轨卫星系统的10家公司及19名俄罗斯公民，以及39艘隶属于俄罗斯影子舰队的船只实施制裁。官方指出，自2月俄罗斯封锁Starlink终端以来，“黎明”系统有望为俄军提供独立的卫星通信链接，支持其远程控制无人机和导弹，对全球安全构成潜在威胁。此次制裁针对Bureau 1440等内核开发商及白俄罗斯相关组件供应商，旨在切断其对外部技术与供应链的依赖。同时，被制裁的39艘影子舰队船只悬挂多国旗帜，负责向中国、印度等地运输俄罗斯石油及能源产品，其中部分船只已受到欧盟、美国等多方的现有制裁。\n\n链接: https://kyivindependent.com/ukraine-sanctions-companies-individuals-linked-to-russias-rassvet-satellite-system-shadow-fleet/",
         "date": "2026-10-31 00:59:22+08:00"
-    },
-    {
-        "title": "【印度】莫地球科学部秘书长：将科学转化为服务须成为优先事项",
-        "body": "印度地球科学部秘书长T. Srinivasa Kumar在2026年学术、技术与传播学院（ASTC）年度大会上强调，将科学进步转化为公共服务必须作为优先事项，同时坚持经济增长与环境保护的可持续性。他特别指出，“Bharat Forecast System”显着提升了海洋预报能力，帮助渔业社区通过更准确的预测将捕获量提高两至四倍。前部长M. Ravichandran呼吁加强跨学科合作，强调数据在推动科技创新中的内核作用。CSIR国家地球物理研究局局长Prakash Kumar及多位专家在研讨会上讨论了通过自主技术保障关键矿物资源安全及地热能源等议题，以支持印度2047年的发展愿景。\n\n链接: https://www.thehindu.com/news/national/telangana/converting-science-into-services-must-be-priority-moes-secretary-srinivasa-kumar/article71646009.ece",
-        "date": "2026-10-31 00:43:43+08:00"
     }
 ]
