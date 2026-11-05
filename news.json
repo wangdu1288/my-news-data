@@ -1,5 +1,10 @@
 [
     {
+        "title": "【美国】Box深化Nvidia合作，推出AI工作流构建工具",
+        "body": "内容管理公司Box于周四宣布深化与英伟达（Nvidia）的合作关系，推出了可帮助AI工具更准确检索公司文档资料的搜索引擎，以及允许团队构建AI驱动工作流的工具。基于英伟达Nemotron模型构建的Box Context Retrieval搜索引擎预计将于明年年初向企业高级客户全面开放，该技术可将搜索准确率提高20%，减少90%的令牌使用量，并将问答速度提升四倍。此外，Box还发布了Box Architect工具，用户可通过通俗语言描述流程来构建自动化工作流，该工具计划于今年第四季度开始向部分企业客户提供测试版。Box同时宣布，针对批量下载、账号接管及大规模删除的新威胁防护措施也将于明年年初面向相关企业客户推出。\n\n链接: https://www.channelnewsasia.com/business/box-expands-nvidia-partnership-unveils-ai-workflow-builder-6527896",
+        "date": "2026-11-06 00:33:14+08:00"
+    },
+    {
         "title": "【瓦努阿图】范努航空暂停载客30人以上飞机起降圣多佩科阿机场",
         "body": "由于瓦努阿图民用航空管理局（CAAV）指出该机场的救援和消防车辆无法正常运行，范努航空宣布暂停载客30人及以上飞机的起降服务，直至消防能力恢复并通过验证。受影响的主要航线包括维尔港至圣多及往返线路，但载客少于30人的小型飞机在通过评估后可继续运营。范努航空首席执行官表示，乘客安全是首要任务，受影响的乘客可免费改签后续航班，但因不可抗力导致的额外住宿及交通费用不予赔偿。\n\n链接: https://www.dailypost.vu/news/safety-issues-shut-most-of-santo-airport/article_09a771ca-0238-5df6-b21f-08b0849647a1.html",
         "date": "2026-11-06 00:21:58+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【俄罗斯】俄联邦安全局：莫斯科恐袭预警源于TikTok视频，涉事青少年已获准",
         "body": "俄罗斯联邦安全局表示，此前美国大使馆预警的莫斯科博物馆恐袭信息，源于一位发布相关视频的青少年。该少年已被拘留，视频中包含其身穿战术装备并持有疑似自动武器的照片，以及位于“察里齐诺”博物馆-保护区内地点的定位图。俄联邦安全局还指出，该少年关注了“新纳粹”频道并搜索过大规模杀戮信息。俄方对美方提供的信息表示“感谢”，此前美国和德国使馆均已发布相关安全预警。\n\n链接: https://meduza.io/news/2026/11/01/fsb-zayavila-chto-informatsiya-o-podgotovke-terakta-v-moskve-ishodila-ot-podrostka-opublikovavshego-rolik-v-tiktok-on-zaderzhan",
         "date": "2026-11-01 22:52:17+08:00"
-    },
-    {
-        "title": "【巴新】基塔瓦岛因厄尔尼诺干旱紧急呼吁国际人道主义援助",
-        "body": "基里维纳农村地方政府辖区内的基塔瓦岛正遭受由厄尔尼诺现象引发的严重干旱，导致岛上全体居民面临极端高温以及严重的水源和食物短缺危机。当地社区领袖就此发出了紧急呼吁，请求提供人道主义援助以应对这场灾难。\n\n链接: https://www.postcourier.com.pg/local-leaders-on-kivata-island-issue-urgent-call-for-humanitarian-aid/",
-        "date": "2026-11-01 22:28:34+08:00"
     }
 ]
