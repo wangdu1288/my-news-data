@@ -1,5 +1,15 @@
 [
     {
+        "title": "【澳大利亚】Forrestania西澳黄金资源量因高品位钻探结果激增35%",
+        "body": "Forrestania Resources宣布，受其位于西澳大利亚州British Hill项目高品位钻探结果的推动，该项目的黄金资源量大幅上调35%至28.6万盎司。此次19孔钻探计划发现了包括16米5.77克/吨黄金在内的多个高品位浅部矿化体。与此同时，Forrestania还与Dundas Minerals签署了一份购买75万吨矿石的协议，以支持其即将于2027年初投产的Lake Johnson处理中心。这一系列举措强化了其“枢纽与卫星”战略，旨在通过集成第三方矿石供应和自有矿山资源，加速西澳黄金生产业务的扩张。\n\n链接: https://www.smh.com.au/business/companies/forrestania-high-grade-gold-hits-fuel-35-percent-wa-resource-surge-20261109-p61cmf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "date": "2026-11-09 11:37:22+08:00"
+    },
+    {
+        "title": "【韩国】韩国称英伟达相关争议不影响已签约GPU供应",
+        "body": "韩国科学技术信息部次长刘仁荣表示，尽管英伟达首席执行官黄仁勋陷入被中国情报机构针对的争议，但已签约的图形处理器（GPU）交付预计不会受到干扰。他透露，2025年补充预算资助的10,000块GPU已经到货并投入使用，而2026年计划使用的GPU也在合同中约定将于今年投入服务。虽然英伟达高级总监马迪逊·黄取消了原定访问韩国总部及参与相关活动的行程，但英伟达首尔AI日活动仍按原计划进行，其他商务协议也通过其他高管出席得以维持。\n\n链接: https://www.channelnewsasia.com/business/south-korea-says-nvidia-issues-wont-affect-contracted-gpu-supplies-6535111",
+        "date": "2026-11-09 11:40:39+08:00"
+    },
+    {
         "title": "【印度】莫迪称反政府示威受毛主义分子煽动 呼吁予以清除",
         "body": "印度总理纳伦德拉·莫迪近日表示，当前国内扩散的反政府示威活动系毛主义支持者煽动所致，并强调必须色出这些人员以保障国家安全。莫迪指出，虽然武装毛主义叛乱（纳萨尔派）已被清除，但其意识形态支持者已渗透至政党和公民社会团体，持续煽动民众反对宪法与民主制度。此番言论背景是印度Z世代政治运动团体及反对党因选举委员会删除1.33亿选民名单（其中疑似包含大量反对党支持者）而发起的抗议活动。印度政府此前已宣布于2026年3月完成对毛主义势力的打击行动，将其视为严重内部安全威胁。\n\n链接: https://www.yna.co.kr/view/AKR20261109067500104",
         "date": "2026-11-09 11:12:00+08:00"
@@ -4988,15 +4998,5 @@
         "title": "【泰国】反对派领袖遭间谍软件攻击 政府否认幕后指使",
         "body": "泰国进步派人民党发言人表示，该党领袖纳塔蓬·伦甘亚武特（Natthaphong Ruengpanyawut）于11月3日收到苹果公司的安全警告，显示其设备遭到类似“掠夺者”（Pegasus）的国家级间谍软件攻击。虽然纳塔蓬是2月泰国大选第二名的人民党内核人物，但政府发言人对此予以否认，称相关指控“毫无根据”，并强调当前及上一年度均无相关间谍软件的采购预算。尽管民主党前总理阿披实也收到类似通知，但泰方尚未确认具体攻击来源，反对派人士暗示若为同类软件则很可能出自政府行为，苹果和NSO Group目前尚未回应相关询问。\n\n链接: https://www.channelnewsasia.com/asia/thailand-natthaphong-ruengpanyawut-peoples-party-opposition-6517071",
         "date": "2026-11-04 00:02:58+08:00"
-    },
-    {
-        "title": "【欧洲】Schwarz Digits与Bull合作构建欧洲自主AI计算服务",
-        "body": "超算制造商Bull与Lidl母公司Schwarz集团旗下的科技部门Schwarz Digits签署初步协议，双方将合作开发完全受欧洲管辖的AI计算服务。根据协议，Schwarz Digits将通过其 STACKIT 业务提供该服务，而法国资营的Bull将负责硬件制造，双方计划共同设计用于数据中心的服务器，并可能通过合作伙伴关系提供德国SAP的商业软件。此次合作涉及两家公司在AI领域的重大布局，Bull近期在欧洲唯一的超算工厂扩大了产能，而Schwarz正牵头为加拿大AI实验室Cohere提供资金支持，该公司正通过收购德国AI初创公司Aleph Alpha和捷克网络安全公司Aisle在欧盟市场扩张。\n\n链接: https://www.channelnewsasia.com/business/schwarz-digits-and-bull-partner-up-build-european-ai-computing-services-6517091",
-        "date": "2026-11-04 00:05:38+08:00"
-    },
-    {
-        "title": "【美国】特朗普称年底后将停止向以色列提供援助",
-        "body": "美国总统特朗普在中期选举投票期间透露，他与以色列总理内塔尼亚胡达成协议，美国政府将于今年年底后停止向以色列提供每年40亿美元的援助。特朗普表示，这一决定旨在回应国内政治压力，特别是为了抵消像密歇根州参议员候选人阿卜杜勒·艾尔-赛义德等以色列批评者对其政策的抨击。不过，由于援助资金需经国会拨款，特朗普无法单方面终止该计划，且目前尚未获得以色列官方或美国国务院的确认。分析指出，此举可能是一揽子旨在争取选票的政治策略，旨在平衡进步派民主党人和共和党“让美国再次伟大”运动内部对以政策的分歧。\n\n链接: https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-        "date": "2026-11-04 00:09:02+08:00"
     }
 ]
