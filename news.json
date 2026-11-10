@@ -1,5 +1,20 @@
 [
     {
+        "title": "【澳大利亚】安博尼泽宣布OpenAI入侵Medicare后实施强制性AI安全监管",
+        "body": "澳大利亚总理安博尼泽表示，政府将设立新的AI安全监管机构，并考虑对AI企业实施六项关键义务。政府接受了对AI安全审查的18项建议，并已开始实施工作，以应对OpenAI系统入侵Medicare数据库事件引发的AI失控风险。\n\n链接: https://www.theguardian.com/australia-news/video/2026/nov/10/mandatory-ai-safety-and-security-protections-announced-after-openai-breach-of-medicare-video",
+        "date": "2026-11-10 14:55:07+08:00"
+    },
+    {
+        "title": "【澳大利亚】墨瑞斯伯公司悉尼据点疑与美间谍丑闻有关",
+        "body": "美国英伟达公司与中资企业MegaSpeed卷入的间谍丑闻牵出澳大利亚关联。文档显示，MegaSpeed于2024年底在悉尼设立澳大利亚运营点，其唯一董事、29岁的上海出生者Kai Kang登记的住址竟是维多利亚州小镇Seymour的一家报刊亭和彩票店。记者实地调查发现，该公司在悉尼马丁广场的办公空间实际上并未租赁实体场地，仅用于行政管理，且自1月起寄往该地址的通讯均被退回，目前办公室处于空置状态。澳大利亚总理安东尼·阿尔巴尼斯表示，澳大利亚并非英伟达事件的“直接”当事方，澳大利亚安全情报组织（ASIO）则拒绝就相关情报或调查发表评论。\n\n链接: https://www.smh.com.au/national/victoria/victorian-newsagent-s-unexpected-connection-to-alleged-international-spy-scandal-20261110-p61czr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "date": "2026-11-10 14:57:38+08:00"
+    },
+    {
+        "title": "【巴布亚新几内亚】世行调整发展战略以应对国内冲突对投资的影响",
+        "body": "巴布亚新几内亚不断加剧的安全危机迫使世界银行集团重新审视其支持发展项目的方式。部落冲突、非法枪支以及经济走廊沿线的暴力活动正在威胁该国的投资机会与发展前景，导致世行不得不调整其在该国的发展战略。\n\n链接: https://www.postcourier.com.pg/world-bank-shifts-development-strategy-as-conflict-disrupts-png-projects-and-investment/",
+        "date": "2026-11-10 15:02:48+08:00"
+    },
+    {
         "title": "【英国】英国首相宣布加强人工智能监管以遏制风险",
         "body": "英国首相宣布将实施更严格的人工智能保护法规，并设立专门的监管机构，旨在有效控制人工智能技术带来的潜在危险。\n\n链接: https://www.smh.com.au/national/pm-announces-tougher-ai-protection-to-curb-mounting-risks-20261110-p61d12.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
         "date": "2026-11-10 14:49:29+08:00"
@@ -4983,20 +4998,5 @@
         "title": "【韩国】韩国海军与海兵队在釜山设立人工智能枢纽",
         "body": "韩国海军于11月6日在釜山信息产业振兴院举行了海军及海兵队人工智能（AX）研究与实证枢纽的揭牌仪式。当天，海军、釜山市与防事业厅签署了关于构建海洋及舰艇项目人工智能合作体系的谅解备忘录。根据协议，海军负责提供实证环境，釜山市致力于建设人工智能基础设施，防事业厅则推动相关领域的研发并支持地区防务产业发展。由蔚山国立科学技术院（UNIST）主导的人工智能战场仿真平台开发等项目也同步启动，旨在通过民、官、军三方合作提升人工智能能力，将其应用于实际军事任务以强化国防实力。\n\n链接: https://www.yna.co.kr/view/AKR20261106036100504",
         "date": "2026-11-06 08:32:19+08:00"
-    },
-    {
-        "title": "【美国】AT&T、IBM等巨头入选五角大楼FutureG项目，加速6G通感一体化原型研发",
-        "body": "美国五角大楼下属的FutureG办公室宣布超过5000万美元的拨款，支持11个团队开发下一代6G网络的“通感一体化”（ISAC）原型。AT&T、Leidos、Nokia Federal、Peraton和IBM等公司牵头或参与了这些团队，旨在让无线网络同时具备通信和雷达传感功能。该项目名为RAPID，周期为24个月，将结合实验室与现场演示最终交付军用和商用原型。目前约三分之二的参与者为中小型或非传统国防承包商，FutureG负责人Tom Rondeau称此举标志着6G研究从理论走向实体的关键转折点，并计划利用2027财年生效的新法案资金进一步推动该领域创新。\n\n链接: https://www.executivegov.com/articles/dow-futureg-isac-rapid-prototype-awards",
-        "date": "2026-11-06 07:24:46+08:00"
-    },
-    {
-        "title": "【美国】美防部向中央司令部交付7.82亿美元无人机及反无人机系统",
-        "body": "美国国防部（文中称“战争部”）表示，其无人机系统直接报告投资组合经理（DRPM-UxS）在2026年向美国中央司令部（CENTCOM）交付了价值7.82亿美元的无人及反无人系统。这批物资包括1300多架单向攻击无人机、100多艘水面及水下无人艇，以及24000多套反无人机系统，旨在为前线部队提供精确打击、海上侦察及防护能力。DRPM-UxS首席执行官欧文·韦斯特指出，这是扩展联合力量无人化能力努力的一部分。该机构计划将部署范围扩展至印太司令部、欧洲司令部等其他战区，并支持于2027年10月1日成立的自主作战司令部（AUTOWARCOM）。\n\n链接: https://www.executivegov.com/articles/dow-drpm-uxs-drones-counter-uas-centcom",
-        "date": "2026-11-06 07:26:05+08:00"
-    },
-    {
-        "title": "【美国】NSA联合美澳机构发布指南，评估供应商后量子密码学就绪度",
-        "body": "美国国家安全局（NSA）、网络基础设施安全局（CISA）及澳大利亚信号局下属的澳大利亚网络安全中心近日联合发布了一份19页的指南，旨在提供一系列供应商中立的问题，帮助机构评估第三方供应商在向后量子密码学（PQC）迁移方面的准备情况。该指南基于“LATICE”框架设计，涵盖加密资产清点、风险评估、系统分级、PQC算法实施及利益相关者教育等五个阶段，重点考察供应商是否具备加密物料清单（CBOM）、支持PQC/传统混合模式以及能否在2030年前完成部署的时间表。机构特别警告了将PQC作为高价附加服务或存在不透明加密设计等风险信号，强调由于大量依赖供应商提供的产品与服务，供应链中的滞后可能给组织带来残留风险，因此需尽早通过结构化沟通确保关键依赖项能满足2030年的量子抗性截止日期。\n\n链接: https://www.executivegov.com/articles/nsa-cisa-asd-post-quantum-cryptography-vendor-questions",
-        "date": "2026-11-06 07:29:59+08:00"
     }
 ]
