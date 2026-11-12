@@ -1,5 +1,10 @@
 [
     {
+        "title": "【美国】GSA就后量子密码学就绪能力征求行业意见",
+        "body": "美国总务署（GSA）发布了一项信息征询（RFI），要求各供应商在12月7日前提交关于支持联邦机构向NIST批准的后量子密码学（PQC）过渡的商业产品和服务的相关信息。由于量子计算的发展可能破解现有的RSA等公钥算法，GSA旨在评估行业在PQC标准验证、实施成熟度及迁移协助等方面的能力。此举响应了近期针对加强密码防护的行政命令及白宫管理和预算办公室的备忘录，尽管该征询仅为市场研究，未承诺后续采购，但多家机构如战争部、国家安全局等也正同步推动相关准备工作。\n\n链接: https://www.executivegov.com/articles/gsa-rfi-post-quantum-cryptography-readiness",
+        "date": "2026-11-13 07:11:49+08:00"
+    },
+    {
         "title": "【澳大利亚】所罗门群岛总理瓦莱访问堪培拉",
         "body": "澳大利亚总理安东尼·阿尔巴尼斯在堪培拉会见了所罗门群岛总理马修·瓦莱。两人举行了会晤，期间双方共同欢迎了当地儿童。此次访问旨在加强澳大利亚与所罗门群岛之间的外交关系和合作。\n\n链接: https://www.reutersconnect.com/item/solomon-islands-prime-minister-matthew-wale-visits-canberra/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlpMTEE3NE1IOQ?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlpMTEE3NE1IOQ&position=1",
         "date": "2026-11-13 07:03:14+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【以色列】以军在西岸伯尔卡村射击致14岁巴勒斯坦男孩死亡",
         "body": "以色列军方表示，其士兵在约旦河西岸占领区伯尔卡村附近向投掷石块袭击以色列车辆的巴勒斯坦人开枪，导致14岁男孩莫阿兹·达赫拉斯死亡，另有两名青少年受伤。巴勒斯坦卫生部确认死者身份，并指控以方扣留尸体；而以色列军方称其行动是为了消除威胁。据阿克拉德数据显示，自2023年10月7日以来，约旦河西岸已有至少1143名巴勒斯坦人死于暴力事件，其中250名为儿童，2026年因定居者相关的暴力冲突频发，正成为自监测开始以来最为血腥的一年。\n\n链接: https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
         "date": "2026-11-10 15:07:57+08:00"
-    },
-    {
-        "title": "【阿根廷】教皇莱奥举行历史性弥撒，布宜诺斯艾利斯汇聚约250万人",
-        "body": "据估算，约有250万人聚集在布宜诺斯艾利斯参加由教皇莱奥主持的弥撒，这也是近四十年来教皇首次在此举行此类仪式。此次访问正值天主教教会与总统哈维尔·米莱之间因后者推行的广泛紧缩措施而关系紧张之际。\n\n链接: https://www.aljazeera.com/video/newsfeed/2026/11/10/pope-leo-draws-2-5-million-people-during-historic-argentina-mass?traffic_source=rss",
-        "date": "2026-11-10 15:09:12+08:00"
     }
 ]
