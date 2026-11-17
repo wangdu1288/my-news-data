@@ -1,5 +1,30 @@
 [
     {
+        "title": "【国际】联合国气候大会执秘长警告AI行业：排放与能源成本上涨威胁气候目标",
+        "body": "联合国气候变化执行秘书西蒙·斯蒂尔（Simon Stiell）警告，人工智能（AI）及数据中心规模的快速扩张不得以牺牲气候行动、可负担电力及发展中国家利益为代价。斯蒂尔指出，该行业日益增长的能源消耗和排放足迹正在给电力系统带来压力，推高污染水平，并可能将基础设施成本转嫁给家庭和企业主。他在COP31高级别圆桌会议上强调，AI既是机遇也是风险，企业需平衡其环境成本与收益，并确保技术普惠全球。斯蒂尔呼吁科技巨头将商业投资与国际气候目标对齐，使用可再生能源驱动数据中心，披露能源和水资源消耗，并确保效率提升能实际减少总排放量，而非仅抵消添加污染。此外，他特别强调AI应助力缩小发展中国家在技术获取上的差距，通过提供针对当地需求的工具（如洪水预警、抗旱农业支持）促进公平的全球能源转型。\n\n链接: https://www.postcourier.com.pg/rising-emissions-and-energy-costs-threaten-climate-goals-stiell-warns-ai-industry/",
+        "date": "2026-11-17 15:18:38+08:00"
+    },
+    {
+        "title": "【美国】黑客利用Optimizely平台入侵知名网站窃取加密货币并攻击iPhone用户",
+        "body": "美国网络安全研究人员Scott Helme周一透露，包括Zoom、汇丰银行、Equifax、CNN、Salesforce和宜家在内的178家机构的网站被恶意代码利用Optimizely网站优化平台进行破坏，旨在窃取加密货币、入侵iOS设备并获取用户敏感信息。该恶意JavaScript脚本试图替换加密货币支付地址、窃取信用卡信息、盗取Cookies和截图。Salesforce已禁用相关脚本并展开调查，Equifax确认未发现系统受损并停止使用Optimizely，而Optimizely、苹果及其余涉事公司尚未对路透社的置评请求作出回应。\n\n链接: https://www.channelnewsasia.com/business/popular-websites-subverted-in-bid-steal-crypto-target-iphone-users-6557851",
+        "date": "2026-11-17 15:22:24+08:00"
+    },
+    {
+        "title": "【美国】Meta调整Instagram印度版算法以限制暗示性和暴力内容",
+        "body": "Meta平台公司宣布，为配合印度政府加强网络内容监管，已专门针对印度用户调整了Instagram的推荐系统，以减少推送性暗示及暴力内容。此举是在印度新德里政府上月要求该平台审查帖子推荐机制、强化对可能煽动暴力或扰乱公共秩序内容检查之后做出的回应。Meta强调，此次调整仅影响不关注账户的推荐内容，并非全面禁止此类内容，且公司并未将此举直接关联于印度信息技术部10月10日发布的关于避免放大误导性内容及减少单一叙事暴露的咨询意见。目前，印度用户报告推荐内容的频率较一年前已下降约一半。\n\n链接: https://www.channelnewsasia.com/business/meta-says-it-tuned-instagram-curb-suggestive-violent-content-in-india-6557921",
+        "date": "2026-11-17 15:23:40+08:00"
+    },
+    {
+        "title": "【美国】美国参议院拨款委员会发布1.1万亿美元五角大楼支出法案",
+        "body": "美国参议院拨款委员会公布了一份价值1.1万亿美元的五角大楼支出法案，将白宫通过预算调节进程寻求的近690亿美元资金纳入基础预算。\n\n链接: https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities/",
+        "date": "2026-11-17 15:26:08+08:00"
+    },
+    {
+        "title": "【美国】五角大楼第9次审计未通过，称正迈向2028年“干净账目”目标",
+        "body": "尽管五角大楼未能通过第9次审计，但国防部总会计师朱尔斯·赫斯特表示，该部已取得进展，最关键的变革在于审计策略的调整。赫斯特指出，国防部正致力于在2028年实现财务账目清晰无误的目标。\n\n链接: https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028/",
+        "date": "2026-11-17 15:27:25+08:00"
+    },
+    {
         "title": "【新西兰】新西兰元兑美元面临进一步下行压力，逼近多年低点",
         "body": "新西兰元兑美元持续走弱，周二早盘触及约54.9美分，逼近自2020年以来的低位。Westpac市场策略师Imre Speizer指出，受美国通胀高企导致美联储维持鹰派加息预期，以及股市波动引发的避险情绪升温，美元走强对新西兰元构成双重压力。Speizer警告，若新西兰元跌破54.70美分的关键支撑位（2020年触及水平），可能会滑向2009年的更低点位。新西兰元贬值虽有利于出口企业，但也推高了进口成本，加剧了国内燃料价格上涨的压力。\n\n链接: https://www.rnz.co.nz/news/personal-finance/2635442/under-pressure-kiwi-dollar-at-risk-of-falling-further-against-us-dollar",
         "date": "2026-11-17 15:09:55+08:00"
@@ -4973,30 +4998,5 @@
         "title": "【俄罗斯】俄方以报复法驱逐亲俄评论员为由禁止四名法国人士入境",
         "body": "俄罗斯外交部周三宣布，禁止法国议员萨夏·侯莱（Sacha Houlié）和亚瑟·德洛波尔特（Arthur Delaporte）以及记者阿丽安娜·谢曼（Ariane Chemin）和保罗·戈戈（Paul Gogo）入境俄罗斯。此举旨在报复法国驱逐亲克里姆林宫的评论员、前RT法国频道负责人谢尼娅·费奥多罗娃（Xenia Fedorova），俄方指责这四人对费奥多罗娃进行骚扰并呼吁将其驱逐。其中，侯莱在社交媒体上表示该禁令是对他反对外国干预工作的认可；而欧盟此前对费奥多罗娃实施制裁，指控其在法国媒体上传播符合俄罗斯当局立场的信息，包括将西方支持乌克兰描述为延长战争的因素，并散布关于北约政策威胁欧洲安全的言论。\n\n链接: https://www.euronews.com/2026/11/11/russia-bars-four-french-figures-over-expulsion-of-xenia-fedorova",
         "date": "2026-11-11 23:47:51+08:00"
-    },
-    {
-        "title": "【瑞典】萨博公司与葡萄牙Vangest集团达成合作，为“鹰狮”战机生产零部件",
-        "body": "瑞典飞机制造商萨博公司（Saab）宣布与葡萄牙工业集团Vangest创建伙伴关系，将在葡萄牙里斯本以北的马里尼亚格兰德生产8种复杂的“鹰狮”E/F型战斗机部件。此次合作旨在扩展萨博的国际制造网络，增强“鹰狮”战机的产能，并预计将为当地创造新的技术岗位。目前，葡萄牙政府正等待启动更新空军F-16机队的流程，而“鹰狮”战机是潜在的购买选项之一。萨博方面表示，若其机型被选中，将进一步深化双方合作，促进葡萄牙航空航天及国防工业的发展，并强化其在欧洲国防工业领域中的地位。\n\n链接: https://www.euronews.com/2026/11/11/a-portuguese-group-will-manufacture-components-for-swedish-saab-fighter-jets",
-        "date": "2026-11-11 23:49:04+08:00"
-    },
-    {
-        "title": "【印度】近70国领导人将出席海得拉巴举行的“印度峰会”",
-        "body": "据印度媒体报道，预计来自近70个国家的政治领导人、前部长、外交官、政策制定者及学者将参加定于11月13日和14日在海得拉巴举行的“2026年印度峰会”（Bharat Summit 2026）。外国代表团计划于11月12日参观特伦甘纳邦立法议会等重要地点。峰会将于11月14日以人民院反对党领袖拉胡尔·甘地和国大党主席马利卡贾纳·卡尔吉的讲话结束。此次盛会被视为特伦甘纳邦政府在12月7日至9日举办的“投资特伦甘纳全球峰会”前展示其发展举措的良机。消息人士称，首席部长A. Revanth Reddy正努力将海得拉巴打造为国际会议、投资峰会和政策讨论的全球目的地，并提议每年6月或7月在海得拉巴举办类似达沃斯年度会议的“迷你世界经济论坛”，以汇聚全球商业领袖、经济学家和政策制定者。\n\n链接: https://www.thehindu.com/news/national/telangana/leaders-from-nearly-70-countries-to-attend-bharat-summit/article71690313.ece",
-        "date": "2026-11-11 23:51:37+08:00"
-    },
-    {
-        "title": "【俄罗斯】俄Telegram频道称乌无人机袭击圣彼得堡致俄方7名飞行员丧生",
-        "body": "俄罗斯亲战争Telegram频道透露，在抵御针对圣彼得堡的乌克兰无人机夜间袭击过程中，3支经验丰富的机组共计7名人员不幸牺牲，称此次防御行动代价“极其高昂”。虽然俄国防部尚未证实任何损失，但列宁格勒州州长确认防空系统击落了150架无人机，且乌斯季卢加港因无人机命中发生火灾，造成3名工人受伤。分析人士猜测，俄军防空系统可能误击了己方的卡-52或米-8等直升机，导致己方航空兵遭受重创，目前遇难者具体机型及身份信息均未公布。\n\n链接: https://defence-blog.com/russia-may-have-shot-down-three-of-its-own-helicopters/",
-        "date": "2026-11-11 23:52:55+08:00"
-    },
-    {
-        "title": "【乌克兰】乌克兰企业Fire Point呼吁扩大“星盾”拦截覆盖范围",
-        "body": "乌克兰反导系统企业Fire Point首席执行官表示，希望将“星盾”（Starshield）系统的授权覆盖范围从乌克兰临时被占领土进一步扩大至周边200至300公里区域。该公司认为，此举将显着影响乌克兰应对俄罗斯对平民进行的弹道导弹袭击的作战能力。\n\n链接: https://breakingdefense.com/2026/11/ukraine-firm-fire-point-hopes-for-extension-of-starshield-coverage-beyond-ukraines-borders/",
-        "date": "2026-11-11 23:17:42+08:00"
-    },
-    {
-        "title": "【英国】英国国防部长奥斯陆试驾STARK公司导弹武装无人船",
-        "body": "英国国防部长卢克·波兰德（Luke Pollard）本周在挪威奥斯陆参加联合远征部队会议期间，亲自操控了由STARK公司研制的“万塔12”（Vanta 12）型无人艇进行演示。这款12米长的无人艇在英国德文郡建造，可搭载2吨有效载荷，包括英国皇家海军“野猫”直升机也使用的MBDA“海毒刺”（Sea Venom）反舰导弹。STARK公司表示，该艇配备雷达用于追踪空中和水面目标，可在恶劣海况下长期部署，适用于在波罗的海、英吉利海峡和北海监视可疑油轮及保护海底电缆。虽然该艇尚未公布具体订单，但STARK称其已出口给北约盟国，例如9月向德国交付了较小的6米型无人艇。英国政府曾于4月向普利茅斯提供5000万英镑的国防增长计划，以扩展其国家海洋自主创新中心。\n\n链接: https://defence-blog.com/u-k-minister-drives-missile-armed-stark-drone-boat-in-oslo/",
-        "date": "2026-11-11 23:04:07+08:00"
     }
 ]
