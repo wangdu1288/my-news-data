@@ -1,5 +1,10 @@
 [
     {
+        "title": "【美国】英伟达暂停向东南亚四国出口服务器芯片",
+        "body": "据《金融时报》报道，英伟达已通知其制造合作伙伴，暂停向东南亚四个国家出口服务器。这一消息基于知情人士透露，旨在调整其在该地区的芯片供应策略，但目前路透社尚未能独立核实该报道的具体细节。\n\n链接: https://www.channelnewsasia.com/business/nvidia-halts-chip-shipments-southeast-asia-ft-reports-6584251",
+        "date": "2026-11-26 18:09:04+08:00"
+    },
+    {
         "title": "【泰国】曼谷油库发生剧烈爆炸致七人受伤",
         "body": "周四，泰国曼谷东部的一处油库发生剧烈爆炸，导致七人受伤，其中四人伤势危重。事发地点为泰国邦楚克集团（Bangchak Corporation）运营的炼油厂，该工厂是泰国位于城市区域内唯一的炼油设施。当地紧急医疗中心报告了四例“红色”（危重）和四例“黄色”（较轻）病例。目击者称看到巨大的火球和浓烟升起，爆炸的震波甚至使数公里外的门窗震动。事发后，邦楚克集团立即关闭了所有生产单元，火灾随后被扑灭，局势正在恢复正常，事故原因正在调查中，曼谷大都会行政局建议居民避开该区域。\n\n链接: https://www.channelnewsasia.com/asia/bangkok-thailand-oil-refinery-fire-explosion-6584656",
         "date": "2026-11-26 18:04:38+08:00"
@@ -4993,10 +4998,5 @@
         "title": "【美国】Signal 默认封锁 Apple 和 Google AI 截图功能以应对隐私“生存威胁”",
         "body": "加密通讯应用 Signal 宣布默认封锁苹果和谷歌操作系统中 AI 助手对用户消息的截图及屏幕扫描功能，以防止其数据被用于人工智能训练或处理。Signal 基金会主席梅雷迪思·惠塔克（Meredith Whitaker）表示，这些操作系统的“代理式”AI 集成正在恶化隐私环境，对 Signal 构成“生存威胁”。此举紧随去年 Signal 对微软 Recall 功能采取类似限制措施之后，旨在防止 Siri、Gemini 等 AI 智能体读取屏幕上的敏感信息。Signal 同时呼吁苹果、谷歌和微软提供明确的技术工具和文档，允许开发者选择退出 AI 数据访问并处理。\n\n链接: https://cyberscoop.com/signal-blocks-apple-google-ai-screenshots/",
         "date": "2026-11-21 05:16:50+08:00"
-    },
-    {
-        "title": "【美国】美陆军发布新指南以加强基地与地方政府在灾前的协调合作",
-        "body": "美国陆军发布了《国防关键基础设施社区协调指南》，旨在指导其288个基地、哨所和站点如何在灾难发生前与当地机构创建协调机制。该指南在陆军第二次国防关键基础设施（DCI）峰会后发布，强调陆军运营高度依赖当地的燃料、水电等民用系统。官方指出，通过提前与当地伙伴创建联系，可确保在危机中维持关键任务。此外，会议还重点讨论了反无人机系统（counter-UAS）的保护与训练，涉及“国内盾牌”计划及“堡垒美国”（FORTRESS America）国内安全项目，以应对针对关键基础设施的潜在威胁。\n\n链接: https://www.defenseone.com/threats/2026/11/new-guide-lays-out-how-army-installations-can-coordinate-local-agencies-disaster-strikes/417377/",
-        "date": "2026-11-21 05:19:20+08:00"
     }
 ]
